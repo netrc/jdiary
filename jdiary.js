@@ -87,14 +87,18 @@ function doJSON(data, status) {
 		data = JSON.parse(data);
 	}
 	g.jd = data;
-	g.currPage = 0;
 	g.lastPageAvail = g.jd.length-1;
+	anchorData = location.href.replace(/.*#/,"");
+	// if anchorData is a date, try and set that global currPage in doJSON
+	// else start at 0
+	g.currPage = 0;
 	showEntry();
 }
 function initPage(){
 	//$("#next").click(setView);
 	$("#next").click(nextEntry);
 	$("#prev").click(prevEntry);
+	console.log("URL=: " + location.href);
 	$.get(g.dataURL, doJSON);
 }
 
