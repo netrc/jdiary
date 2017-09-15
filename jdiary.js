@@ -83,7 +83,10 @@ function doJSON(data, status) {
 		console.log("get json error: " + status);
 		return;
 	}
-	g.jd = JSON.parse(data);
+	if (typeof(data) === "string") {  // local python http doesn't return JSON
+		data = JSON.parse(data);
+	}
+	g.jd = data;
 	g.currPage = 0;
 	g.lastPageAvail = g.jd.length-1;
 	showEntry();
