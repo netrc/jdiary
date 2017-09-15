@@ -21,13 +21,14 @@ var g = {   // The Global State (boo!)
 	currPage: 0,
 	lastPageAvail: 0,
 	currLocTag: '',
-	gMapUrl: "https://www.google.com/maps/d/embed?mid=1gq6dzgv8SMbpdThRQ4nj9U8zT_A"
+	gMapUrl: "https://www.google.com/maps/d/embed?mid=1gq6dzgv8SMbpdThRQ4nj9U8zT_A",
+	jd: dd
 }
 
 function setView() {
 	var m = $("#map");
 	var mod = "&ll=51.75830779657324%2C-1.2635350191405905&z=14";
-	var thisLocTag = dd[g.currPage].locTag;
+	var thisLocTag = g.jd[g.currPage].locTag;
 	if (g.currLocTag != thisLocTag) {
 		g.currLocTag = thisLocTag;
 		var mm = ltag[thisLocTag];
@@ -36,7 +37,7 @@ function setView() {
 }
 
 function showEntry() {
-	var thisDD = dd[g.currPage];
+	var thisDD = g.jd[g.currPage];
 	$("#mainDate").html(thisDD.showDate);
 	$("#intro").html(thisDD.text);
 	if (thisDD.hasOwnProperty('note')) {
@@ -66,8 +67,9 @@ function doJSON(data, status) {
 		console.log("get json error: " + status);
 		return;
 	}
+	g.jd = data;
 	g.currPage = 0;
-	g.lastPageAvail = dd.length-1;
+	g.lastPageAvail = g.jd.length-1;
 	showEntry();
 }
 function initPage(){
