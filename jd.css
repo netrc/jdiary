@@ -1,0 +1,55 @@
+
+#mainText, #mainTextBackground {
+	position: absolute;
+	left: 10px;
+	top: 10px;
+	padding: 10px;
+	height: 500px;
+	width: 300px;
+}
+#mainText {
+	z-index: 100;
+}
+#mainTextBackground {
+	z-index: 50;
+	background: #CCC;
+	border-radius: 20px;
+	opacity: 0.9;  
+}
+#mainPane {
+	position: absolute;
+	left: 331px; # or 331
+	top: 80px;
+	z-index: 20;
+}
+
+body {
+	background: #16222A; /* fallback for old browsers */
+	background: linear-gradient(to right, #16222A , #3A6073);   }
+	body, html {
+	font-family: sans-serif;
+	color: #99BBBB;
+}
+h2 {
+	font-family: 'Alegreya Sans', sans-serif;
+	color: #111;
+}
+footer {
+	width: 100%;
+	bottom: 0;
+	position: absolute;
+}
+.intro {
+	font-family: 'Alegreya Sans', sans-serif;
+	color: #010101;
+}
+.note {
+	font-family: 'Alegreya Sans', sans-serif;
+	font-style: italic;
+	color: #111;  
+}
+.navb {
+	position: relative;
+	right: 0px;
+	border-radius: 8px;
+}
