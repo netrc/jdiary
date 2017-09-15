@@ -17,33 +17,49 @@ text: "more text"}
 ];
 
 var g = {   // The Global State (boo!)
-	dataUrl: "https://netrc.github.io/jdiary/dtest.json",
+	//dataUrl: "https://netrc.github.io/jdiary/dtest.json",
+	dataURL: "dtest.json",   // relative to current URL
 	currPage: 0,
 	lastPageAvail: 0,
 	currLocTag: '',
 	gMapUrl: "https://www.google.com/maps/d/embed?mid=1gq6dzgv8SMbpdThRQ4nj9U8zT_A",
-	jd: dd
+	jd: {}
+}
+
+function convertMarkdown( s ) {
+	// newlines to <p>
+	let ns = s.replace(/\n/g,"<p>");
+	// URLs with labels
+	ns = ns.replace(/\[(.*?)\|(.*?)\]/g,"<a href=\"$2\"> $1 </a>");
+	// simple URLs
+	ns = ns.replace(/\[(.*?)\]/g,"<a href=\"$1\"> $1 </a>");
+
+	return ns;
+}
+function convertNoteMarkdown( s ) {
+	return "<br><hr><br>" + convertMarkdown(s);
 }
 
 function setView() {
 	var m = $("#map");
-	var mod = "&ll=51.75830779657324%2C-1.2635350191405905&z=14";
-	var thisLocTag = g.jd[g.currPage].locTag;
-	if (g.currLocTag != thisLocTag) {
-		g.currLocTag = thisLocTag;
-		var mm = ltag[thisLocTag];
-		m.attr("src",g.gMapUrl+mm)
+	if( g.jd[g.currPage].hasOwnProperty("locTag") ) {
+		var thisLocTag = g.jd[g.currPage].locTag;
+		if (g.currLocTag != thisLocTag) {
+			g.currLocTag = thisLocTag;
+			var mm = ltag[thisLocTag];
+			m.attr("src",g.gMapUrl+mm)
+		}
 	}
 }
 
 function showEntry() {
 	var thisDD = g.jd[g.currPage];
 	$("#mainDate").html(thisDD.showDate);
-	$("#intro").html(thisDD.text);
-	if (thisDD.hasOwnProperty('note')) {
-		$("#note").html(thisDD.note);  
+	$("#intro").html(convertMarkdown(thisDD.text));
+	if (thisDD.hasOwnProperty('notes')) {
+		$("#note").html(convertNoteMarkdown(thisDD.notes));  
 	} else {
-		$("#note").html("xxx");        
+		$("#note").html("(no note)");        
 	}
 	setView();
 	// move map to new view if needed
@@ -67,7 +83,7 @@ function doJSON(data, status) {
 		console.log("get json error: " + status);
 		return;
 	}
-	g.jd = data;
+	g.jd = JSON.parse(data);
 	g.currPage = 0;
 	g.lastPageAvail = g.jd.length-1;
 	showEntry();
