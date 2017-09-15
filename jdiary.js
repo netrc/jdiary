@@ -17,6 +17,7 @@ text: "more text"}
 ];
 
 var g = {   // The Global State (boo!)
+	dataUrl: "https://netrc.github.io/jdiary/dtest.json",
 	currPage: 0,
 	lastPageAvail: 0,
 	currLocTag: '',
@@ -60,13 +61,20 @@ function nextEntry() {
 		showEntry();    
 	}
 }
-function initPage(){
+function doJSON(data, status) {
+	if (status != "success") {
+		console.log("get json error: " + status);
+		return;
+	}
 	g.currPage = 0;
 	g.lastPageAvail = dd.length-1;
 	showEntry();
+}
+function initPage(){
 	//$("#next").click(setView);
 	$("#next").click(nextEntry);
 	$("#prev").click(prevEntry);
+	$.get(g.dataURL, doJSON);
 }
 
 $(document).ready(initPage); 
