@@ -8,7 +8,7 @@
 	"date":"1917-09-18",
 	"text":"1917 \n Left Mineola at 7:30 and boarded the Carmania at 11:30. Ship lifted anchor and we left New York. The Statue of Liberty soon faded in the distance and with it the last vistage of old U.S. How long before I shall see it again?",
 	"jtag":"001",
-	"notes":"See [RMS Carmania|https://en.wikipedia.org/wiki/RMS_Carmania_(1905)] and  [http://www.diannebauer.com/THE%20SHIPS/CARMANIA/CARMANIA.htm|a genealogists notes on the ship]"
+	"notes":"See [|RMS Carmania|https://en.wikipedia.org/wiki/RMS_Carmania_(1905)] and  [|http://www.diannebauer.com/THE%20SHIPS/CARMANIA/CARMANIA.htm|a genealogists notes on the ship]"
 },
 {
 	"date":"1917-09-19",
@@ -23,7 +23,7 @@
 {
 	"date":"1917-09-21",
 	"text":"Sept 21 - Still anchored. Played shuffle board most of the morning. At 4:00 we lifted anchor and again we were off. Leaving harbor was an impressive scene. The shore were lined with churning crowds and every ship gave us lusty hurrahs as we passed. As we passed the Admirals flag ship \"The The Colors\" was played followed by the \"Star Spangled Banner\" It made me proud to be from old U.S.A. There are fourteen ships in our convoy, one being a battle cruiser to protect against German raiders.",
-  "notes": "[To The Colors|https://www.youtube.com/watch?v=vSEVv9JfXaw]",
+  "notes": "[|To The Colors|https://www.youtube.com/watch?v=vSEVv9JfXaw]",
 	"jtag":"002"
 },
 {
@@ -34,7 +34,7 @@
 {
 	"date":"1917-09-23",
 	"text":"Sept 23 Sunday - A storm came up during the night and the ship rolls considerable. A good many are sea sick but I am keeping my feet well under me. Services were held in the dining hall by one of the ministers aboard. In the evening, we had a concert in the reading room and Mr. Sparling thrilled everyone by his playing. He is a wonderful player ranking third best in the world.\nA vessal which proved to be a fishing smack was sighted in the afternoon and our cruiser rushed over to inspect her. The cruiser is very variously painted. Bright colors appear promiscuiously at it looks as if they couldn't find enough paint of one color to paint her. At a little distance her outlines are very indistinct and it would be a hard toarget to hit. The transports are painted steel gray.",
-	"notes":"[https://en.wikipedia.org/wiki/Albert_Spalding_(violinist)] , [https://en.wikipedia.org/wiki/Dazzle_camouflage]",
+	"notes":"[|https://en.wikipedia.org/wiki/Albert_Spalding_(violinist)] , [|https://en.wikipedia.org/wiki/Dazzle_camouflage]",
 	"jtag":"003"
 },
 {
@@ -56,7 +56,7 @@
 {
 	"date":"1917-09-29",
   "text":"Sept 29 - Our convoy met us today. They are a trim looking lot of destroyers - ten English and two American. The British have three funnels while the American have four and area little longer. All are fast boats making from 35 to 40 knots an hour and have no trouble in running around our slow boats. The English take great pride in their warships and an amusing incident occured in connection therewith: An English lady who is aboard was talking to an officer about the destroyers and said they were the best in the world, far surpassing the American. \"Now look at that one,\" she said pointing to a four funneled destroyer off the starboard side. \"Isn't that the trimmest and neatest looking one you ever saw?\" The officer agrree that it was the best of the lot but the lady was quite taken aback when she was informed that it was an American destroyer.\nI feel quite a little safer now that they have arrived for this is really a dangerous region althought it is hard to realize it. It doesn't seem possible to sink a large steamer like this one but one small torpedo can do the business and leave few to tell the tale.\n Mines are more feared than submarines. When struck by a torpedo, the vessel sinks rather slowly while it is blown to pieces immediately upon striking a mine. I read the semaphoe signals between our boat and a destoryer and we were warned of a five mile area extending outward from a life buoy three miles off Fast head which is mined.\n There was a concert for the benefit of the families of British sailors who have been killed during the war. Wells sang and as usual brought the house down. The real treat however was Spalding's playing. He certainly is an artist with his violin and it is a real treat to hear him and much more to be embarked upon the same enterprise. War is a great equalizer. Before he would never play for less than $1,000 a night and now he is workig hard for $35 per month.",
-	"notes":"[https://en.wikipedia.org/wiki/Fastnet_Rock]",
+	"notes":"[|https://en.wikipedia.org/wiki/Fastnet_Rock]",
 	"jtag":"006"
 },
 {
@@ -80,7 +80,7 @@
 {
 	"date":"1917-10-03",
   "text":"Oct 3 - I was transported to Queens College today. 60 were sent to Queens and 90 to Christs. Ed Mooce, George Sherman, and myself have a large room on the fourth floor. The English seem to know little about stoves as far as I have been yet I have seen nothing but fire places. These giddy English people speak a batty funny language and it is jolly hard to understand them. It is almost like a foreign language and I have to listen with both ears to understand them. The fellows in school are fine chaps thought. I have met several Canadians from Windsor.\nWe all have to go through ground school again and will have six weeks here. It seems that all our work at Champaign was for naught. It ought to be easy for me however.",
-	"notes":"?? Champaign [http://www.atlasobscura.com/articles/haunting-photos-of-an-abandoned-air-force-base] ,  [https://en.wikipedia.org/wiki/Chanute_Air_Force_Base]",
+	"notes":"?? Champaign [|http://www.atlasobscura.com/articles/haunting-photos-of-an-abandoned-air-force-base] ,  [|https://en.wikipedia.org/wiki/Chanute_Air_Force_Base]",
 	"jtag":"2"
 },
 {
@@ -101,6 +101,7 @@
 {
 	"date":"1917-10-07",
   "text":"Oct 7 Sunday - Could and rainy. I went to an Episcopal Church in the morning. In the afternoon I took a walk out into the country along the bank of the Thames and had to pay a half penny toll to cross a bridge. The old fashion waterwheels and dams were very interesting.",
+	"notes":"On This Day: No mention of 3rd Battles of Ypres (Oct 6) with 250,000 total casualties",
 	"jtag":"2"
 },
 {
@@ -122,13 +123,13 @@
 {
 	"date":"1917-10-15",
    	"text":"Oct 15 - They seem determined to make English men out of us. We have to buy a whip cord uniform, a split ___ cap and a sam browne belt. \nExams in Aerial of to morrow and I'll have to study a little as we get posted to flying squadrons a week from Monday if our studies warrant it.",
-	"notes":"[Example of military uniform|https://militaryantiquesmuseum.com/uniforms-uu614-wwi-era-us-army-enlistedmans-whipcord-uniform.16444.84.military-antiques] and the [Sam Browne Belt|https://en.wikipedia.org/wiki/Sam_Browne_belt",
+	"notes":"[|Example of military uniform|https://militaryantiquesmuseum.com/uniforms-uu614-wwi-era-us-army-enlistedmans-whipcord-uniform.16444.84.military-antiques] and the [|Sam Browne Belt|https://en.wikipedia.org/wiki/Sam_Browne_belt",
 	"jtag":"2"
 },
 {
 	"date":"1917-10-17",
    	"text":"Oct 17 - Still raining. It is a real treat to study under these officers who have seen service and know what they are talking about. Time spent here will not be wasted after all I guess. It will all eb of service when I get to the front next spring. One of the members of the Lafyette Esquadrille was here today.",
-	"notes":"[Lafayette Escadrille|https://en.wikipedia.org/wiki/Lafayette_Escadrille]",
+	"notes":"[|Lafayette Escadrille|https://en.wikipedia.org/wiki/Lafayette_Escadrille]",
 	"jtag":"2"
 },
 {
@@ -139,7 +140,7 @@
 {
 	"date":"1917-10-19",
   "text":"Oct 19 - We got a little taste of Zeppelin raids last night. The lights went out at 9:30 and the warning was given that the Huns were raiding London and had headed this way. They didn't get here but came to a village about 12 mileas east. No one was very scared. I went to bed the same as usual for staying up wouldn't keep them away and didn't have much trouble getting to sleep.",
-	"notes":"Actually, this was the night of the largest Zeppelin fleet to attack England in WWI. [https://en.wikipedia.org/wiki/German_strategic_bombing_during_World_War_I#Night_raids] , [largest fleet to attack UK on Oct 19 |https://www.theguardian.com/news/2011/oct/16/weatherwatch-zeppelin-air-raid-first-world-war], [general search|https://www.google.com/search?q=zeppelin+raid+london+october+19+1917&oq=zeppelin+raid+london+october+19+1917&aqs=chrome..69i57.8831j0j4&sourceid=chrome&ie=UTF-8] , [http://lewishamwarmemorials.wikidot.com/incident:air-raid-ww1-19-20-october-1917],[http://londonist.com/2010/07/wwi_airship_attacks_on_london_mappe],[http://www.bridgetonowhere.friendsofburgesspark.org.uk/the-story-of-burgess-park-heritage-trail/heritage-trail-a-l/bomb-damage/]",
+	"notes":"Actually, this was the night of the largest Zeppelin fleet to attack England in WWI. [|https://en.wikipedia.org/wiki/German_strategic_bombing_during_World_War_I#Night_raids] , [|largest fleet to attack UK on Oct 19 |https://www.theguardian.com/news/2011/oct/16/weatherwatch-zeppelin-air-raid-first-world-war], [|general search|https://www.google.com/search?q=zeppelin+raid+london+october+19+1917&oq=zeppelin+raid+london+october+19+1917&aqs=chrome..69i57.8831j0j4&sourceid=chrome&ie=UTF-8] , [|http://lewishamwarmemorials.wikidot.com/incident:air-raid-ww1-19-20-october-1917],[|http://londonist.com/2010/07/wwi_airship_attacks_on_london_mappe],[|http://www.bridgetonowhere.friendsofburgesspark.org.uk/the-story-of-burgess-park-heritage-trail/heritage-trail-a-l/bomb-damage/]",
 	"jtag":"2"
 },
 {
@@ -160,6 +161,7 @@
 {
 	"date":"1917-11-01",
   "text":"Nov 1 - Pay day again. It has been a short month but pay came just in time.",
+	"notes":"On This Day: US troops suffered first casualties in France",
 	"jtag":"2"
 },
 {
@@ -169,12 +171,12 @@
 },
 {
 	"date":"1917-11-03",
-  "text":"Nov 3 - We left Oxford at 9:30 after a strenuous time packing up and getting our baggage away. Arrived at [Grantham|https://en.wikipedia.org/wiki/Grantham] at 4:30 and were met at the station by a band. Marching up the street behind real music again was a real treat and was a good indication of teh treatment we are to get here. When we arrived at the camp which is in a valley just outside the city, a fine warm meal awaited us. We are officers in treatmnet if not in fact. The white band is off of our PFC caps and we wear our best uniforms and the lower half of the Sam Browne Belt. Incidentaly, they drew a number of salutes from the \"privates\". We have officers mess and quarters and a batman to wait on us, make bed, shine shoes and belts and call us \"sir\".",
+  "text":"Nov 3 - We left Oxford at 9:30 after a strenuous time packing up and getting our baggage away. Arrived at [|Grantham|https://en.wikipedia.org/wiki/Grantham] at 4:30 and were met at the station by a band. Marching up the street behind real music again was a real treat and was a good indication of teh treatment we are to get here. When we arrived at the camp which is in a valley just outside the city, a fine warm meal awaited us. We are officers in treatmnet if not in fact. The white band is off of our PFC caps and we wear our best uniforms and the lower half of the Sam Browne Belt. Incidentaly, they drew a number of salutes from the \"privates\". We have officers mess and quarters and a batman to wait on us, make bed, shine shoes and belts and call us \"sir\".",
 	"jtag":"2"
 },
 {
 	"date":"1917-11-04",
-  "text":"Nov 4 Sunday - I took a walk out into the country to get acclimated a little. Grantham lies in a valley surrounded by hills and a wonderfull view is obtained from the hill below us. The English have a queer way to walks - They do not follow the road but follow the fences across fields. Being used to private fields this seems funny to me to be walking across some one elses property. I cam across air instructors flying field in the course of my stroll and was interested in seeing the bad landings many made. They had several [De H 4's|https://en.wikipedia.org/wiki/Airco_DH.4], De H 8's, [B E^2 C's|https://en.wikipedia.org/wiki/Royal_Aircraft_Factory_B.E.2 ], [R E 8's|https://en.wikipedia.org/wiki/Royal_Aircraft_Factory_R.E.8] and De H Scouts.\n I met an American from Chicago who is a British Captain at tea and was very interested in his experiences. He was with [(Pancho) Villa|https://en.wikipedia.org/wiki/Pancho_Villa] while he was in power in Mexico and has been in this war since the start being wounded 5 times. He looks on it as great sport but I can hardly see it that way yet.",
+  "text":"Nov 4 Sunday - I took a walk out into the country to get acclimated a little. Grantham lies in a valley surrounded by hills and a wonderfull view is obtained from the hill below us. The English have a queer way to walks - They do not follow the road but follow the fences across fields. Being used to private fields this seems funny to me to be walking across some one elses property. I cam across air instructors flying field in the course of my stroll and was interested in seeing the bad landings many made. They had several [|De H 4's|https://en.wikipedia.org/wiki/Airco_DH.4], De H 8's, [|B E^2 C's|https://en.wikipedia.org/wiki/Royal_Aircraft_Factory_B.E.2 ], [|R E 8's|https://en.wikipedia.org/wiki/Royal_Aircraft_Factory_R.E.8] and De H Scouts.\n I met an American from Chicago who is a British Captain at tea and was very interested in his experiences. He was with [|(Pancho) Villa|https://en.wikipedia.org/wiki/Pancho_Villa] while he was in power in Mexico and has been in this war since the start being wounded 5 times. He looks on it as great sport but I can hardly see it that way yet.",
 	"notes":"See https://en.wikipedia.org/wiki/Airco - no DH.8 listed",
 	"jtag":"2"
 },
@@ -201,13 +203,13 @@
 },
 {
 	"date":"1917-11-18",
-  "text":"Nov 18 - Left Grantham at 8:30 for [Thetford|https://en.wikipedia.org/wiki/Thetford], missed connections at [Petersboro|https://en.wikipedia.org/wiki/Peterborough] and had to wait 4 hours. After changing again at [Ely|https://en.wikipedia.org/wiki/Ely,_Cambridgeshire] we finally got here at 3:00. Thetford is smaller than Grantham and seems just as dead. The flying field is 2 miles east of town so perhaps I can save a bit of money.",
+  "text":"Nov 18 - Left Grantham at 8:30 for [|Thetford|https://en.wikipedia.org/wiki/Thetford], missed connections at [|Petersboro|https://en.wikipedia.org/wiki/Peterborough] and had to wait 4 hours. After changing again at [|Ely|https://en.wikipedia.org/wiki/Ely,_Cambridgeshire] we finally got here at 3:00. Thetford is smaller than Grantham and seems just as dead. The flying field is 2 miles east of town so perhaps I can save a bit of money.",
 	"jtag":"2"
 },
 {
 	"date":"1917-11-20",
-  "text":"Nov 20 - The machines here are all pushers, [Morris Farnums|https://en.wikipedia.org/wiki/Farman_MF.11] or Rumpsters (?) as they call them. It was windy today so I didn't get a chance to go up. I'll probably get plenty of it in the next few days. Classes are from 9 - 1 and 2 - 3. Same old stuff. I am beginning to get fed up with it.",
-	"notes":"\"Rumpsters\" because the propellor pushes from the rear (rump!) - [https://en.wikipedia.org/wiki/Pusher_configuration]",
+  "text":"Nov 20 - The machines here are all pushers, [|Morris Farnums|https://en.wikipedia.org/wiki/Farman_MF.11] or Rumpsters (?) as they call them. It was windy today so I didn't get a chance to go up. I'll probably get plenty of it in the next few days. Classes are from 9 - 1 and 2 - 3. Same old stuff. I am beginning to get fed up with it.",
+	"notes":"\"Rumpsters\" because the propellor pushes from the rear (rump!) - [|https://en.wikipedia.org/wiki/Pusher_configuration]",
 	"jtag":"2"
 },
 {
@@ -227,14 +229,14 @@
 },
 {
 	"date":"1917-12-01",
-   	"text":"Dec 1 - I got back from London early this morning and found there had been flying yesterday. Not enough to make any difference though. It did seem good to [see] civilization again. London is quite a place and the crowds, taxis, and cars seemed like home again. I had a very nice room at [The Picadilly Hotel|http://www.thepiccadillywestend.co.uk] for 8/6 and saw a very good play called [Theodore and Co.|https://en.wikipedia.org/wiki/Theodore_%26_Co].\n Unlike most American cities, London has very few high buildings. The streets careen every which way and end up in either a square or a circus. Picadilly or Oxford circus are not shows as supposed but simply a square or where a number of streets converge.\nAt night numbers of search lights search the sky for Zeps. Fortuntely, none came while I was there. I met an American from ??? Brouton ??? who was bound for the states after four months service in the ambulance corps in France and it made me sort of homesick to go back with him. He has not had enough yet and is going back to join the Aviators Corps.",
-	"notes":"\"Theodore & Co.\" was a very successful show, music by Jerome Kern. It played at [The Gaiety Theatre|https://en.wikipedia.org/wiki/Gaiety_Theatre,_London]. See [http://www.guidetomusicaltheatre.com/shows_t/theodore.htm]",
+   	"text":"Dec 1 - I got back from London early this morning and found there had been flying yesterday. Not enough to make any difference though. It did seem good to [see] civilization again. London is quite a place and the crowds, taxis, and cars seemed like home again. I had a very nice room at [|The Picadilly Hotel|http://www.thepiccadillywestend.co.uk] for 8/6 and saw a very good play called [|Theodore and Co.|https://en.wikipedia.org/wiki/Theodore_%26_Co].\n Unlike most American cities, London has very few high buildings. The streets careen every which way and end up in either a square or a circus. Picadilly or Oxford circus are not shows as supposed but simply a square or where a number of streets converge.\nAt night numbers of search lights search the sky for Zeps. Fortuntely, none came while I was there. I met an American from ??? Brouton ??? who was bound for the states after four months service in the ambulance corps in France and it made me sort of homesick to go back with him. He has not had enough yet and is going back to join the Aviators Corps.",
+	"notes":"\"Theodore & Co.\" was a very successful show, music by Jerome Kern. It played at [|The Gaiety Theatre|https://en.wikipedia.org/wiki/Gaiety_Theatre,_London]. See [|http://www.guidetomusicaltheatre.com/shows_t/theodore.htm]",
 
 	"jtag":"2"
 },
 {
 	"date":"1917-12-08",
-   	"text":"Saturday Dec 8 - I had a fine ride today. Le. Whally and I went on a cross country trop south and west. We passed over [Bury St. Edmunds|https://en.wikipedia.org/wiki/Bury_St_Edmunds] at 6,000 ft. and although it is quite a large place it looked very small. We landed near a small village and had tea. The inhabitants looked at us as if we were strangers from another planet. It was really quite a lot of good fun to be looked at so. I have often watched [other] aviators in the past. When we got back we found that Capt. Creed our Flight Commander and Roberts had had a crash. Capt. Creed was quite badly hurt but Roberts escaped with a shaking up. He was really quite misakldfjlajf?? as the machine was a total wreck. They got in to a side slip too close to the ground.",
+   	"text":"Saturday Dec 8 - I had a fine ride today. Le. Whally and I went on a cross country trop south and west. We passed over [|Bury St. Edmunds|https://en.wikipedia.org/wiki/Bury_St_Edmunds] at 6,000 ft. and although it is quite a large place it looked very small. We landed near a small village and had tea. The inhabitants looked at us as if we were strangers from another planet. It was really quite a lot of good fun to be looked at so. I have often watched [other] aviators in the past. When we got back we found that Capt. Creed our Flight Commander and Roberts had had a crash. Capt. Creed was quite badly hurt but Roberts escaped with a shaking up. He was really quite misakldfjlajf?? as the machine was a total wreck. They got in to a side slip too close to the ground.",
 	"jtag":"2"
 },
 {
@@ -249,7 +251,7 @@
 },
 {
 	"date":"1917-12-11",
-	"text":"Tuesday Dec 11 - Early flying but we found no instructors at the sheds. Was up for an hour at noon and took part in a formation flight. Pretty xxxg..py though. I made 3 landings afterwards. Minchin ?@? an English chap from London had a bad craash today. He got into a node dive and couldn't pull it out. I hope it didn't make him forget the L5 [pounds] he owes me. Sols ?!?!? tomorrow if all goes well.",
+	"text":"Tuesday Dec 11 - Early flying but we found no instructors at the sheds. Was up for an hour at noon and took part in a formation flight. Pretty xxxg..py though. I made 3 landings afterwards. Minchin ?@? an English chap from London had a bad craash today. He got into a node dive and couldn't pull it out. I hope it didn't make him forget the &#1635 he owes me. Sols ?!?!? tomorrow if all goes well.",
 	"jtag":"2"
 },
 {
@@ -265,7 +267,7 @@
 },
 {
 	"date":"1917-12-15",
-	"text":"Dec 15 Saturday - Windy. no flying. I called up Geo Sherman at the [75th Sqd|https://en.wikipedia.org/wiki/No._75_Squadron_RAF] at [Elmswell|https://en.wikipedia.org/wiki/Elmswell,_Suffolk] and tried to get a bike to go over in the PM but couldn't. Had a fine letter from Uncle Frank and several [Pbads?!?!?] from Edith.",
+	"text":"Dec 15 Saturday - Windy. no flying. I called up Geo Sherman at the [|75th Sqd|https://en.wikipedia.org/wiki/No._75_Squadron_RAF] at [|Elmswell|https://en.wikipedia.org/wiki/Elmswell,_Suffolk] and tried to get a bike to go over in the PM but couldn't. Had a fine letter from Uncle Frank and several [Pbads?!?!?] from Edith.",
 	"jtag":"2"
 },
 {
@@ -275,25 +277,25 @@
 },
 {
 	"date":"1917-12-18",
- 	"text":"Dec 18 Tuesday - I got my transfer papers signed by the major and got leave for [Norwich|https://en.wikipedia.org/wiki/Norwich]. I have been recommended for a [Bristol Fighter|https://en.wikipedia.org/wiki/Bristol_F.2_Fighter]",
-	"notes":"The aerodrome was at [Mousehold Heath|https://en.wikipedia.org/wiki/Mousehold_Heath]",
+ 	"text":"Dec 18 Tuesday - I got my transfer papers signed by the major and got leave for [|Norwich|https://en.wikipedia.org/wiki/Norwich]. I have been recommended for a [|Bristol Fighter|https://en.wikipedia.org/wiki/Bristol_F.2_Fighter]",
+	"notes":"The aerodrome was at [|Mousehold Heath|https://en.wikipedia.org/wiki/Mousehold_Heath]",
 	"jtag":"2"
 },
 {
 	"date":"1917-12-19",
-	"text":"Dec 19 Wednesday - Norwich is quite a city. Street cars, buses and crowds. I went to the cinema in the afternoon. Morrison and I had dinner at [The Royal|https://en.wikipedia.org/wiki/Royal_Hotel,_Norwich] with Lt. Col G. H Bower and his wife. I was quite surprised to hear that she was a sister of Mary Garden. They were quite insistent that we come out and see them some time. Came back to Thetford on the 10:24",
-	"notes":"Mary Garden was a world renowned opera singer - [https://en.wikipedia.org/wiki/Mary_Garden]",
+	"text":"Dec 19 Wednesday - Norwich is quite a city. Street cars, buses and crowds. I went to the cinema in the afternoon. Morrison and I had dinner at [|The Royal|https://en.wikipedia.org/wiki/Royal_Hotel,_Norwich] with Lt. Col G. H Bower and his wife. I was quite surprised to hear that she was a sister of Mary Garden. They were quite insistent that we come out and see them some time. Came back to Thetford on the 10:24",
+	"notes":"Mary Garden was a world renowned opera singer - [|https://en.wikipedia.org/wiki/Mary_Garden]",
 	"jtag":"2"
 },
 {
 	"date":"1917-12-21",
-	"text":"Dec 21 Friday - Orders came to go to 74 T.S. at [London Colney|https://en.wikipedia.org/wiki/London_Colney]. Left Thetford at 2:30 [xxx?] London. Could hardly find anyone who had hard of the bally place at London but finally found a taxu driver who had heard of it. Finally arrived here at 7:30. It is an out of the way place between Radlett and St. Auberns [St. Albans]",
+	"text":"Dec 21 Friday - Orders came to go to 74 T.S. at [|London Colney|https://en.wikipedia.org/wiki/London_Colney]. Left Thetford at 2:30 [xxx?] London. Could hardly find anyone who had hard of the bally place at London but finally found a taxu driver who had heard of it. Finally arrived here at 7:30. It is an out of the way place between Radlett and St. Auberns [St. Albans]",
 	"notes":"Only at Norwich for three days! Actually, the new aerodrome was at [Shenlybury|https://en.wikipedia.org/wiki/Shenley,_Hertfordshire], see [https://shenleyww1.wordpress.com/royal-flying-corps-at-shenley/]\nAnd note the use of [\"bally\"|https://en.wiktionary.org/wiki/bally], a nice, somewhat classier version of \"bloody\"",
 	"jtag":"2"
 },
 {
 	"date":"1917-12-22",
-	"text":"Dec 22 Saturday - Reported to the adjutant and was assigned to B Flight. This is a scout squadron and fly [Avros|http://www.wwiaviation.com/Avro-2.html], [Sop. Pups|https://en.wikipedia.org/wiki/Sopwith_Pup], and [S.E.5's|https://en.wikipedia.org/wiki/Royal_Aircraft_Factory_S.E.5]. The SE.5 is a great machine making 135 M.P.H. level and dives at 250. Parades at 9 and 2.",
+	"text":"Dec 22 Saturday - Reported to the adjutant and was assigned to B Flight. This is a scout squadron and fly [|Avros|http://www.wwiaviation.com/Avro-2.html], [|Sop. Pups|https://en.wikipedia.org/wiki/Sopwith_Pup], and [|S.E.5's|https://en.wikipedia.org/wiki/Royal_Aircraft_Factory_S.E.5]. The SE.5 is a great machine making 135 M.P.H. level and dives at 250. Parades at 9 and 2.",
 	"jtag":"2"
 },
 {
@@ -304,7 +306,7 @@
 {
 	"date":"1917-12-24",
 	"text":"Dec 24. Left for London on the bus. It is not a comfortable way to travel but it is 2-1/2 miles to Radlett to the trains. I stayed at Faulkner's Hotel on Charing Cross. There were a number of soldiers and officers on Xmas leave from the front and it was quite interesting to talk with them. I went to the Strand in the evening and saw \"Wild Heaather\".",
-	"notes":"By the 1920s, Faulkner's hotel was in an area known as [https://tricksterprince.wordpress.com/2014/01/22/the-worst-street-in-1920s-london/|the worst street in London!]\n[Wild Heather|https://en.wikipedia.org/wiki/Wild_Heather] was a drama; see [https://theatricalia.com/play/2mh/wild-heather]",
+	"notes":"By the 1920s, Faulkner's hotel was in an area known as [|https://tricksterprince.wordpress.com/2014/01/22/the-worst-street-in-1920s-london/|the worst street in London!]\n[|Wild Heather|https://en.wikipedia.org/wiki/Wild_Heather] was a drama; see [|https://theatricalia.com/play/2mh/wild-heather]",
 	"jtag":"2"
 },
 {
@@ -329,18 +331,19 @@
 },
 {
 	"date":"1918-01-08",
-	"text":"Jan 8 1918 - Well "Old book." I have been neglecting you. Flying is awfully slow. I have only had 10 minutes on ground but Fellis (??) was burned to a cinder. Doc says he thins Fred will pull through although he is badly burned.",
+	"text":"Jan 8 1918 - Well \"Old book.\" I have been neglecting you. Flying is awfully slow. I have only had 10 minutes on ground but Fellis (??) was burned to a cinder. Doc says he thins Fred will pull through although he is badly burned.",
 	"jtag":"2"
 },
 {
 	"date":"1918-02-16",
 	"text":"Feb 16 - De Garneo, 56, was killed in a Spad near Radlett this A.M. Engnine knocked out.",
+	"notes":"On This Day: ?? Feb 10, Soviet Union declares it is leaving the Allies",
 	"jtag":"2"
 },
 {
 	"date":"1918-02-17",
 	"text":"Feb 17 - Now that the moon is up the Gothas are over again. They got the Midland Hotel and St. Pancras Station last night. About 40 killed. Morrison, Matheson, and Roberts did their cross country this afternoon and came back in fog.",
-	"notes":"See [https://en.wikipedia.org/wiki/Gotha_G.V] , [https://en.wikipedia.org/wiki/German_strategic_bombing_during_World_War_I#1918] , Apparently actually [https://en.wikipedia.org/wiki/Zeppelin-Staaken_R.VI]"
+	"notes":"See [|https://en.wikipedia.org/wiki/Gotha_G.V] , [|https://en.wikipedia.org/wiki/German_strategic_bombing_during_World_War_I#1918] , Apparently actually [|https://en.wikipedia.org/wiki/Zeppelin-Staaken_R.VI]"
  }
 ,
 {
@@ -356,7 +359,7 @@
 {
 	"date":"1918-02-23",
 	"text":"Feb 23 - Fred Stillman died today. 15 days after the crash. It was a shock to everyone as he had been recoverying rapidly the last few days. Nial and [I did a] cross country trip today. Since I had been to Northolt before, I was elected leader. We ran into a snow storm after leaving Northholt and got lost, landed at Brooklys ?? and after getting our bearings arrived safely at Hounslow. I brought Darcy back from Northholt with me. All the Avros and Pups are being sent away. Darcy took 4439 back to Northholt with him.",
-	"notes":"[https://en.wikipedia.org/wiki/Hounslow] - ?? when was JFC at Northholt ? - ?? Where is Brooklyn ?!?",
+	"notes":"[|https://en.wikipedia.org/wiki/Hounslow] - ?? when was JFC at Northholt ? - ?? Where is Brooklyn ?!?",
 	"jtag":"2"
 },
 {
@@ -372,7 +375,7 @@
 {
 	"date":"1918-03-25",
 	"text":"Mar 25. Graduated on Pups today. Went on leave for 4 days to Salisbury.",
-	"notes":"[https://en.wikipedia.org/wiki/Salisbury]",
+	"notes":"[|https://en.wikipedia.org/wiki/Salisbury]. On This Day - March 21-28 German Somme Offensive.",
 	"jtag":"2"
 },
 {
@@ -393,7 +396,7 @@
 {
 	"date":"1918-05-18",
 	"text":"May 18 - Curtis Wicks and myself started for school of aerial gunnery at Mas???",
-	"notes":"[https://en.wikipedia.org/wiki/Marske,_Richmondshire]",
+	"notes":"[|https://en.wikipedia.org/wiki/Marske,_Richmondshire]",
 	"jtag":"2"
 },
 {
@@ -404,12 +407,13 @@
 {
 	"date":"1918-06-16",
 	"text":"June 16 - Lt. Turner, an Australian in the R.I.F.F?? was killed in a pup today. Spun into the ground and caught fire.",
+	"notes":"On This Day: June 1 - Canadian Lt. Billy Bishop down's six planes over three days.",
 	"jtag":"2"
 },
 {
 	"date":"1918-06-19",
 	"text":"June 19 - Wicks Forester and myself started for Dover to fly Camels.",
-	"notes":"[https://en.wikipedia.org/wiki/Dover] , Possibly, [https://en.wikipedia.org/wiki/RAF_Wye]",
+	"notes":"[|https://en.wikipedia.org/wiki/Dover] , Possibly, [|https://en.wikipedia.org/wiki/RAF_Wye]",
 	"jtag":"2"
 },
 {
@@ -420,7 +424,7 @@
 {
 	"date":"1918-06-25",
 	"text":"June 25 - Sick with the flue.",
-	"notes":"Note this is during the [great flu pandemic across Europe and America|https://en.wikipedia.org/wiki/1918_flu_pandemic]. No other mention in this diary of the flu.",
+	"notes":"Note this is during the [|great flu pandemic across Europe and America|https://en.wikipedia.org/wiki/1918_flu_pandemic]. No other mention in this diary of the flu.",
 	"jtag":"2"
 },
 {
@@ -431,37 +435,35 @@
 {
 	"date":"1918-07-29",
 	"text":"July 29 - Wicks and myself started overseas. Reported to Hotel Cecil and received orders.",
-	"notes":"[Hotel Cecil, London|https://en.wikipedia.org/wiki/Hotel_Cecil_(London)]",
+	"notes":"[|Hotel Cecil, London|https://en.wikipedia.org/wiki/Hotel_Cecil_(London)]",
 	"jtag":"2"
 },
 {
 	"date":"1918-07-30",
-	"text":"July 30 - Crossed the Channel to Boulogne. Stayed the night at Hotel Maurice.",
-	"notes":"[Boulogne-sur-Mer|https://en.wikipedia.org/wiki/Boulogne-sur-Mer]. No trace of Hotel Maurice.",
+	"text":"July 30 - Crossed the Channel to [|Boulogne|https://en.wikipedia.org/wiki/Boulogne-sur-Mer]. Stayed the night at Hotel Maurice.",
+	"notes":"No trace of Hotel Maurice.",
 	"jtag":"2"
 },
 {
 	"date":"1918-07-31",
-	"text":"July 31 - Started for Dunkirk to 17th American Squadron \"Camels\"",
-	"notes":"[Dunkirk|https://en.wikipedia.org/wiki/Dunkirk]",
+	"text":"July 31 - Started for [|Dunkirk|https://en.wikipedia.org/wiki/Dunkirk] to 17th American Squadron \"Camels\"",
 	"jtag":"2"
 },
 {
 	"date":"1918-08-01",
 	"text":"France\n\nAug 1 - Reported to 17th American Squadron at Dunkirk, Lt. Eckert commanding.",
-	"notes":"The Aerodrome at Petite-Synth. ?? [http://www.49squadron.co.uk/airfields/af1_psynthe] ",
+	"notes":"The Aerodrome at Petite-Synth. ?? [|http://www.49squadron.co.uk/airfields/af1_psynthe] ",
 	"jtag":"2"
 },
 {
 	"date":"1918-08-03",
 	"text":"Aug 3 - 1st trip over lines, we got a good bit of archie and machine gun fire at Nieppe Forest. Saw no E.A.",
-	"notes":"E.A. == Enemy Aircraft.\nArchie == anti-aircraft fire;  See [https://english.stackexchange.com/questions/301554/why-is-german-anti-aircraft-fire-called-archibald]\n[Front line as of Aug 8|http://www.longlongtrail.co.uk/maps/allied18q.jpg]\nNieppe Forest, just north-west of [Merville|https://en.wikipedia.org/wiki/Merville,_Nord]\n[Nieppe|https://en.wikipedia.org/wiki/Nieppe]",
+	"notes":"E.A. == Enemy Aircraft.\nArchie == anti-aircraft fire;  See [|https://english.stackexchange.com/questions/301554/why-is-german-anti-aircraft-fire-called-archibald]\n[|Front line as of Aug 8|http://www.longlongtrail.co.uk/maps/allied18q.jpg]\nNieppe Forest, just north-west of [|Merville|https://en.wikipedia.org/wiki/Merville,_Nord]\n[|Nieppe|https://en.wikipedia.org/wiki/Nieppe]",
 	"jtag":"2"
 },
 {
 	"date":"1918-08-",
-	"text":"Aug 5 - Straffed trenches around Dixmude",
-	"notes":"[https://en.wikipedia.org/wiki/Diksmuide]",
+	"text":"Aug 5 - Straffed trenches around [|Dixmude|https://en.wikipedia.org/wiki/Diksmuide]",
 	"jtag":"2"
 },
 {
@@ -471,8 +473,8 @@
 },
 {
 	"date":"1918-08-14",
-	"text":"Aug 14 - Started work in earnest today. The first show was escorting [D.H.9 bombers|https://en.wikipedia.org/wiki/Airco_DH.9] to [Bruges|https://en.wikipedia.org/wiki/Bruges]. 5 Fokkers attack us over Bruges and we accounted for 3. I got my first Hun. Hamilton, Todd, and myself were all firing at him when he went down so I get credit for 1/3 hun destroyed officially. One Fokker which Wicks was firing at crashed into Case cutting off his tail plane. Both crashed to teh ground. Sherman failed to return. He was last seen going down after a hun.\nIn the afternoon we went on an offensive patrol and ran into 15 enemy aircraft which were scrapping a formation of Bristol Fighters. We joined in but every thing was so messed up that I couldn't tell where I was. Luckily none attacked me. I found myself up alone with 3 Fokkers everyone else having gone down but they didn't attack me so I left them alone.",
-	"notes":"Not sure what Fokkers, must have been a figher:  [https://en.wikipedia.org/wiki/Fokker_D.VI], [https://en.wikipedia.org/wiki/Fokker_D.VII], [https://en.wikipedia.org/wiki/Fokker_Dr.I]",
+	"text":"Aug 14 - Started work in earnest today. The first show was escorting [|D.H.9 bombers|https://en.wikipedia.org/wiki/Airco_DH.9] to [|Bruges|https://en.wikipedia.org/wiki/Bruges]. 5 Fokkers attack us over Bruges and we accounted for 3. I got my first Hun. Hamilton, Todd, and myself were all firing at him when he went down so I get credit for 1/3 hun destroyed officially. One Fokker which Wicks was firing at crashed into Case cutting off his tail plane. Both crashed to teh ground. Sherman failed to return. He was last seen going down after a hun.\nIn the afternoon we went on an offensive patrol and ran into 15 enemy aircraft which were scrapping a formation of Bristol Fighters. We joined in but every thing was so messed up that I couldn't tell where I was. Luckily none attacked me. I found myself up alone with 3 Fokkers everyone else having gone down but they didn't attack me so I left them alone.",
+	"notes":"Not sure what Fokkers, must have been a figher:  [|https://en.wikipedia.org/wiki/Fokker_D.VI], [|https://en.wikipedia.org/wiki/Fokker_D.VII], [|https://en.wikipedia.org/wiki/Fokker_Dr.I]",
 	"jtag":"2"
 },
 {
@@ -482,12 +484,12 @@
 },
 {
 	"date":"1918-08-16",
-	"text":"Aug 16 - Escorted DH9 to Bruges. Archie was fierce coming back but no one was brought down although several were hit. Went to [Calais|https://en.wikipedia.org/wiki/Calais] for dinner.",
+	"text":"Aug 16 - Escorted DH9 to Bruges. Archie was fierce coming back but no one was brought down although several were hit. Went to [|Calais|https://en.wikipedia.org/wiki/Calais] for dinner.",
 	"jtag":"2"
 },
 {
 	"date":"1918-08-17",
-	"text":"Aug 17 - Moved to [Auxi-Le-Chateau|https://en.wikipedia.org/wiki/Auxi-le-Ch%C3%A2teau] today. Our new front is between [Albert|https://en.wikipedia.org/wiki/Albert,_Somme] and [Arras|https://en.wikipedia.org/wiki/Arras] so we should have plenty of work.",
+	"text":"Aug 17 - Moved to [|Auxi-Le-Chateau|https://en.wikipedia.org/wiki/Auxi-le-Ch%C3%A2teau] today. Our new front is between [|Albert|https://en.wikipedia.org/wiki/Albert,_Somme] and [|Arras|https://en.wikipedia.org/wiki/Arras] so we should have plenty of work.",
 	"jtag":"2"
 },
 {
@@ -497,13 +499,13 @@
 },
 {
 	"date":"1918-08-20",
-	"text":"Aug 20 - Ferried a machine back from [Hesdin|https://en.wikipedia.org/wiki/Hesdin] and got lost near [Abbyville|https://en.wikipedia.org/wiki/Abbeville]. In the afternoon we had another look at the lines. Gave an exhibition for formation flying for Captain Dodge in the evening. Big show tomorrow. Our trooops are going to attack opposite.",
-	"notes":"The attack may have been the [https://en.wikipedia.org/wiki/Second_Battle_of_Bapaume]",
+	"text":"Aug 20 - Ferried a machine back from [|Hesdin|https://en.wikipedia.org/wiki/Hesdin] and got lost near [|Abbyville|https://en.wikipedia.org/wiki/Abbeville]. In the afternoon we had another look at the lines. Gave an exhibition for formation flying for Captain Dodge in the evening. Big show tomorrow. Our trooops are going to attack opposite.",
+	"notes":"The attack may have been the [|https://en.wikipedia.org/wiki/Second_Battle_of_Bapaume]",
 	"jtag":"2"
 },
 {
 	"date":"1918-08-21",
- 	"text":"Aug 21 - Misty in the morning so we did not have to go over. Our troops have advanced about 5 miles. Escorted [R.E 8s|https://en.wikipedia.org/wiki/Royal_Aircraft_Factory_R.E.8] on a bombing expedition in the afternoon to [Bapaume|https://en.wikipedia.org/wiki/Bapaume] and were attacked by eight fokkers. We got two without losing anyone. Had an offensive patrol in the evening and trench straffed in the last fifteen minutes. Hamilton, Todd, and myself went down on a baloon and got it in flames at 200 feet from the ground.",
+ 	"text":"Aug 21 - Misty in the morning so we did not have to go over. Our troops have advanced about 5 miles. Escorted [|R.E 8s|https://en.wikipedia.org/wiki/Royal_Aircraft_Factory_R.E.8] on a bombing expedition in the afternoon to [|Bapaume|https://en.wikipedia.org/wiki/Bapaume] and were attacked by eight fokkers. We got two without losing anyone. Had an offensive patrol in the evening and trench straffed in the last fifteen minutes. Hamilton, Todd, and myself went down on a baloon and got it in flames at 200 feet from the ground.",
 	"jtag":"2"
 },
 {
@@ -530,7 +532,7 @@
 {
 	"date":"1918-08-27",
  	"text":"Aug 27 - Went out on an O.P. but had to return as my C.C. gear was not working. Providence was watching out for me however as our fellows ran into 40 Fokkers and only three out of the nine returned. They got Lipton, Frost, Todd, Jackson, Bittinger, and Roberts. Dinner in the evening was a sad occasion with so many gone.",
-	"notes":"[Probably the machine gun synchronization gear|https://en.wikipedia.org/wiki/Synchronization_gear#The_Sopwith-Kauper_gear]",
+	"notes":"Probably the [|machine gun synchronization gear|https://en.wikipedia.org/wiki/Synchronization_gear#The_Sopwith-Kauper_gear]",
 	"jtag":"2"
 },
 {
@@ -561,7 +563,7 @@
 },
 {
 	"date":"1918-09-17",
-	"text":"Sept 17 - While on an O.P. today we were jumped by 16 Fokkers. There were only six of us so we had to run away. Two took after me but I shook them off without much trouble. Allison's controls were shot away be he got down on our side without hurting himself. Snyder also was shot up a little. Knotts got one of them near [Bourlon|https://en.wikipedia.org/wiki/Bourlon] woods.",
+	"text":"Sept 17 - While on an O.P. today we were jumped by 16 Fokkers. There were only six of us so we had to run away. Two took after me but I shook them off without much trouble. Allison's controls were shot away be he got down on our side without hurting himself. Snyder also was shot up a little. Knotts got one of them near [|Bourlon|https://en.wikipedia.org/wiki/Bourlon] woods.",
 	"jtag":"2"
 },
 {
@@ -571,170 +573,145 @@
 },
 {
 	"date":"1918-09-19",
-	"text":"Sept 19 - Had an uneventful O.P. over [Dourai|https://en.wikipedia.org/wiki/Douai] and [Cambrai|https://en.wikipedia.org/wiki/Cambrai].",
+	"text":"Sept 19 - Had an uneventful O.P. over [|Dourai|https://en.wikipedia.org/wiki/Douai] and [|Cambrai|https://en.wikipedia.org/wiki/Cambrai].",
 	"jtag":"2"
 },
 {
 	"date":"1918-09-20",
-	"text":"Sept 20 - Moved today from Auxi-le-Chateau to [Sombrin|https://en.wikipedia.org/wiki/Sombrin] just north of [Doulons|https://en.wikipedia.org/wiki/Doullens]. The new place is quite nice although the quarters do not compare with our old ones. [#87 Squadron|https://en.wikipedia.org/wiki/No._87_Squadron_RAF] ([Dolphins|https://en.wikipedia.org/wiki/Sopwith_Dolphin]) are on the same aerodrome. Had an O.P. over Cambrai in the afternoon.",
-	"notes":"This is Soncampe Airfield, actually a couple miles north-east of Doullens. And see [Clapp|https://books.google.com/books?id=O20yAQAAIAAJ&lpg=PA45&ots=kA04BTfiht&dq=soncamp%20airfield&pg=PA45#v=onepage&q=soncamp%20airfield&f=false]",
+	"text":"Sept 20 - Moved today from Auxi-le-Chateau to [|Sombrin|https://en.wikipedia.org/wiki/Sombrin] just north of [|Doulons|https://en.wikipedia.org/wiki/Doullens]. The new place is quite nice although the quarters do not compare with our old ones. [|#87 Squadron|https://en.wikipedia.org/wiki/No._87_Squadron_RAF] ([|Dolphins|https://en.wikipedia.org/wiki/Sopwith_Dolphin]) are on the same aerodrome. Had an O.P. over Cambrai in the afternoon.",
+	"notes":"This is Soncampe Airfield, actually a couple miles north-east of Doullens. And see [|Clapp|https://books.google.com/books?id=O20yAQAAIAAJ&lpg=PA45&ots=kA04BTfiht&dq=soncamp%20airfield&pg=PA45#v=onepage&q=soncamp%20airfield&f=false]",
 	"jtag":"2"
 },
 {
 	"date":"1918-09-22",
 	"text":"Sept 22 - Twenty five huns attack twelve of us over Boulon woods. We had a merry old scrap and in all got four of them. We lost Tillinghast and Thomas. One of them went down in flames. It was a horrible sight. We ran into a hun two seater (Hanoverans) but he got away from us. These Hunds certainly are good pilots and have lots of nerve. They say they are part of Richtofen's old circus. #2 ???? squadron.",
-	"notes":"Not sure what plane is meant by \"Hanoverans\", possibly a lost nickname. There's an odd number \"#2\" after the mention of Richtofen -- The Red Baron -- squad. But nothing quite matches [https://en.wikipedia.org/wiki/Jagdgeschwader_1_(World_War_I)]",
+	"notes":"Not sure what plane is meant by \"Hanoverans\", possibly a lost nickname. There's an odd number \"#2\" after the mention of Richtofen -- The Red Baron -- squad. But nothing quite matches [|https://en.wikipedia.org/wiki/Jagdgeschwader_1_(World_War_I)]",
 	"jtag":"2"
 },
 {
 	"date":"1918-09-23",
-	"text":"Sept 23 - Had an O.P. and saw lots of huns but didn't get a scrap. They won't scrap without plenty of odds in their favor and they are too good to give many odds.
+	"text":"Sept 23 - Had an O.P. and saw lots of huns but didn't get a scrap. They won't scrap without plenty of odds in their favor and they are too good to give many odds.",
 	"jtag":"2"
 },
 {
 	"date":"1918-09-24",
-	"text":"Sept 24 - Had a fine scrap this morning. There were 27 huns and 15 of us. We was in the top
-
-------  jpeg37
-
-flight at 14,000 ft and as the huns went down on our bottom flight we went down on them. I got on ones tail and followed him down 5,000 feet pumping lead into him. I finally got quite close to him and as he started to half roll I saw my tracers going into the cockpit. Hwe went down in a flat spin on his back but I didn't see him crash as more were coming down on me.
-
-Knotts went out this afternoon and saw him on his back near havincourt. That makes two for me. We got 7 huns this morning without losing anyone.
-
-https://en.wikipedia.org/wiki/Havrincourt
+	"text":"Sept 24 - Had a fine scrap this morning. There were 27 huns and 15 of us. We was in the top flight at 14,000 ft and as the huns went down on our bottom flight we went down on them. I got on ones tail and followed him down 5,000 feet pumping lead into him. I finally got quite close to him and as he started to half roll I saw my tracers going into the cockpit. Hwe went down in a flat spin on his back but I didn't see him crash as more were coming down on me.\n Knotts went out this afternoon and saw him on his back near [|Havincourt|https://en.wikipedia.org/wiki/Havrincourt]. That makes two for me. We got 7 huns this morning without losing anyone.",
 	"jtag":"2"
 },
 {
 	"date":"1918-09-25",
-	"text":"Sept 25 - Flew to 40 squadron at St. Pol. Anderson has been missing for a month now.
-
-? https://en.wikipedia.org/wiki/Saint-Pol-sur-Ternoise
+	"text":"Sept 25 - Flew to 40 squadron at [|St. Pol|https://en.wikipedia.org/wiki/Saint-Pol-sur-Ternoise]. Anderson has been missing for a month now.",
 	"jtag":"2"
 },
 {
 	"date":"1918-09-26",
-	"text":"Sept 26 - Two O.P.s over Boulon and Havrincourt Woods. Uneventful.
+	"text":"Sept 26 - Two O.P.s over Boulon and Havrincourt Woods. Uneventful.",
 	"jtag":"2"
 },
 {
 	"date":"1918-09-27",
-	"text":"Sept 27 - Got a goot burst into a pretty white-tailed Fokker. He went down in a spin and was last seen about 20ft from the ground still spinning. I doubt if I get him confirmed.
-
-------  jpeg38
+	"text":"Sept 27 - Got a goot burst into a pretty white-tailed Fokker. He went down in a spin and was last seen about 20ft from the ground still spinning. I doubt if I get him confirmed.",
 	"jtag":"2"
 },
 {
 	"date":"1918-09-28",
-	"text":"Sept 28 - Straffed troops with bombs and bullets.
+	"text":"Sept 28 - Straffed troops with bombs and bullets.",
 	"jtag":"2"
 },
 {
 	"date":"1918-09-29",
-	"text":"Sept 29 - more straffing troops.
+	"text":"Sept 29 - more straffing troops.",
 	"jtag":"2"
 },
 {
 	"date":"1918-10-01",
-	"text":"Oct 1 - Two O.P.'s. Led one.
+	"text":"Oct 1 - Two O.P.'s. Led one.",
 	"jtag":"2"
 },
 {
 	"date":"1918-10-02",
-	"text":"Oct 2 - Dropped bombs on Awoing. Led both shows. Clements went on leave.
-
-https://en.wikipedia.org/wiki/Awoingt
+	"text":"Oct 2 - Dropped bombs on [|Awoing|https://en.wikipedia.org/wiki/Awoingt]. Led both shows. Clements went on leave.",
 	"jtag":"2"
 },
 {
 	"date":"1918-10-03",
-	"text":"Oct 3 - Bombed Caudry station from 5,000 feet. Got a direct hit on the tracks.
-
-https://en.wikipedia.org/wiki/Caudry
+	"text":"Oct 3 - Bombed [|Caudry|https://en.wikipedia.org/wiki/Caudry] station from 5,000 feet. Got a direct hit on the tracks.",
 	"jtag":"2"
 },
 {
 	"date":"1918-10-04",
-	"text":"Oct 4 - Bombed Caudry again. Archie shot my pressure pumps away and I had to come back on gravity. 10 Fokkers followed me out.
+	"text":"Oct 4 - Bombed Caudry again. Archie shot my pressure pumps away and I had to come back on gravity. 10 Fokkers followed me out.",
 	"jtag":"2"
 },
 {
 	"date":"1918-10-05",
-	"text":"Oct 5 - Bombed Awoingt and Wambois. Glen WIcks and Shoemaker collided after dropping bombs on Wambois. Both went down in a spin and crashed badly. Both killed.
-
-? https://en.wikipedia.org/wiki/Wambaix
+	"text":"Oct 5 - Bombed Awoingt and [|Wambois|https://en.wikipedia.org/wiki/Wambaix]. Glen WIcks and Shoemaker collided after dropping bombs on Wambois. Both went down in a spin and crashed badly. Both killed.",
 	"jtag":"2"
 },
 {
 	"date":"1918-10-07",
-	"text":"Oct 7 - Bombed Awaingt again. Good news came today. Curtis, Lipton, Todd, Frost, Weiss and Bittinger are prisoners. Snyder went on leave today.
+	"text":"Oct 7 - Bombed Awaingt again. Good news came today. Curtis, Lipton, Todd, Frost, Weiss and Bittinger are prisoners. Snyder went on leave today.",
 	"jtag":"2"
 },
 {
 	"date":"1918-10-08",
-	"text":"Oct 8 - Low straffing. I had to return on second patrol because of engine trouble. A piece of rubber was lodged in the middle valve
-
-------  jpeg39
+	"text":"Oct 8 - Low straffing. I had to return on second patrol because of engine trouble. A piece of rubber was lodged in the middle valve.",
 	"jtag":"2"
 },
 {
 	"date":"1918-10-09",
-	"text":"Oct 9 - Two shows. The second one was a reconaissance trying to find the hun. We have all of Cambrai and Caudry now. Major Fowler was in my flights. Have dropped 60 bombs so far this month.
+	"text":"Oct 9 - Two shows. The second one was a reconaissance trying to find the hun. We have all of Cambrai and Caudry now. Major Fowler was in my flights. Have dropped 60 bombs so far this month.",
 	"jtag":"2"
 },
 {
 	"date":"1918-10-10",
-	"text":"Oct 10 - Rain and rest. Le Cateau was capture today.
-
-https://en.wikipedia.org/wiki/Le_Cateau-Cambr%C3%A9sis
+	"text":"Oct 10 - Rain and rest. [|Le Cateau|https://en.wikipedia.org/wiki/Le_Cateau-Cambr%C3%A9sis] was capture today.",
 	"jtag":"2"
 },
 {
 	"date":"1918-10-11",
-	"text":"Oct 11 - more rain
+	"text":"Oct 11 - more rain",
 	"jtag":"2"
 },
 {
 	"date":"1918-10-12",
-	"text":"Oct 12 - [ditto - more rain]
+	"text":"Oct 12 - [ditto] - more rain",
 	"jtag":"2"
 },
 {
 	"date":"1918-10-13",
-	"text":"Oct 13 - [ditto - more rain]
+	"text":"Oct 13 - [ditto] - more rain",
 	"jtag":"2"
 },
 {
 	"date":"1918-10-14",
-	"text":"Oct 14 - Two shows. Vaughn got a 2-seater in the first one. Knotts landed in Hun land near the lines at Salzoir. He was last seen running down the road to Salzoir.
-
-https://en.wikipedia.org/wiki/Saulzoir
+	"text":"Oct 14 - Two shows. Vaughn got a 2-seater in the first one. Knotts landed in Hun land near the lines at Salzoir. He was last seen running down the road to [|Salzoir|https://en.wikipedia.org/wiki/Saulzoir].",
 	"jtag":"2"
 },
 {
 	"date":"1918-10-15",
-	"text":"Oct 15 - Rain
+	"text":"Oct 15 - Rain",
 	"jtag":"2"
 },
 {
 	"date":"1918-10-16",
-	"text":"Oct 16 - Rain - Hurrah !
+	"text":"Oct 16 - Rain - Hurrah !",
 	"jtag":"2"
 },
 {
 	"date":"1918-10-17",
-	"text":"Oct 17 - Had a short scrap with France
-
-???
+	"text":"Oct 17 - Had a short scrap with France",
+	"notes":"Someone named France?? Something else?",
 	"jtag":"2"
 },
 {
 	"date":"1918-10-18",
-	"text":"Oct 18 - O.P. over Le Cateau and Salzoir
+	"text":"Oct 18 - O.P. over Le Cateau and Salzoir",
 	"jtag":"2"
 },
 {
 	"date":"1918-10-19",
-	"text":"Oct 19 - Rain
+	"text":"Oct 19 - Rain",
 	"jtag":"2"
 },
 {
@@ -744,133 +721,109 @@ https://en.wikipedia.org/wiki/Saulzoir
 },
 {
 	"date":"1918-10-21",
-	"text":"Oct 21 - [ditto - Rain]
+	"text":"Oct 21 - [ditto] - Rain",
 	"jtag":"2"
 },
 {
 	"date":"1918-10-22",
-	"text":"Oct 22 - Started for England on leave. Stayed the night at Maurices Hotel in Bolounge.
+	"text":"Oct 22 - Started for England on leave. Stayed the night at Maurices Hotel in Bolounge.",
 	"jtag":"2"
 },
 {
 	"date":"1918-10-23",
-	"text":"Oct 23 - Crossed the channel and arrived at Officers club London at 8:00 P.M.
+	"text":"Oct 23 - Crossed the channel and arrived at Officers club London at 8:00 P.M.",
+	"notes:"Possibly the [|Royal Air Force Club|https://en.wikipedia.org/wiki/Royal_Air_Force_Club], Picadilly, founded in 1918.",
 	"jtag":"2"
 },
 {
 	"date":"1918-10-24",
-	"text":"Oct 24 - quite a few fellows of the old bunch are here either on leave or getting
-
-------  jpeg40
-
-new machines for the Americans.
+	"text":"Oct 24 - quite a few fellows of the old bunch are here either on leave or getting new machines for the Americans.",
 	"jtag":"2"
 },
 {
 	"date":"1918-10-26",
-	"text":"Oct 26 - Tillinglast (17sq), Anderson (40sq), and Donaldson (32 sq) arrived here tonight having esacaped from Germany. THey had a wonderful experience. 30 days walking across Belgium to the Holland border and finally cutting the electrically charged wire there. Don Harris who was shot down while we were at Dunkirk is a prisoner in Holland and is working at the American Embassy.
+	"text":"Oct 26 - Tillinglast (17sq), Anderson (40sq), and Donaldson (32 sq) arrived here tonight having esacaped from Germany. THey had a wonderful experience. 30 days walking across Belgium to the Holland border and finally cutting the electrically charged wire there. Don Harris who was shot down while we were at Dunkirk is a prisoner in Holland and is working at the American Embassy.",
 	"jtag":"2"
 },
 {
 	"date":"1918-11-05",
-	"text":"Nov 5 - Supposed to go back today but orders from H.Q. here said to wait for orders as the squadron had moved south with the Americans.
+	"text":"Nov 5 - Supposed to go back today but orders from H.Q. here said to wait for orders as the squadron had moved south with the Americans.",
+	"notes":"The 17th Sqaudron had moved south to [|Toul|https://en.wikipedia.org/wiki/Toul].",
 	"jtag":"2"
 },
 {
 	"date":"1918-11-07",
-	"text":"Nov 7 - Started back today via Southampton and Harve. Crossed the channel on the American cruiser "Yale"
-
-https://en.wikipedia.org/wiki/Southampton
-https://en.wikipedia.org/wiki/USS_Yale_(1888)
+	"text":"Nov 7 - Started back today via [|Southampton|https://en.wikipedia.org/wiki/Southampton] and [|Harve|https://en.wikipedia.org/wiki/Le_Havre]. Crossed the channel on the American cruiser [|Yale|https://en.wikipedia.org/wiki/USS_Yale_(1888)].",
 	"jtag":"2"
 },
 {
 	"date":"1918-11-08",
-	"text":"Nov 8 - Arrived at Harve early this morning and after eluding the APM who wanted to send me out to a rest camp, caught the 9:30 train for Paris. Went to Follies Bergerie in the evening. Stayed at the Palace Hotel.
-
-Assistant Provost Marshall - British military police - https://en.wikipedia.org/wiki/Provost_marshal
-
-https://en.wikipedia.org/wiki/Folies_Berg%C3%A8re
-?? https://www.victoriapalace.com/en/history/
-
-------  jpeg41
+	"text":"Nov 8 - Arrived at Harve early this morning and after eluding the APM who wanted to send me out to a rest camp, caught the 9:30 train for Paris. Went to [|Follies Bergerie|https://en.wikipedia.org/wiki/Folies_Berg%C3%A8re] in the evening. Stayed at the Palace Hotel.",
+	"notes":"A.P.M. == Assistant Provost Marshall - [|British military police|https://en.wikipedia.org/wiki/Provost_marshal].\nHard to know which \"Palace\" hotel, but possibly [|Victorian Palace|https://www.victoriapalace.com/en/history/]",
 	"jtag":"2"
 },
 {
 	"date":"1918-11-09",
-	"text":"Nov 9 - Paris. Went to the Comedy in the evening. Met Lt. Brady in the evneing and decided to stay until morning and go out with him.
-
-https://en.wikipedia.org/wiki/Com%C3%A9die-Fran%C3%A7aise
+	"text":"Nov 9 - Paris. Went to the Comedy in the evening. Met Lt. Brady in the evneing and decided to stay until morning and go out with him.",
+	"notes":"Perhaps the oldest active theatre in the world - [|https://en.wikipedia.org/wiki/Com%C3%A9die-Fran%C3%A7aise]. How to find out what was performed there that night?!",
 	"jtag":"2"
 },
 {
 	"date":"1918-11-10",
-	"text":"Nov 10 - Caught the 8:30 train for Toul. Met Major Cartwright. Arrived at Toul at 6pm.
-
-https://en.wikipedia.org/wiki/Toul
+	"text":"Nov 10 - Caught the 8:30 train for [|Toul|https://en.wikipedia.org/wiki/Toul]. Met Major Cartwright. Arrived at Toul at 6pm.",
 	"jtag":"2"
 },
 {
 	"date":"1918-11-11",
-	"text":"Nov 11 - Armistance signed. Had a great party in Nancy in the evening. The A.P.M. tried to pinch Ayers for swiping an American flag from the front of one of the stores.
+	"text":"Nov 11 - Armistance signed. Had a great party in [|Nancy|https://en.wikipedia.org/wiki/Nancy,_France] in the evening. The A.P.M. tried to pinch Ayers for swiping an American flag from the front of one of the stores.",
 	"jtag":"2"
 },
 {
 	"date":"1918-11-13",
-	"text":"Nov 13 - Took my first flip on a 220 Spad. Don't like them much.
-
-? https://en.wikipedia.org/wiki/SPAD_S.XX
+	"text":"Nov 13 - Took my first flip on a 220 Spad. Don't like them much.",
+	"notes:"Possibly a https://en.wikipedia.org/wiki/SPAD_S.XX",
 	"jtag":"2"
 },
 {
 	"date":"1918-11-14",
-	"text":"Nov 14 - Another flip for 35 minutes.
+	"text":"Nov 14 - Another flip for 35 minutes.",
 	"jtag":"2"
 },
 {
 	"date":"1918-11-18",
-	"text":"Nov 18 - Had my first real crash. The engine cut out about 20ft from the ground as I was diving on the windward side of the aerodrome. Not a change to get down safely so I put it into a fence on the other side. The machine was an absolute "right off" but I wasn't bumped.
+	"text":"Nov 18 - Had my first real crash. The engine cut out about 20ft from the ground as I was diving on the windward side of the aerodrome. Not a change to get down safely so I put it into a fence on the other side. The machine was an absolute \"right off\" but I wasn't bumped.",
 	"jtag":"2"
 },
 {
 	"date":"1918-11-20",
-	"text":"Nov 20. Up for 20 min. Uncle Frank came over. He is located at Nancy and
-
-------  jpeg42
-
-has seen most of the fighting down south with the Yanks.
+	"text":"Nov 20. Up for 20 min. Uncle Frank came over. He is located at Nancy and has seen most of the fighting down south with the Yanks.",
 	"jtag":"2"
 },
 {
 	"date":"1918-11-21",
-	"text":"Nov 21 - Up for an hour trying to find 8 Squadron's Aerodrome. Landed at most all in France but couldn't find the right one.
+	"text":"Nov 21 - Up for an hour trying to find 8 Squadron's Aerodrome. Landed at most all in France but couldn't find the right one.",
 	"jtag":"2"
 },
 {
 	"date":"1918-11-22",
-	"text":"Nov 22 - Found out that the place I want is only 8 miles from here so I walked over. Saw Eddie Moore. He has the D.S.C.
-
-https://en.wikipedia.org/wiki/Distinguished_Service_Cross_(United_States)
-Not found at http://www.homeofheroes.com/members/02_DSC/citatons/01_wwi_dsc/dsc_05wwi_Army_M.html
+	"text":"Nov 22 - Found out that the place I want is only 8 miles from here so I walked over. Saw Eddie Moore. He has the D.S.C.",
+	"notes":"[|Distinguished Service Cross|https://en.wikipedia.org/wiki/Distinguished_Service_Cross_(United_States)]. But no one by that name found at [|http://www.homeofheroes.com/members/02_DSC/citatons/01_wwi_dsc/dsc_05wwi_Army_M.html]",
 	"jtag":"2"
 },
 {
 	"date":"1918-11-22",
-	"text":"Nov 22 - Came back with Eddie in a DH.4 Liberty
-
-https://en.wikipedia.org/wiki/Airco_DH.4
+	"text":"Nov 22 - Came back with Eddie in a DH.4 Liberty",
 	"jtag":"2"
 },
 {
 	"date":"1918-12-19",
-	"text":"Dec 19 - Started home. Ferried the Spads to East Columbey Le Belle
-
-https://en.wikipedia.org/wiki/Colombey-les-Belles
+	"text":"Dec 19 - Started home. Ferried the Spads to [|East Columbey Le Belle|https://en.wikipedia.org/wiki/Colombey-les-Belles]",
 	"jtag":"2"
 },
 {
 	"date":"",
 	"text":"[some loans/debts and addresses]\nFrank Campbell - 12 Rue D Aguenddre Paris",
+	"notes":"still trying to find that address",
 	"jtag":"43"
 },
 {
