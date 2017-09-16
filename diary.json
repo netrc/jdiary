@@ -400,7 +400,7 @@
 	"jtag":"2"
 },
 {
-	"date":1918-05-28",
+	"date":"1918-05-28",
 	"text":"May 28 - Had my first flip with Lt. Felder in a Avro today.",
 	"jtag":"2"
 },
@@ -516,7 +516,7 @@
 {
 	"date":"1918-08-23",
 	"text":"Aug 23. Another push today. In the morning we shot up and dropped bombs on tropps and transports along the Bapaumme-Albert road. Machine gun fire from the ground was fierce and nearly every one was shot up badly when we got back. I got two in my engine and Wicks had his pressure pump shot off. Morton Campbell was shot down about 5 miles in Hun land.",
-	"notes:" // see MC burial section in Clapp book",
+	"notes":"// see MC burial section in Clapp book",
 	"jtag":"2"
 },
 {
@@ -675,12 +675,12 @@
 },
 {
 	"date":"1918-10-12",
-	"text":"Oct 12 - [ditto] - more rain",
+	"text":"Oct 12 - [ditto - more rain]",
 	"jtag":"2"
 },
 {
 	"date":"1918-10-13",
-	"text":"Oct 13 - [ditto] - more rain",
+	"text":"Oct 13 - [ditto - more rain]",
 	"jtag":"2"
 },
 {
@@ -716,12 +716,12 @@
 },
 {
 	"date":"1918-10-20",
-	"text":"Oct 20 - [ditto - Rain]
+	"text":"Oct 20 - [ditto - Rain]",
 	"jtag":"2"
 },
 {
 	"date":"1918-10-21",
-	"text":"Oct 21 - [ditto] - Rain",
+	"text":"Oct 21 - [ditto - Rain]",
 	"jtag":"2"
 },
 {
@@ -732,7 +732,7 @@
 {
 	"date":"1918-10-23",
 	"text":"Oct 23 - Crossed the channel and arrived at Officers club London at 8:00 P.M.",
-	"notes:"Possibly the [|Royal Air Force Club|https://en.wikipedia.org/wiki/Royal_Air_Force_Club], Picadilly, founded in 1918.",
+	"notes":"Possibly the [|Royal Air Force Club|https://en.wikipedia.org/wiki/Royal_Air_Force_Club], Picadilly, founded in 1918.",
 	"jtag":"2"
 },
 {
@@ -781,7 +781,7 @@
 {
 	"date":"1918-11-13",
 	"text":"Nov 13 - Took my first flip on a 220 Spad. Don't like them much.",
-	"notes:"Possibly a https://en.wikipedia.org/wiki/SPAD_S.XX",
+	"notes":"Possibly a [|Spad S.XX|https://en.wikipedia.org/wiki/SPAD_S.XX]",
 	"jtag":"2"
 },
 {
