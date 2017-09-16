@@ -17,8 +17,8 @@ text: "more text"}
 ];
 
 var g = {   // The Global State (boo!)
-	//dataUrl: "https://netrc.github.io/jdiary/dtest.json",
-	dataURL: "dtest.json",   // relative to current URL
+	//dataUrl: "https://netrc.github.io/jdiary/diary.json",
+	dataURL: "diary.json",  //"dtest.json",   // relative to current URL
 	currPage: 0,
 	lastPageAvail: 0,
 	currLocTag: '',
@@ -30,9 +30,9 @@ function convertMarkdown( s ) {
 	// newlines to <p>
 	let ns = s.replace(/\n/g,"<p>");
 	// URLs with labels
-	ns = ns.replace(/\[(.*?)\|(.*?)\]/g,"<a href=\"$2\"> $1 </a>");
+	ns = ns.replace(/\[\|(.*?)\|(.*?)\]/g,"<a href=\"$2\"> $1 </a>");
 	// simple URLs
-	ns = ns.replace(/\[(.*?)\]/g,"<a href=\"$1\"> $1 </a>");
+	ns = ns.replace(/\[\|(.*?)\]/g,"<a href=\"$1\"> $1 </a>");
 
 	return ns;
 }
