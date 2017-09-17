@@ -11,6 +11,7 @@ var g = {   // The Global State (boo!)
 	currPage: 0,
 	lastPageAvail: 0,
 	currLocTag: '',
+	currPTag: '',
 	pages: {}, // object with properties set to page tages, e.g. "p001"
 	icons: {}, // object with properties set to icon tags, e.g. "anchor"
 	locs: [],	// array of location objects
@@ -51,9 +52,21 @@ function showEntry(jd) {
 
 	let u = "https://lh3.googleusercontent.com/v_Ra1lXpZaBC7bQlsW912NhWqBMjNXJZHQwEIxJMkX4FNRtQWH8Nqp-MjIgLivAqrwTA5cfbSrKFXOys8i1nbaCoCQdg8hOh1ZJGMhyzR9rhllBkF2Hr8FgWO4QXF6Rd_xlywJ-Rk03teeTybZ4JnvYju3713RvzyBtoZ7_TExUDXHZdDz0NnXvO0B1KVH6Ny3L_iC-3ueYgSOTqfXN-eZL7XndmMcjoVJimpqRCO1dmWDThIcxVpwre3WGazBCrvUNXTbz15GYF61IrcSGvqhOHy7kAKDOBVz7X_ZhbgP8TIO237LNVK32gTwaZ8jvF0vI8ks1xD6N9egxpIWMr9K4yyvXRe8YrEzW1kAcvvxHmj3o2sGqnH7-PE3UJqICH1DCwY3TOOF49QGksBfBLuisD5k-YRG3LOxANVbQdayMjeUHuLcSswARGX4aiRrapQU0-MnLmnYnGZyh9i-5otNJd7eBDq62pnWlGUfYy4pR_ChLyr-fw1NReMhR6BjR86EwIVFqYPK_Z1fn96QodSdvk0bGa_Vl5WiR0RFXfHc8ih_-cMLqbzeADv7bRCrd6Wbmfo4b0kVAUGawNWSWVbFWSmiRG81pvltCZe3CvFbsNiSHw46t-u0UEAqH_Ok24-UyKkGVciextnq9QQEQADJxTf5U_O-agIGue=w1096-h858-no";
 	let u2 = "https://lh3.googleusercontent.com/v_Ra1lXpZaBC7bQlsW912NhWqBMjNXJZHQwEIxJMkX4FNRtQWH8Nqp-MjIgLivAqrwTA5cfbSrKFXOys8i1nbaCoCQdg8hOh1ZJGMhyzR9rhllBkF2Hr8FgWO4QXF6Rd_xlywJ-Rk03teeTybZ4JnvYju3713RvzyBtoZ7_TExUDXHZdDz0NnXvO0B1KVH6Ny3L_iC-3ueYgSOTqfXN-eZL7XndmMcjoVJimpqRCO1dmWDThIcxVpwre3WGazBCrvUNXTbz15GYF61IrcSGvqhOHy7kAKDOBVz7X_ZhbgP8TIO237LNVK32gTwaZ8jvF0vI8ks1xD6N9egxpIWMr9K4yyvXRe8YrEzW1kAcvvxHmj3o2sGqnH7-PE3UJqICH1DCwY3TOOF49QGksBfBLuisD5k-YRG3LOxANVbQdayMjeUHuLcSswARGX4aiRrapQU0-MnLmnYnGZyh9i-5otNJd7eBDq62pnWlGUfYy4pR_ChLyr-fw1NReMhR6BjR86EwIVFqYPK_Z1fn96QodSdvk0bGa_Vl5WiR0RFXfHc8ih_-cMLqbzeADv7bRCrd6Wbmfo4b0kVAUGawNWSWVbFWSmiRG81pvltCZe3CvFbsNiSHw46t-u0UEAqH_Ok24-UyKkGVciextnq9QQEQADJxTf5U_O-agIGue=";
-	let u2T = u2 + "w110-h86-no";
-	let u2F = "https://photos.app.goo.gl/RqqyZORCiPI2incM2";
-	div.append("<a target=\"_blank\" href=\"" +u2F+ "\"> <img src=\"" + u2T + "\"> </a>");
+	console.log(`jd jtag: ${jd.jtag}`);
+	let u2T = "", u2F = "";
+	if (g.currPTag != jd.jtag) {  // then, new page to view
+		if (g.pages.hasOwnProperty(jd.jtag)) {
+			u2T = g.pages[jd.jtag].baseURL + "w110-h86-no";
+			u2F = g.pages[jd.jtag].fullPage;
+		} else {
+			let u2T = u2 + "w110-h86-no";
+			let u2F = "https://photos.app.goo.gl/RqqyZORCiPI2incM2";
+		}
+		div.append("<a target=\"_blank\" href=\"" +u2F+ "\"> <img src=\"" + u2T + "\"> </a>");
+		g.currPTag = jd.jtag;
+	} else { // tmp for testing
+		div.append("<p> no new page </p>");
+	}
 
 	div.append("<a href=\"#" + jd.date + "\"></a>\n");
 	div.append("<p> " + convertMarkdown(jd.text) + "</p>");
@@ -96,6 +109,10 @@ function initMap() {
 		ico = g.icons["anchor"];
         var m1 = new google.maps.Marker({ position: uluru, map: map });
         var m2 = new google.maps.Marker({ position: adelaide, map: map, icon: ico });
+		g.locs.forEach(function(l) {	// icon, name, ll, text	
+			console.log(`loc: ${l.name}  ${l.icon}`);
+			new google.maps.Marker({ position: l.ll, map: map, icon: g.icons[l.icon] });
+		});
 
 		//map.panTo(adelaide);
 }
