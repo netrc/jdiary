@@ -5,16 +5,16 @@
 			"fullPage":"https://photos.app.goo.gl/RqqyZORCiPI2incM2"
 			},
 		"p001": {
-			"baseURL":"",
-			"fullPage":""
+			"baseURL":"https://lh3.googleusercontent.com/BwFclkO3cK6Tdn72lUBio5bap8BH1U9cn8EIy8cm2bDsBwAvUuI9y7W4B25PizgSr0p9yCCZTk7xgKUWrDEHPqt9bY63ZEwnPIyFkvI8Gu2HNG5dE2AXIa_AeTILvLehCV3izAkGtveDXJpZsSFu79CBoTfwYgMvP_EhLmrOJOO5jGxUSqukM5TCZBaYwPhm9_wUXh73EXNbjglnO6kCFlCywEry8Osow9ohnvQ3db5ZMdouRxFTkF-wlI-qGImcU7vlCUeMlwasNMyYeaN_wentNQCsvx-LuRS_c70VSeHx0sljGp-cOShO-ID5n625yGJQPD2TS8Zd0NRIW750P-p_8pHD9QrDccUNDAux1DwB3OLN6fj9Uvqp2GL5hw6U2Ol77FWxCYx4vzALg0DPROAXHU37_FICGHKj0mkfPQDobLFI6WGkMt62HhCmZz-ieBtHoZk15_pXkItUFyJLZQWa-3aQq3v5IdTS-bqkoMyrQ6IlAMClYVQrYo3buT3HVRtUOcKwOo-SxrPlTYAOGjZg0Bg97zN2_bSKuZUH11H5kXpwRO7OHvxrBDQVN38_oRv7NNEgZtSzBtbxii2q1RxddKPFw1HsrhRZOrMXadI=",
+			"fullPage":"https://photos.app.goo.gl/8IUfwfQhLpe8fj4m1"
 			},
 		"p002": {
-			"baseURL":"",
-			"fullPage":""
+			"baseURL":"https://lh3.googleusercontent.com/ePr6htNhkmkJ4DQhC5ZvFnLu92q_cSH8qR-fGfmhV3UIa1xBrsL17CBscv8sa6UQWziaETAPYgGEkIEaAubu6UYUJxMxmD0uYE8Af2Tz2CRVjRmq7nhBvu_GkX8WjfLa8bZdyLupZ4bR1O2kB7V8jhK2kpwEPeedf0zuvO0S3MNPAn7qnSf--04RHD8agUVRlJCgZhZnFaYOYLpPhi0IQbluTBb87DjyljyJXJI9vv4UAntWPd83BVOCWF5QDIALZjBzJVl4Ggh9ZIj69u2J2P_AQI2a_WB7iOt3l0TL3reSFfP3uLJPrjmeyiFvlg9f6FGyS9IloS5B5bzSt5P6lmPJUemPPV5srTTKQKKjy754zHGgHpYYPCzdB3GYrl8E6KxvqcoH_FRNcbCNHyjXKd9te-nMxTQ4NSNvaiZWRyzR3fwKEDU_hu9AiVy4bM9GUxQ7PN9Cp868xKdplc7FPLgth9AnzO5ad_31hcxYEMLJQrkysT2XXN9mi0Bu3-qD-Q1qephpN_Dh7xFX43m-QJUguTolEyApuso7xpg6DWCPhnWqBS83bG4bz5B-JbFbqu7hiMPcOgIFSuWvNJk9Ox5WpxKW5w3rxSaF777rDfA=",
+			"fullPage":"https://photos.app.goo.gl/55cDcoLrG07Xzb2B2"
 			},
 		"p003": {
-			"baseURL":"",
-			"fullPage":""
+			"baseURL":"https://lh3.googleusercontent.com/ful5GKfEPuZk3z0IAxEuYygg7m3q0HfnFh16-PPaEmKJkVS5PkLVQnCZzB0ZsDnV-pY_KEZD0SydoHMPfeS_lUw3iX-GDaBv-NVxWVvr7Xk3xfrBLhxRsDyYeIHT3ldnd_vClMk3gbv1HkwWbQ_cvy56mAmfH2c8-YUgEWZx-xYHpCxMg0wX9xt-PVzC34RhSHuXjEnzOdve5yW0rMILQXM8I2mD0IErYAa6zUqlb8x5BsGSZsmINpHAXnW1ipGaT8JgNwQETL3yzZ7CMLaB0SseJacEmfDXvv0Qr1C0t4nojtrHNcTITqJSgeY176RbJdP0P1qgmOn-yA6kJ4TdLu0JMbS7sZBfujSwpRvdsuZ88ZyAmc80olSMKkH3M2Fucmgs49XRnU3GFzR_VtJaATcXksIRbNcK1MDfibK94c0hvYLOH0u_jC8OnRuESu6LgZJlPZscHrebbSzNyPEswAzSFwKOR9XM9mSyq0KvpJjD1oVsDaWyHxeW4iPpfMTB9y4FVT7R-pLl8hnwLCfwS9D-gXMVDBJ-UMZT-XD8n0GyNE5oh8oPFgb8QMtaNo1GNv25onXJHFUb0uYYi6axc_aA7cM2y7x4XWeqUJBXh_w=",
+			"fullPage":"https://photos.app.goo.gl/uRpFouzjObmlBwjE2"
 			},
 		"p004": {
 			"baseURL":"",
@@ -227,7 +227,7 @@
 		{ "icon":"tent", "name":"Kelly Field, Texas", "ll":"-98.584313,29.381128,0", "text":"1917 training" }
 	],
 	"VIEWS": {
-		"start":{"ll":"40,-48","zoom":3},
+		"start":{"ll":{lat:40,lng:-48},"zoom":3},
 		"home":{"ll":"42.18,-82.70","zoom":3},
 		"mineola":{"ll":"42.73,-73.86","zoom":3}
 	}
