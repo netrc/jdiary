@@ -17,9 +17,11 @@
 	opacity: 0.9;  
 }
 #mainPane {
-	position: absolute;
-	left: 331px; # or 331
-	top: 80px;
+	position: fixed;
+	left: 331px; 
+	top: 10px;
+	height: 400;
+	width: 500;
 	z-index: 20;
 }
 
@@ -52,4 +54,29 @@ footer {
 	position: relative;
 	right: 0px;
 	border-radius: 8px;
+}
+
+button.accordion {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    //padding: 18px;
+    width: 30%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    transition: 0.4s;
+}
+
+button.accordion.active, button.accordion:hover {
+    background-color: #ddd;
+}
+
+div.panel {
+    padding: 0 18px;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
 }
