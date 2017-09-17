@@ -1,0 +1,234 @@
+{
+	"PAGES": {
+		"p000": {
+			"baseURL":"https://lh3.googleusercontent.com/v_Ra1lXpZaBC7bQlsW912NhWqBMjNXJZHQwEIxJMkX4FNRtQWH8Nqp-MjIgLivAqrwTA5cfbSrKFXOys8i1nbaCoCQdg8hOh1ZJGMhyzR9rhllBkF2Hr8FgWO4QXF6Rd_xlywJ-Rk03teeTybZ4JnvYju3713RvzyBtoZ7_TExUDXHZdDz0NnXvO0B1KVH6Ny3L_iC-3ueYgSOTqfXN-eZL7XndmMcjoVJimpqRCO1dmWDThIcxVpwre3WGazBCrvUNXTbz15GYF61IrcSGvqhOHy7kAKDOBVz7X_ZhbgP8TIO237LNVK32gTwaZ8jvF0vI8ks1xD6N9egxpIWMr9K4yyvXRe8YrEzW1kAcvvxHmj3o2sGqnH7-PE3UJqICH1DCwY3TOOF49QGksBfBLuisD5k-YRG3LOxANVbQdayMjeUHuLcSswARGX4aiRrapQU0-MnLmnYnGZyh9i-5otNJd7eBDq62pnWlGUfYy4pR_ChLyr-fw1NReMhR6BjR86EwIVFqYPK_Z1fn96QodSdvk0bGa_Vl5WiR0RFXfHc8ih_-cMLqbzeADv7bRCrd6Wbmfo4b0kVAUGawNWSWVbFWSmiRG81pvltCZe3CvFbsNiSHw46t-u0UEAqH_Ok24-UyKkGVciextnq9QQEQADJxTf5U_O-agIGue=",
+			"fullPage":"https://photos.app.goo.gl/RqqyZORCiPI2incM2"
+			},
+		"p001": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p002": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p003": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p004": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p005": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p006": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p007": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p008": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p009": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p010": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p011": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p012": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p013": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p014": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p015": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p016": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p017": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p018": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p019": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p020": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p021": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p022": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p023": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p024": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p025": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p026": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p027": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p028": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p029": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p030": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p031": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p032": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p033": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p034": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p035": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p036": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p037": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p038": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p039": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p040": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p041": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p042": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p043": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p044": {
+			"baseURL":"",
+			"fullPage":""
+			},
+		"p045": {
+			"baseURL":"",
+			"fullPage":""
+			}
+		},
+
+	"ICONS": {
+		  "plane":"http://www.gstatic.com/mapspro/images/stock/103-plane.png",
+		  "hotel":"http://www.gstatic.com/mapspro/images/stock/1035-biz-hotel.png",
+		  "house":"http://www.gstatic.com/mapspro/images/stock/1037-biz-house.png",
+		  "medic":"http://www.gstatic.com/mapspro/images/stock/1047-biz-medical.png",
+		  "theater":"http://www.gstatic.com/mapspro/images/stock/1107-biz-theater.png",
+		  "poisongas":"http://www.gstatic.com/mapspro/images/stock/1169-crisis-poison-gas.png",
+		  "hq":"http://www.gstatic.com/mapspro/images/stock/1197-fac-headquarters.png",
+		  "monument":"http://www.gstatic.com/mapspro/images/stock/1263-poi-historic-monument.png",
+		  "houses":"http://www.gstatic.com/mapspro/images/stock/1271-poi-housing-development.png",
+		  "music":"http://www.gstatic.com/mapspro/images/stock/1293-poi-music.png",
+		  "anchor":"http://www.gstatic.com/mapspro/images/stock/1443-trans-marine.png",
+		  "train":"http://www.gstatic.com/mapspro/images/stock/1463-trans-tram.png",
+		  "tent":"http://www.gstatic.com/mapspro/images/stock/31-campground.png"
+	},
+
+	"LOCS":[
+		{ "icon":"house", "name":"Home", "ll":"-83.1458992,42.4980523,0", "text":"" },
+		{ "icon":"plane", "name":"Chanute Field", "ll":"-88.1438487,40.2889062,0", "text":"[|https://en.wikipedia.org/wiki/Chanute_Air_Force_Base]" },
+		{ "icon":"tent", "name":"Camp Mills (Mineola)", "ll":"-73.620801,40.7269173,0", "text":"[|https://en.wikipedia.org/wiki/Camp_Mills]" },
+		{ "icon":"anchor", "name":"RMS Carmania", "ll":"-74.0139055,40.6833392,0", "text":"" },
+		{ "icon":"monument", "name":"Fastnet Rock", "ll":"-9.5526123,51.3957784,0", "text":"" },
+		{ "icon":"anchor", "name":"Liverpool", "ll":"-3.0053616,53.417666,0", "text":"" },
+		{ "icon":"train", "name":"Birmingham", "ll":"-1.882782,52.475148,0", "text":"" },
+		{ "icon":"train", "name":"Oxford, Train Station", "ll":"-1.2702513,51.7533501,0", "text":"" },
+		{ "icon":"house", "name":"Braesnose College, Oxford", "ll":"-1.2547991,51.7524269,0", "text":"[|https://en.wikipedia.org/wiki/Brasenose_College,_Oxford]" },
+		{ "icon":"house", "name":"Queens College, Oxford", "ll":"-1.2511754,51.7527822,0", "text":"[|https://en.wikipedia.org/wiki/The_Queen%27s_College,_Oxford]" },
+		{ "icon":"plane", "name":"Petite-Synthe Aerodrome", "ll":"2.3553233,51.0100823,0", "text":"" },
+		{ "icon":"plane", "name":"? Auxi-le-Chateau Aerodrom", "ll":"2.098818,50.221278,0", "text":"\"The new base was on rising ground to the southewest of Auxi-le-Chateau along a road leading to Crecy. The aerodrome was a grassy meadow surrounded by fields of ripening grain. There was a small wood to the east running right up to the back of the barracks.\", CDp65" },
+		{ "icon":"plane", "name":"Soncamp Aerodrome", "ll":"2.498016,50.227442,0", "text":"19 Sep 1918 - . \"on an ancient farm close by the village of Sombrin, a scattered and nondescript settlement on the foad from Grand Rullecourt to Saulty\", CDp97" },
+		{ "icon":"plane", "name":"? aerodrome?", "ll":"2.506599,50.230736,0", "text":"" },
+		{ "icon":"poisongas", "name":"Vaux-aux-sommes / Red Baron death", "ll":"2.5450731,49.9321214,0", "text":"Killed 21 April 1918 - [|https://en.wikipedia.org/wiki/Manfred_von_Richthofen]" },
+		{ "icon":"poisongas", "name":"That makes two for me", "ll":",3.0763435,50.1162854,0", "text":"" },
+		{ "icon":"music", "name":"Folies Bergère", "ll":"2.34490149999999,48.8743531,0", "text":"" },
+		{ "icon":"hotel", "name":"Victoria Palace Hotel", "ll":"2.324388,48.845813,0", "text":"" },
+		{ "icon":"theater", "name":"La Comédie Française", "ll":"2.33593759999997,48.8635708,0", "text":"" },
+		{ "icon":"plane", "name":"Toul", "ll":"5.8810544,48.6790607,0", "text":"" },
+		{ "icon":"music", "name":"Nancy", "ll":"6.1818159,48.6891331,0", "text":"" },
+		{ "icon":"tent", "name":"Kelly Field, Texas", "ll":"-98.584313,29.381128,0", "text":"1917 training" }
+	],
+	"VIEWS": {
+		"start":{"ll":"40,-48","zoom":3},
+		"home":{"ll":"42.18,-82.70","zoom":3},
+		"mineola":{"ll":"42.73,-73.86","zoom":3}
+	}
+}
