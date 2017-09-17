@@ -5,11 +5,16 @@ var ltag = {
 };
 
 var g = {   // The Global State (boo!)
-	//dataUrl: "https://netrc.github.io/jdiary/diary.json",
-	dataURL: "diary.json",  //"dtest.json",   // relative to current URL
+	//diaryURL: "https://netrc.github.io/jdiary/diary.json",
+	diaryURL: "diary.json",  //"dtest.json",   // relative to current URL
+	dataURL: "data.json",  
 	currPage: 0,
 	lastPageAvail: 0,
 	currLocTag: '',
+	pages: {}, // object with properties set to page tages, e.g. "p001"
+	icons: {}, // object with properties set to icon tags, e.g. "anchor"
+	locs: [],	// array of location objects
+	views: {}, // object with properties set to view tags, e.g. "start"
 	gMapUrl: "https://www.google.com/maps/d/embed?mid=1gq6dzgv8SMbpdThRQ4nj9U8zT_A",
 	jd: {}
 }
@@ -76,53 +81,72 @@ function showEntry(jd) {
 }
 
 function initMap() {
+	console.log("initMap...");
 	  var uluru = {lat: -25.363, lng: 131.044};
 		var adelaide = {lat: -34.92899, lng: 138.601};
-		var midAtlantic = {lat: 38.96, lng: -46.20};
 
+		let start = g.views["start"];
         var map = new google.maps.Map(document.getElementById('mainPane'), {
-          zoom: 2,
-          center: midAtlantic
+          zoom: start.zoom,
+          center: start.ll
         });
-		var ico = "http://google.com/mapfiles/ms/micons/marina";
-		var ico = "harbor.png";
-		var ico = "http://www.gstatic.com/mapspro/images/stock/1443-trans-marine.png";
 
-
+		let ico = "";
+		ico = "http://www.gstatic.com/mapspro/images/stock/1443-trans-marine.png";
+		ico = g.icons["anchor"];
         var m1 = new google.maps.Marker({ position: uluru, map: map });
         var m2 = new google.maps.Marker({ position: adelaide, map: map, icon: ico });
-		setTimeout(function(){ 
-			//#34°55′44.4″S 138°36′3.6″E
-			map.panTo(adelaide);
-			}, 10000);
+
+		//map.panTo(adelaide);
+}
+
+function doData(data, status) {
+	console.log("doData...");
+	if (status != "success") {
+		console.log("get data json error: " + status);
+		return;
+	}
+	if (typeof(data) === "string") {  // local python http doesn't return JSON
+		data = JSON.parse(data);
+	}
+	g.pages = data.PAGES;
+	g.icons = data.ICONS;
+	g.locs = data.LOCS;
+	g.views = data.VIEWS;
+	anchorData = location.href.replace(/.*#/,"");
+	// if anchorData is a date, try and set that global currPage in doJSON
+	// else start at 0
+	g.jd.forEach(function(jd) {
+		showEntry(jd);
+	});
+	initMap();
 }
 
 function doJSON(data, status) {
+	console.log("doJSON (diary)...");
 	if (status != "success") {
-		console.log("get json error: " + status);
+		console.log("get diary json error: " + status);
 		return;
 	}
 	if (typeof(data) === "string") {  // local python http doesn't return JSON
 		data = JSON.parse(data);
 	}
 	g.jd = data;
-	g.lastPageAvail = g.jd.length-1;
-	anchorData = location.href.replace(/.*#/,"");
-	// if anchorData is a date, try and set that global currPage in doJSON
-	// else start at 0
-	data.forEach(function(jd) {
-		showEntry(jd);
-	});
+	g.lastPageAvail = g.jd.length-1; // NO LONGER USED
+	$.get(g.dataURL, doData);
 }
 function initPage(){
 	//$("#next").click(setView);
 	//$("#next").click(nextEntry);
 	////$("#prev").click(prevEntry);
-	console.log("URL=: " + location.href);
-	$.get(g.dataURL, doJSON);
+	console.log("initPage - URL=: " + location.href);
+	$.get(g.diaryURL, doJSON);
 }
 
-$(document).ready(initPage); 
+function apiReady() {
+	console.log("apiReady...");
+	$(document).ready(initPage); 
+}
 
 // add map programmatically
 // (flight pan from marker to marker)
