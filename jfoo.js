@@ -99,7 +99,7 @@ function initMap() {
 		var adelaide = {lat: -34.92899, lng: 138.601};
 
 		let start = g.views["start"];
-        var map = new google.maps.Map(document.getElementById('mainPane'), {
+        var map = new google.maps.Map(document.getElementById('mapDiv'), {
           zoom: start.zoom,
           center: start.ll
         });
