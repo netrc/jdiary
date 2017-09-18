@@ -233,19 +233,19 @@
 		},
 
 	"ICONS": {
-		  "plane":"http://www.gstatic.com/mapspro/images/stock/103-plane.png",
-		  "hotel":"http://www.gstatic.com/mapspro/images/stock/1035-biz-hotel.png",
-		  "house":"http://www.gstatic.com/mapspro/images/stock/1037-biz-house.png",
-		  "medic":"http://www.gstatic.com/mapspro/images/stock/1047-biz-medical.png",
-		  "theater":"http://www.gstatic.com/mapspro/images/stock/1107-biz-theater.png",
-		  "poisongas":"http://www.gstatic.com/mapspro/images/stock/1169-crisis-poison-gas.png",
-		  "hq":"http://www.gstatic.com/mapspro/images/stock/1197-fac-headquarters.png",
-		  "monument":"http://www.gstatic.com/mapspro/images/stock/1263-poi-historic-monument.png",
-		  "houses":"http://www.gstatic.com/mapspro/images/stock/1271-poi-housing-development.png",
-		  "music":"http://www.gstatic.com/mapspro/images/stock/1293-poi-music.png",
-		  "anchor":"http://www.gstatic.com/mapspro/images/stock/1443-trans-marine.png",
-		  "train":"http://www.gstatic.com/mapspro/images/stock/1463-trans-tram.png",
-		  "tent":"http://www.gstatic.com/mapspro/images/stock/31-campground.png"
+		  "plane":"https://www.gstatic.com/mapspro/images/stock/103-plane.png",
+		  "hotel":"https://www.gstatic.com/mapspro/images/stock/1035-biz-hotel.png",
+		  "house":"https://www.gstatic.com/mapspro/images/stock/1037-biz-house.png",
+		  "medic":"https://www.gstatic.com/mapspro/images/stock/1047-biz-medical.png",
+		  "theater":"https://www.gstatic.com/mapspro/images/stock/1107-biz-theater.png",
+		  "poisongas":"https://www.gstatic.com/mapspro/images/stock/1169-crisis-poison-gas.png",
+		  "hq":"https://www.gstatic.com/mapspro/images/stock/1197-fac-headquarters.png",
+		  "monument":"https://www.gstatic.com/mapspro/images/stock/1263-poi-historic-monument.png",
+		  "houses":"https://www.gstatic.com/mapspro/images/stock/1271-poi-housing-development.png",
+		  "music":"https://www.gstatic.com/mapspro/images/stock/1293-poi-music.png",
+		  "anchor":"https://www.gstatic.com/mapspro/images/stock/1443-trans-marine.png",
+		  "train":"https://www.gstatic.com/mapspro/images/stock/1463-trans-tram.png",
+		  "tent":"https://www.gstatic.com/mapspro/images/stock/31-campground.png"
 	},
 
 	"LOCS":[
