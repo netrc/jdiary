@@ -24,6 +24,11 @@
 	width: 700;
 	z-index: 20;
 }
+#mapDiv {
+	position: fixed;
+	height: 500;
+	width: 700;
+}
 
 body {
 	background: #16222A; /* fallback for old browsers */
