@@ -51,6 +51,12 @@ footer {
 	font-family: 'Alegreya Sans', sans-serif;
 	color: #010101;
 }
+.pageThumb {
+	margin: auto;
+	width: 50%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
 .entryText {
 	font-family: 'Handlee';
 	color: #444;
@@ -61,8 +67,8 @@ footer {
 	padding-right: 20px;
 	padding-bottom: 2px;
 	margin: 3px;
-	border-top-right-radius: 5px;
-	border-bottom-right-radius: 5px;
+	border-top-right-radius: 8px;
+	border-bottom-right-radius: 8px;
 }
 .note {
 	font-family: 'Alegreya Sans', sans-serif;

@@ -59,10 +59,10 @@ function showEntry(jd) {
 		} else {
 			console.log(`cant find page pic for this day: ${jd.jtag}`);
 		}
-		g.mainTextEl.append(`<a target="_blank" href="${pFull}"> <img src="${pThumb}"> </a>`);
+		g.mainTextEl.append(`<div class="pageThumb"> <a target="_blank" href="${pFull}"> <img src="${pThumb}"> </a> </div>`);
 		g.currPTag = jd.jtag;
-	} else { // tmp for testing
-		g.mainTextEl.append("<p> no new page </p>");
+	} else { 
+		//g.mainTextEl.append("<p> no new page </p>");
 	}
 
 	g.mainTextEl.append("<a href=\"#" + jd.date + "\"></a>\n");
