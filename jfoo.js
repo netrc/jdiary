@@ -66,7 +66,7 @@ function showEntry(jd) {
 	}
 
 	g.mainTextEl.append("<a href=\"#" + jd.date + "\"></a>\n");
-	g.mainTextEl.append("<p> " + convertMarkdown(jd.text) + "</p>");
+	g.mainTextEl.append("<div class='entryText'> <p> " + convertMarkdown(jd.text) + "</p></div>");
 	if (jd.hasOwnProperty('notes')) {
 		let nbName = "nb"+jd.date;
 		g.mainTextEl.append("<button class=\"accordion\" id=\""+nbName+"\">Notes...</button>");

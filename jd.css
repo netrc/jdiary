@@ -51,6 +51,19 @@ footer {
 	font-family: 'Alegreya Sans', sans-serif;
 	color: #010101;
 }
+.entryText {
+	font-family: 'Handlee';
+	color: #444;
+	background: #999;
+	background: linear-gradient(#fcf9f4, #fdeeda);
+	padding-top: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 2px;
+	margin: 3px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
 .note {
 	font-family: 'Alegreya Sans', sans-serif;
 	font-style: italic;
