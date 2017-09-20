@@ -12,6 +12,7 @@ var g = {   // The Global State (boo!)
 	lastPageAvail: 0,
 	currLocTag: '',
 	currPTag: '',
+	mainTextEl: '',
 	pages: {}, // object with properties set to page tages, e.g. "p001"
 	icons: {}, // object with properties set to icon tags, e.g. "anchor"
 	locs: [],	// array of location objects
@@ -48,32 +49,28 @@ function setView() {
 
 
 function showEntry(jd) {
-	div = $("#mainText");
+	console.log(`showEntry: d jtag: ${jd.jtag}`);
 
-	let u = "https://lh3.googleusercontent.com/v_Ra1lXpZaBC7bQlsW912NhWqBMjNXJZHQwEIxJMkX4FNRtQWH8Nqp-MjIgLivAqrwTA5cfbSrKFXOys8i1nbaCoCQdg8hOh1ZJGMhyzR9rhllBkF2Hr8FgWO4QXF6Rd_xlywJ-Rk03teeTybZ4JnvYju3713RvzyBtoZ7_TExUDXHZdDz0NnXvO0B1KVH6Ny3L_iC-3ueYgSOTqfXN-eZL7XndmMcjoVJimpqRCO1dmWDThIcxVpwre3WGazBCrvUNXTbz15GYF61IrcSGvqhOHy7kAKDOBVz7X_ZhbgP8TIO237LNVK32gTwaZ8jvF0vI8ks1xD6N9egxpIWMr9K4yyvXRe8YrEzW1kAcvvxHmj3o2sGqnH7-PE3UJqICH1DCwY3TOOF49QGksBfBLuisD5k-YRG3LOxANVbQdayMjeUHuLcSswARGX4aiRrapQU0-MnLmnYnGZyh9i-5otNJd7eBDq62pnWlGUfYy4pR_ChLyr-fw1NReMhR6BjR86EwIVFqYPK_Z1fn96QodSdvk0bGa_Vl5WiR0RFXfHc8ih_-cMLqbzeADv7bRCrd6Wbmfo4b0kVAUGawNWSWVbFWSmiRG81pvltCZe3CvFbsNiSHw46t-u0UEAqH_Ok24-UyKkGVciextnq9QQEQADJxTf5U_O-agIGue=w1096-h858-no";
-	let u2 = "https://lh3.googleusercontent.com/v_Ra1lXpZaBC7bQlsW912NhWqBMjNXJZHQwEIxJMkX4FNRtQWH8Nqp-MjIgLivAqrwTA5cfbSrKFXOys8i1nbaCoCQdg8hOh1ZJGMhyzR9rhllBkF2Hr8FgWO4QXF6Rd_xlywJ-Rk03teeTybZ4JnvYju3713RvzyBtoZ7_TExUDXHZdDz0NnXvO0B1KVH6Ny3L_iC-3ueYgSOTqfXN-eZL7XndmMcjoVJimpqRCO1dmWDThIcxVpwre3WGazBCrvUNXTbz15GYF61IrcSGvqhOHy7kAKDOBVz7X_ZhbgP8TIO237LNVK32gTwaZ8jvF0vI8ks1xD6N9egxpIWMr9K4yyvXRe8YrEzW1kAcvvxHmj3o2sGqnH7-PE3UJqICH1DCwY3TOOF49QGksBfBLuisD5k-YRG3LOxANVbQdayMjeUHuLcSswARGX4aiRrapQU0-MnLmnYnGZyh9i-5otNJd7eBDq62pnWlGUfYy4pR_ChLyr-fw1NReMhR6BjR86EwIVFqYPK_Z1fn96QodSdvk0bGa_Vl5WiR0RFXfHc8ih_-cMLqbzeADv7bRCrd6Wbmfo4b0kVAUGawNWSWVbFWSmiRG81pvltCZe3CvFbsNiSHw46t-u0UEAqH_Ok24-UyKkGVciextnq9QQEQADJxTf5U_O-agIGue=";
-	console.log(`jd jtag: ${jd.jtag}`);
-	let u2T = "", u2F = "";
 	if (g.currPTag != jd.jtag) {  // then, new page to view
+		let pThumb = "", pFull = "";
 		if (g.pages.hasOwnProperty(jd.jtag)) {
-			u2T = g.pages[jd.jtag].baseURL + "w110-h86-no";
-			u2F = g.pages[jd.jtag].fullPage;
+			pThumb = g.pages[jd.jtag].baseURL + "w110-h86-no";
+			pFull = g.pages[jd.jtag].fullPage;
 		} else {
-			let u2T = u2 + "w110-h86-no";
-			let u2F = "https://photos.app.goo.gl/RqqyZORCiPI2incM2";
+			console.log(`cant find page pic for this day: ${jd.jtag}`);
 		}
-		div.append("<a target=\"_blank\" href=\"" +u2F+ "\"> <img src=\"" + u2T + "\"> </a>");
+		g.mainTextEl.append(`<a target="_blank" href="${pFull}"> <img src="${pThumb}"> </a>`);
 		g.currPTag = jd.jtag;
 	} else { // tmp for testing
-		div.append("<p> no new page </p>");
+		g.mainTextEl.append("<p> no new page </p>");
 	}
 
-	div.append("<a href=\"#" + jd.date + "\"></a>\n");
-	div.append("<p> " + convertMarkdown(jd.text) + "</p>");
+	g.mainTextEl.append("<a href=\"#" + jd.date + "\"></a>\n");
+	g.mainTextEl.append("<p> " + convertMarkdown(jd.text) + "</p>");
 	if (jd.hasOwnProperty('notes')) {
 		let nbName = "nb"+jd.date;
-		div.append("<button class=\"accordion\" id=\""+nbName+"\">Notes...</button>");
-		div.append("<div class=\"panel active\"> <p> " + convertMarkdown(jd.notes) + "</p></div>");
+		g.mainTextEl.append("<button class=\"accordion\" id=\""+nbName+"\">Notes...</button>");
+		g.mainTextEl.append("<div class=\"panel active\"> <p> " + convertMarkdown(jd.notes) + "</p></div>");
 		$("#"+nbName).click = function() {
 			$(this).next().slideToggle('fast');
 			//this.classList.toggle("active");
@@ -90,7 +87,6 @@ function showEntry(jd) {
 	// move map to new view if needed
 	// inactivate prev/next buttons as necesary
 	//location.href = "https://codepen.io/netrc/pen/oGgLjN#" + thisDD.date;
-
 }
 
 function initMap() {
@@ -157,6 +153,7 @@ function initPage(){
 	//$("#next").click(nextEntry);
 	////$("#prev").click(prevEntry);
 	console.log("initPage - URL=: " + location.href);
+	g.mainTextEl = $("#mainText");
 	$.get(g.diaryURL, doJSON);
 }
 
