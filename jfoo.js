@@ -17,7 +17,7 @@ var g = {   // The Global State (boo!)
 	icons: {}, // object with properties set to icon tags, e.g. "anchor"
 	locs: [],	// array of location objects
 	views: {}, // object with properties set to view tags, e.g. "start"
-	nbState: {}, // obj with props for each Button to hold vis State
+	nbVisible: {}, // obj with props for each Button to hold vis State
 	gMapUrl: "https://www.google.com/maps/d/embed?mid=1gq6dzgv8SMbpdThRQ4nj9U8zT_A",
 	jd: {}
 }
@@ -73,19 +73,20 @@ function showEntry(jd) {
 		let nName = "n"+jd.date;
 		let nb = $(`<button class="accordion" id="${nbName}">Notes...</button>`);
 		g.mainTextEl.append(nb);
-		g.mainTextEl.append(`<div class="panel hide" id="${nName}"> <p> ${convertMarkdown(jd.notes)} </p></div>`);
-		g.nbState[nbName] = false;
+		let nn = $(`<div class="panel hide" id="${nName}"> <p> ${convertMarkdown(jd.notes)} </p></div>`);
+		g.mainTextEl.append(nn);
+		g.nbVisible[nbName] = false;
 		nb.click(function() {
-			console.log(`${nbName} clicked - curr state ${g.nbState[nbName]}`);
-		 	if (g.nbState[nbName]) { // true == visible, so hide it
-		 		$(`#${nName}`).slideUp('fast',function(){
-		 			$(`#${nName}`).addClass(`hide`).slideDown(0);
-		 			g.nbState[nbName] = false;
+			//console.log(`${nbName} clicked - curr state ${g.nbState[nbName]}`);
+		 	if (g.nbVisible[nbName]) { // true == visible, so hide it
+		 		nn.slideUp('fast',function(){
+		 			nn.addClass(`hide`).slideDown(0);
+		 			g.nbVisible[nbName] = false;
 		 		});
 		 	} else {  // false == hidden, so show it
-		 		$(`#${nName}`).slideUp(0,function(){
-		 			$(`#${nName}`).removeClass(`hide`).slideDown(`fast`);
-		 			g.nbState[nbName] = true;
+		 		nn.slideUp(0,function(){
+		 			nn.removeClass(`hide`).slideDown(`fast`);
+		 			g.nbVisible[nbName] = true;
 		 		});
 		 	}
 		});
