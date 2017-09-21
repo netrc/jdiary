@@ -15,11 +15,11 @@
 	z-index: 50;
 	background: #CCC;
 	border-radius: 20px;
-	opacity: 0.9;  
+	opacity: 0.9;
 }
 #mainPane {
 	position: fixed;
-	left: 431px; 
+	left: 431px;
 	top: 10px;
 	height: 500;
 	width: 700;
@@ -73,7 +73,7 @@ footer {
 .note {
 	font-family: 'Alegreya Sans', sans-serif;
 	font-style: italic;
-	color: #111;  
+	color: #111;
 }
 .navb {
 	position: relative;
@@ -91,7 +91,6 @@ button.accordion {
     text-align: left;
     outline: none;
     font-size: 15px;
-    transition: 0.4s;
 }
 
 button.accordion.active, button.accordion:hover {
@@ -101,7 +100,11 @@ button.accordion.active, button.accordion:hover {
 div.panel {
     padding: 0 18px;
     background-color: white;
-    max-height: 0;
     overflow: hidden;
-    transition: max-height 0.2s ease-out;
+}
+
+.hide {
+   position: absolute !important;
+   top: -9999px !important;
+   left: -9999px !important;
 }

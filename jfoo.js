@@ -7,7 +7,7 @@ var ltag = {
 var g = {   // The Global State (boo!)
 	//diaryURL: "https://netrc.github.io/jdiary/diary.json",
 	diaryURL: "diary.json",  //"dtest.json",   // relative to current URL
-	dataURL: "data.json",  
+	dataURL: "data.json",
 	currPage: 0,
 	lastPageAvail: 0,
 	currLocTag: '',
@@ -17,6 +17,7 @@ var g = {   // The Global State (boo!)
 	icons: {}, // object with properties set to icon tags, e.g. "anchor"
 	locs: [],	// array of location objects
 	views: {}, // object with properties set to view tags, e.g. "start"
+	nbState: {}, // obj with props for each Button to hold vis State
 	gMapUrl: "https://www.google.com/maps/d/embed?mid=1gq6dzgv8SMbpdThRQ4nj9U8zT_A",
 	jd: {}
 }
@@ -61,26 +62,33 @@ function showEntry(jd) {
 		}
 		g.mainTextEl.append(`<div class="pageThumb"> <a target="_blank" href="${pFull}"> <img src="${pThumb}"> </a> </div>`);
 		g.currPTag = jd.jtag;
-	} else { 
+	} else {
 		//g.mainTextEl.append("<p> no new page </p>");
 	}
 
-	g.mainTextEl.append("<a href=\"#" + jd.date + "\"></a>\n");
-	g.mainTextEl.append("<div class='entryText'> <p> " + convertMarkdown(jd.text) + "</p></div>");
+	g.mainTextEl.append(`<a href="#${jd.date}"></a>`);
+	g.mainTextEl.append(`<div class="entryText"> <p> ${convertMarkdown(jd.text)} </p></div>`);
 	if (jd.hasOwnProperty('notes')) {
 		let nbName = "nb"+jd.date;
-		g.mainTextEl.append("<button class=\"accordion\" id=\""+nbName+"\">Notes...</button>");
-		g.mainTextEl.append("<div class=\"panel active\"> <p> " + convertMarkdown(jd.notes) + "</p></div>");
-		$("#"+nbName).click = function() {
-			$(this).next().slideToggle('fast');
-			//this.classList.toggle("active");
-			//let panel = this.nextElementSibling;
-			//if (panel.style.maxHeight){
-			  //panel.style.maxHeight = null;
-			//} else {
-			  //panel.style.maxHeight = panel.scrollHeight + "px";
-			//}
-		};
+		let nName = "n"+jd.date;
+		let nb = $(`<button class="accordion" id="${nbName}">Notes...</button>`);
+		g.mainTextEl.append(nb);
+		g.mainTextEl.append(`<div class="panel hide" id="${nName}"> <p> ${convertMarkdown(jd.notes)} </p></div>`);
+		g.nbState[nbName] = false;
+		nb.click(function() {
+			console.log(`${nbName} clicked - curr state ${g.nbState[nbName]}`);
+		 	if (g.nbState[nbName]) { // true == visible, so hide it
+		 		$(`#${nName}`).slideUp('fast',function(){
+		 			$(`#${nName}`).addClass(`hide`).slideDown(0);
+		 			g.nbState[nbName] = false;
+		 		});
+		 	} else {  // false == hidden, so show it
+		 		$(`#${nName}`).slideUp(0,function(){
+		 			$(`#${nName}`).removeClass(`hide`).slideDown(`fast`);
+		 			g.nbState[nbName] = true;
+		 		});
+		 	}
+		});
 	}
 
 	//setView();
@@ -105,7 +113,7 @@ function initMap() {
 		ico = g.icons["anchor"];
         var m1 = new google.maps.Marker({ position: uluru, map: map });
         var m2 = new google.maps.Marker({ position: adelaide, map: map, icon: ico });
-		g.locs.forEach(function(l) {	// icon, name, ll, text	
+		g.locs.forEach(function(l) {	// icon, name, ll, text
 			console.log(`loc: ${l.name}  ${l.icon}`);
 			new google.maps.Marker({ position: l.ll, map: map, icon: g.icons[l.icon] });
 		});
@@ -159,12 +167,12 @@ function initPage(){
 
 function apiReady() {
 	console.log("apiReady...");
-	$(document).ready(initPage); 
+	$(document).ready(initPage);
 }
 
 // add map programmatically
 // (flight pan from marker to marker)
-// 
+//
 // Text
 // Just add as normal text to HTML page / or fake #include it
 //   ... this allows easier/better placement of extra links
