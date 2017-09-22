@@ -2,7 +2,7 @@
 #mainText, #mainTextBackground {
 	position: absolute;
 	left: 10px;
-	top: 10px;
+	top: 40px;
 	padding: 10px;
 	height: 90%;
 	width: 400px;
@@ -19,8 +19,8 @@
 }
 #mainPane {
 	position: fixed;
-	left: 431px;
-	top: 10px;
+	left: 435px;
+	top: 45px;
 	height: 500;
 	width: 700;
 	z-index: 20;
@@ -36,7 +36,7 @@ body {
 	background: linear-gradient(to right, #16222A , #3A6073);   }
 	body, html {
 	font-family: sans-serif;
-	color: #99BBBB;
+	color: #334444;
 }
 h2 {
 	font-family: 'Alegreya Sans', sans-serif;
@@ -46,6 +46,14 @@ footer {
 	width: 100%;
 	bottom: 0;
 	position: absolute;
+}
+.navbar {
+	height: 30px;
+	width: 100%;
+	background: black;
+	font-family: 'Alegreya Sans', sans-serif;
+	color: white;
+	padding-left: 20px;
 }
 .intro {
 	font-family: 'Alegreya Sans', sans-serif;
@@ -70,11 +78,6 @@ footer {
 	border-top-right-radius: 8px;
 	border-bottom-right-radius: 8px;
 }
-.note {
-	font-family: 'Alegreya Sans', sans-serif;
-	font-style: italic;
-	color: #111;
-}
 .navb {
 	position: relative;
 	right: 0px;
@@ -97,9 +100,16 @@ button.accordion.active, button.accordion:hover {
     background-color: #ddd;
 }
 
-div.panel {
-    padding: 0 18px;
-    background-color: white;
+div.note {
+	width: 260;
+    padding: 3px 20px 4px 30px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 20px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	font-family: "Alegreya Sans";
+    background: linear-gradient(to right, #fcf9f4, #faebd7);
     overflow: hidden;
 }
 

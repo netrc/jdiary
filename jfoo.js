@@ -157,13 +157,31 @@ function doJSON(data, status) {
 	g.lastPageAvail = g.jd.length-1; // NO LONGER USED
 	$.get(g.dataURL, doData);
 }
+
+function doRouting() {
+	let newU = location.href;
+	console.log(`doRouting: ${newU}`)// manual routing
+	$(`#app`).empty();
+	if (newU.match(/.*#Introduction/)) {
+		$(`#app`).append(`<h1> Introduction </h1>`);
+	} else if (newU.match(/.*#Notes/)) {
+		$(`#app`).append(`<h1> Notes </h1>`);
+	} else { // THE DIARY
+		$(`#app`).append(`	<div id="mainText"> </div> <div id="mainPane"> <div id="mapDiv"> </div> </div>`)
+		g.mainTextEl = $("#mainText");
+		$.get(g.diaryURL, doJSON);
+	}
+}
+
 function initPage(){
 	//$("#next").click(setView);
 	//$("#next").click(nextEntry);
 	////$("#prev").click(prevEntry);
+	window.onhashchange = doRouting;
 	console.log("initPage - URL=: " + location.href);
-	g.mainTextEl = $("#mainText");
-	$.get(g.diaryURL, doJSON);
+	// auto start if URL is empty
+	location.href="#Introduction";
+	//doRouting(); // why do I have to call this?
 }
 
 function apiReady() {
