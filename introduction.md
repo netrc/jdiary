@@ -8,3 +8,5 @@ Much later, as The Great War started in Europe, Jesse would have been 18 years o
 The 17th Aero Squadron was created..... early training was at Kelly Field, near Fort Worth, Texas and was sent to England, then France.
 
 We'll never know if Jesse volunteered for the Air Corps or was given that position. Oddly, in his diary, he writes about Italian language lessons his group was given in preparation for the Italian front. Italy played one side against the other for several months in 1916- finally getting better concessions of eventual land winnings from the Allies, and so joined the Allies in 1917??.  There was aerial combat with Italian bombers along the Austro-Hungarian mountain border, but Jesse's tour took a different turn.
+
+Read <a href="#diary"> the diary...</a>
