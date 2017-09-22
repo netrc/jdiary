@@ -73,7 +73,7 @@ function showEntry(jd) {
 		let nName = "n"+jd.date;
 		let nb = $(`<button class="accordion" id="${nbName}">Notes...</button>`);
 		g.mainTextEl.append(nb);
-		let nn = $(`<div class="panel hide" id="${nName}"> <p> ${convertMarkdown(jd.notes)} </p></div>`);
+		let nn = $(`<div class="note hide" id="${nName}"> <p> ${convertMarkdown(jd.notes)} </p></div>`);
 		g.mainTextEl.append(nn);
 		g.nbVisible[nbName] = false;
 		nb.click(function() {
