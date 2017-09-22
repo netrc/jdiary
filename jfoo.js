@@ -76,7 +76,7 @@ function showEntry(jd) {
 		let nn = $(`<div class="note hide" id="${nName}"> <p> ${convertMarkdown(jd.notes)} </p></div>`);
 		g.mainTextEl.append(nn);
 		g.nbVisible[nbName] = false;
-		nb.click(function() {
+		nb.click(function() {	 // see http://jsfiddle.net/chriscoyier/zgtfA/1/
 			//console.log(`${nbName} clicked - curr state ${g.nbState[nbName]}`);
 		 	if (g.nbVisible[nbName]) { // true == visible, so hide it
 		 		nn.slideUp('fast',function(){
