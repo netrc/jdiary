@@ -8,6 +8,8 @@ var g = {   // The Global State (boo!)
 	//diaryURL: "https://netrc.github.io/jdiary/diary.json",
 	diaryURL: "diary.json",  //"dtest.json",   // relative to current URL
 	dataURL: "data.json",
+	introMD: "introduction.md",
+	notesMD: "notes.md",
 	currPage: 0,
 	lastPageAvail: 0,
 	currLocTag: '',
@@ -158,12 +160,20 @@ function doJSON(data, status) {
 	$.get(g.dataURL, doData);
 }
 
+function doIntro(data, status) {
+	if (status != "success") {
+		console.log("get diary json error: " + status);
+		return;
+	}
+	$(`#app`).append(`<div id="intro"> ${convertMarkdown(data)}</div>`);
+}
+
 function doRouting() {
 	let newU = location.href;
 	console.log(`doRouting: ${newU}`)// manual routing
 	$(`#app`).empty();
 	if (newU.match(/.*#Introduction/)) {
-		$(`#app`).append(`<h1> Introduction </h1>`);
+		$.get(g.introMD, doIntro);
 	} else if (newU.match(/.*#Notes/)) {
 		$(`#app`).append(`<h1> Notes </h1>`);
 	} else { // THE DIARY
