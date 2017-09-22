@@ -55,6 +55,10 @@ footer {
 	color: white;
 	padding-left: 20px;
 }
+.navbar a {
+	color: white;
+	text-decoration: none;
+}
 #intro {
 	font-family: 'Alegreya Sans', sans-serif;
 	background: linear-gradient(#fcf9f4, #fdeeda);
