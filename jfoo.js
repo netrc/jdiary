@@ -15,6 +15,7 @@ var g = {   // The Global State (boo!)
 	currLocTag: '',
 	currPTag: '',
 	mainTextEl: '',
+	pageTop: [],  // array of offsets for each entry-card displayed
 	pages: {}, // object with properties set to page tages, e.g. "p001"
 	icons: {}, // object with properties set to icon tags, e.g. "anchor"
 	locs: [],	// array of location objects
@@ -38,18 +39,6 @@ function convertNoteMarkdown( s ) {
 	return "<br><hr><br>" + convertMarkdown(s);
 }
 
-function setView() {
-	var m = $("#map");
-	if( g.jd[g.currPage].hasOwnProperty("locTag") ) {
-		var thisLocTag = g.jd[g.currPage].locTag;
-		if (g.currLocTag != thisLocTag) {
-			g.currLocTag = thisLocTag;
-			var mm = ltag[thisLocTag];
-			m.attr("src",g.gMapUrl+mm)
-		}
-	}
-}
-
 
 function showEntry(jd) {
 	console.log(`showEntry: d jtag: ${jd.jtag}`);
@@ -69,7 +58,7 @@ function showEntry(jd) {
 	}
 
 	g.mainTextEl.append(`<a href="#${jd.date}"></a>`);
-	g.mainTextEl.append(`<div class="entryText"> <p> ${convertMarkdown(jd.text)} </p></div>`);
+	g.mainTextEl.append(`<div class="entryText" id="jd${jd.date}"> <p> ${convertMarkdown(jd.text)} </p></div>`);
 	if (jd.hasOwnProperty('notes')) {
 		let nbName = "nb"+jd.date;
 		let nName = "n"+jd.date;
@@ -115,6 +104,18 @@ function initMap() {
 		//map.panTo(adelaide);
 }
 
+function setView() {
+	var m = $("#map");
+	if( g.jd[g.currPage].hasOwnProperty("locTag") ) {
+		var thisLocTag = g.jd[g.currPage].locTag;
+		if (g.currLocTag != thisLocTag) {
+			g.currLocTag = thisLocTag;
+			var mm = ltag[thisLocTag];
+			m.attr("src",g.gMapUrl+mm)
+		}
+	}
+}
+
 function doData(data, status) {
 	console.log("doData...");
 	if (status != "success") {
@@ -135,6 +136,25 @@ function doData(data, status) {
 		showEntry(jd);
 	});
 	initMap();
+	// for scroll-mapping...
+	// get scroll offsets of each page card
+	g.jd.map( jd => {  // orjust add pTop absOffset to existing g.jd objects
+		console.log(`getting top of #${jd.date}`);
+		g.pageTop.push( {jd: jd, absOffset: $(`#jd${jd.date}`).offset().top});
+	});
+	// other idea, in order to not have to search array
+	// ... keep linear/integer array of Top-pos mod 10 (about 1000 elems); just index into this array rather than search
+	g.currView = '';
+	$(`#mainText`).on('scroll',function(){
+		let scrollTopPos = $(this).scrollTop(); // curr scroll position
+		console.log(`scroll - stp: ${scrollTopPos}`);
+		// magic number 120 seems to give good results
+		let currPageTop = g.pageTop.find( pt => { return scrollTopPos-120 < pt.absOffset;});
+		if (g.currView != currPageTop.jd.vtag) {
+			console.log(`scroll - new view - ${currPageTop.jd.vtag}`);
+			g.currView = currPageTop.jd.vtag;
+		}
+	});
 }
 
 function doJSON(data, status) {
