@@ -64,8 +64,6 @@ function showEntry(jd) {
 	g.mainTextEl.append(`<div class="entryText" id="jd${jd.date}"> <p> ${convertMarkdown(jd.text)} </p> ${nbDiv}</div>`);
 	if (jd.hasOwnProperty('notes')) {
 		let nName = "n"+jd.date;
-		//let nb = $(`<button class="accordion" id="${nbName}">Notes...</button>`);
-		//g.mainTextEl.append(nb);
 		let nn = $(`<div class="note hide" id="${nName}"> <p> ${convertMarkdown(jd.notes)} </p></div>`);
 		g.mainTextEl.append(nn);
 		g.nbVisible[nbName] = false;
