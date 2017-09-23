@@ -273,8 +273,8 @@
 		{ "icon":"tent", "name":"Kelly Field, Texas", "ll":{"lng":-98.584313,"lat":29.381128}, "text":"1917 training" }
 	],
 	"VIEWS": {
-		"start":{"ll":{"lat":40,"lng":-48},"zoom":3},
-		"home":{"ll":"42.18,-82.70","zoom":3},
-		"mineola":{"ll":"42.73,-73.86","zoom":3}
+		"Start":{"ll":{"lat":40,"lng":-48},"zoom":3},
+		"Home":{"ll":{"lat":42.18,"lng":-82.70},"zoom":6},
+		"Mineola":{"ll":{"lat":42.73,"lng":-73.86},"zoom":7}
 	}
 }
