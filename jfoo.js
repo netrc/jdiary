@@ -9,7 +9,7 @@ var g = {   // The Global State (boo!)
 	diaryURL: "diary.json",  //"dtest.json",   // relative to current URL
 	dataURL: "data.json",
 	introMD: "introduction.md",
-	notesMD: "notes.md",
+	otherNotesMD: "otherNotes.md",
 	currPage: 0,
 	lastPageAvail: 0,
 	currLocTag: '',
@@ -102,25 +102,16 @@ function showEntry(jd) {
 
 function initMap() {
 	console.log("initMap...");
-	  var uluru = {lat: -25.363, lng: 131.044};
-		var adelaide = {lat: -34.92899, lng: 138.601};
-
-		let start = g.views["start"];
-        var map = new google.maps.Map(document.getElementById('mapDiv'), {
-          zoom: start.zoom,
-          center: start.ll
-        });
-
-		let ico = "";
-		ico = "http://www.gstatic.com/mapspro/images/stock/1443-trans-marine.png";
-		ico = g.icons["anchor"];
-        var m1 = new google.maps.Marker({ position: uluru, map: map });
-        var m2 = new google.maps.Marker({ position: adelaide, map: map, icon: ico });
-		g.locs.forEach(function(l) {	// icon, name, ll, text
-			console.log(`loc: ${l.name}  ${l.icon}`);
-			new google.maps.Marker({ position: l.ll, map: map, icon: g.icons[l.icon] });
+	let start = g.views["start"];
+  var map = new google.maps.Map(document.getElementById('mapDiv'), {
+      zoom: start.zoom,
+      center: start.ll
 		});
 
+	g.locs.forEach(function(l) {	// icon, name, ll, text
+		//console.log(`loc: ${l.name}  ${l.icon}`);
+		new google.maps.Marker({ position: l.ll, map: map, title: l.name, icon: g.icons[l.icon] });
+	});
 		//map.panTo(adelaide);
 }
 
@@ -162,10 +153,36 @@ function doJSON(data, status) {
 
 function doIntro(data, status) {
 	if (status != "success") {
-		console.log("get diary json error: " + status);
+		console.log("get intro md error: " + status);
 		return;
 	}
 	$(`#app`).append(`<div id="intro"> ${convertMarkdown(data)}</div>`);
+}
+function doOtherNotes(data, status) {
+	if (status != "success") {
+		console.log("get other notes error: " + status);
+		return;
+	}
+	$(`#app`).append(`<div id="intro"> ${convertMarkdown(data)}</div>`);
+}
+
+function doPrint(data, status) {
+	if (status != "success") {
+		console.log("get other notes error: " + status);
+		return;
+	}
+	if (typeof(data) === "string") {  // local python http doesn't return JSON
+		data = JSON.parse(data);
+	}
+	var t = "";
+	g.jd = data;
+	g.jd.forEach(function(jd) {
+		t += `<p> ${convertMarkdown(jd.text)} </p>`;
+		if (jd.hasOwnProperty('notes')) {
+ 			t += `<p> NOTE: ${convertMarkdown(jd.notes)} </p>`;
+		}
+	});
+	$(`#app`).append(`<div id="intro"> ${t}</div>`);
 }
 
 function doRouting() {
@@ -175,7 +192,9 @@ function doRouting() {
 	if (newU.match(/.*#Introduction/)) {
 		$.get(g.introMD, doIntro);
 	} else if (newU.match(/.*#Notes/)) {
-		$(`#app`).append(`<h1> Notes </h1>`);
+		$.get(g.otherNotesMD, doOtherNotes);
+	} else if (newU.match(/.*#Print/)) {
+		$.get(g.diaryURL, doPrint);
 	} else { // THE DIARY
 		$(`#app`).append(`	<div id="mainText"> </div> <div id="mainPane"> <div id="mapDiv"> </div> </div>`)
 		g.mainTextEl = $("#mainText");
