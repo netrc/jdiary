@@ -275,6 +275,9 @@
 	"VIEWS": {
 		"Start":{"ll":{"lat":40,"lng":-48},"zoom":3},
 		"Home":{"ll":{"lat":42.18,"lng":-82.70},"zoom":6},
-		"Mineola":{"ll":{"lat":42.73,"lng":-73.86},"zoom":7}
+		"Mineola":{"ll":{"lat":40.8,"lng":-73.85},"zoom":9},
+		"Halifax":{"ll":{"lat":44.5,"lng":-63.45},"zoom":6},
+		"Fastnet":{"ll":{"lat":52.3,"lng":-7.6},"zoom":7},
+		"Liverpool":{"ll":{"lat":53.4,"lng":-2.9},"zoom":7}		
 	}
 }
