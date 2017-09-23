@@ -245,6 +245,7 @@
 		  "music":"https://www.gstatic.com/mapspro/images/stock/1293-poi-music.png",
 		  "anchor":"https://www.gstatic.com/mapspro/images/stock/1443-trans-marine.png",
 		  "train":"https://www.gstatic.com/mapspro/images/stock/1463-trans-tram.png",
+			"ship":"http://www.gstatic.com/mapspro/images/stock/1443-trans-marine.png",
 		  "tent":"https://www.gstatic.com/mapspro/images/stock/31-campground.png"
 	},
 
@@ -253,6 +254,8 @@
 		{ "icon":"plane", "name":"Chanute Field", "ll":{"lng":-88.1438487,"lat":40.2889062}, "text":"[|https://en.wikipedia.org/wiki/Chanute_Air_Force_Base]" },
 		{ "icon":"tent", "name":"Camp Mills (Mineola)", "ll":{"lng":-73.620801,"lat":40.7269173}, "text":"[|https://en.wikipedia.org/wiki/Camp_Mills]" },
 		{ "icon":"anchor", "name":"RMS Carmania", "ll":{"lng":-74.0139055,"lat":40.6833392}, "text":"" },
+		{ "icon":"anchor", "name":"Halifax", "ll":{"lng":-63.56526, "lat":44.64001}, "text":"" },
+		{ "icon":"ship", "name": "GrandBanks", "ll":{"lng":-49.48242,"lat":46.01222}, "text":""},
 		{ "icon":"monument", "name":"Fastnet Rock", "ll":{"lng":-9.5526123,"lat":51.3957784}, "text":"" },
 		{ "icon":"anchor", "name":"Liverpool", "ll":{"lng":-3.0053616,"lat":53.417666}, "text":"" },
 		{ "icon":"train", "name":"Birmingham", "ll":{"lng":-1.882782,"lat":52.475148}, "text":"" },
@@ -277,7 +280,8 @@
 		"Home":{"ll":{"lat":42.18,"lng":-82.70},"zoom":6},
 		"Mineola":{"ll":{"lat":40.8,"lng":-73.85},"zoom":9},
 		"Halifax":{"ll":{"lat":44.5,"lng":-63.45},"zoom":6},
+		"GrandBanks":{"ll":{"lat":47.7,"lng":-45.8},"zoom":4},
 		"Fastnet":{"ll":{"lat":52.3,"lng":-7.6},"zoom":7},
-		"Liverpool":{"ll":{"lat":53.4,"lng":-2.9},"zoom":7}		
+		"Liverpool":{"ll":{"lat":53.4,"lng":-2.9},"zoom":7}
 	}
 }

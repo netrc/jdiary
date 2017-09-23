@@ -66,3 +66,11 @@ USASp85 - From pilots trained in England on Sopwith Camel airplanes, two complet
 USASp87 - In the summer of 1917, 500 pilots were to b trained in Italy. ... Training center in Foggia Foggia-Renatico.
 
 USASp119 - The training of cadets commenced on Sept 4 1917 with the arrival of a detachment of 53 cadets and one officer at the British School of Military Aeronautics at Oxford.
+
+<h2> Unanswered Questions </h2>
+<ul>
+<li> To what unit/group was violinist Albert Spalding assigned? Where did he serve? And see various youtube recordings.
+</ul>
+
+<h2> Random </h2>
+Frank J. Campbell and Henry Ewald joined forces in 1911 but by 1917, two years before Chevrolet parked its account at the agency, Campbell was gone. He had sold his shares and peaced-out to war-torn France to work at a YMCA canteen. While Campbell still had his name on the door -- and it came first! -- Ewald was left to build the business, turning it into one of the biggest agencies around. Meanwhile, Campbell, a vet of the Spanish-American War, became a real-life prototype for the Most Interesting Man in the World, quite literally defying death. He survived a mustard gas attack. He was selected to hang a man for treason in World War II. He handled live rattlesnakes. Even his death was awesome: He was crushed by a 2,000-pound boulder while searching for agate rocks in Oregon at age 72. He basically did everything -- everything except run the ad agency with his name on it.  - http://adage.com/article/agency-news/mather-meet-lesser-men-famous-agency-names/241085/
