@@ -96,16 +96,11 @@ footer {
 	border-radius: 8px;
 }
 
-button.accordion {
-    background-color: #eee;
-    color: #444;
+div.accordion {
+    background-color: #f4e4d4;
+		width: 15%;
     cursor: pointer;
-    //padding: 18px;
-    width: 30%;
-    border: none;
-    text-align: left;
-    outline: none;
-    font-size: 15px;
+    font-style: italic;
 }
 
 button.accordion.active, button.accordion:hover {
