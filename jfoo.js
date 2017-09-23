@@ -22,6 +22,7 @@ var g = {   // The Global State (boo!)
 	views: {}, // object with properties set to view tags, e.g. "start"
 	nbVisible: {}, // obj with props for each Button to hold vis State
 	gMapUrl: "https://www.google.com/maps/d/embed?mid=1gq6dzgv8SMbpdThRQ4nj9U8zT_A",
+	gmap: 0,  // the Google Map object
 	jd: {}
 }
 
@@ -91,17 +92,16 @@ function showEntry(jd) {
 
 function initMap() {
 	console.log("initMap...");
-	let start = g.views["start"];
-  var map = new google.maps.Map(document.getElementById('mapDiv'), {
+	let start = g.views["Start"];
+  g.gmap = new google.maps.Map(document.getElementById('mapDiv'), {
       zoom: start.zoom,
       center: start.ll
 		});
 
 	g.locs.forEach(function(l) {	// icon, name, ll, text
 		//console.log(`loc: ${l.name}  ${l.icon}`);
-		new google.maps.Marker({ position: l.ll, map: map, title: l.name, icon: g.icons[l.icon] });
+		new google.maps.Marker({ position: l.ll, map: g.gmap, title: l.name, icon: g.icons[l.icon] });
 	});
-		//map.panTo(adelaide);
 }
 
 function setView() {
@@ -139,7 +139,7 @@ function doData(data, status) {
 	// for scroll-mapping...
 	// get scroll offsets of each page card
 	g.jd.map( jd => {  // orjust add pTop absOffset to existing g.jd objects
-		console.log(`getting top of #${jd.date}`);
+		//console.log(`getting top of #${jd.date}`);
 		g.pageTop.push( {jd: jd, absOffset: $(`#jd${jd.date}`).offset().top});
 	});
 	// other idea, in order to not have to search array
@@ -147,12 +147,18 @@ function doData(data, status) {
 	g.currView = '';
 	$(`#mainText`).on('scroll',function(){
 		let scrollTopPos = $(this).scrollTop(); // curr scroll position
-		console.log(`scroll - stp: ${scrollTopPos}`);
+		//console.log(`scroll - stp: ${scrollTopPos}`);
 		// magic number 120 seems to give good results
 		let currPageTop = g.pageTop.find( pt => { return scrollTopPos-120 < pt.absOffset;});
 		if (g.currView != currPageTop.jd.vtag) {
 			console.log(`scroll - new view - ${currPageTop.jd.vtag}`);
 			g.currView = currPageTop.jd.vtag;
+			if (g.views.hasOwnProperty(g.currView)) {
+				g.gmap.panTo(g.views[g.currView].ll);
+				g.gmap.setZoom(g.views[g.currView].zoom);
+			} else {
+				console.log(`missing VIEWS for ${g.currView}`)
+			}
 		}
 	});
 }
