@@ -30,9 +30,9 @@ function convertMarkdown( s ) {
 	// newlines to <p>
 	let ns = s.replace(/\n/g,"<p>");
 	// URLs with labels
-	ns = ns.replace(/\[\|(.*?)\|(.*?)\]/g,"<a href=\"$2\"> $1 </a>");
+	ns = ns.replace(/\[\|(.*?)\|(.*?)\]/g,`<a href="$2" target="_blank"> $1 </a>`);
 	// simple URLs
-	ns = ns.replace(/\[\|(.*?)\]/g,"<a href=\"$1\"> $1 </a>");
+	ns = ns.replace(/\[\|(.*?)\]/g, `<a href="$1" target="_blank"> $1 </a>`);
 
 	return ns;
 }
@@ -42,7 +42,7 @@ function convertNoteMarkdown( s ) {
 
 
 function showEntry(jd) {
-	console.log(`showEntry: d jtag: ${jd.jtag}`);
+	//console.log(`showEntry: d jtag: ${jd.jtag}`);
 
 	if (g.currPTag != jd.jtag) {  // then, new page to view
 		let pThumb = "", pFull = "";
@@ -59,16 +59,17 @@ function showEntry(jd) {
 	}
 
 	g.mainTextEl.append(`<a href="#${jd.date}"></a>`);
-	g.mainTextEl.append(`<div class="entryText" id="jd${jd.date}"> <p> ${convertMarkdown(jd.text)} </p></div>`);
+	let nbName = "nb"+jd.date;
+	let nbDiv = (jd.hasOwnProperty('notes')) ? `<div class="accordion"  id="${nbName}">Notes...</div>` : "";
+	g.mainTextEl.append(`<div class="entryText" id="jd${jd.date}"> <p> ${convertMarkdown(jd.text)} </p> ${nbDiv}</div>`);
 	if (jd.hasOwnProperty('notes')) {
-		let nbName = "nb"+jd.date;
 		let nName = "n"+jd.date;
-		let nb = $(`<button class="accordion" id="${nbName}">Notes...</button>`);
-		g.mainTextEl.append(nb);
+		//let nb = $(`<button class="accordion" id="${nbName}">Notes...</button>`);
+		//g.mainTextEl.append(nb);
 		let nn = $(`<div class="note hide" id="${nName}"> <p> ${convertMarkdown(jd.notes)} </p></div>`);
 		g.mainTextEl.append(nn);
 		g.nbVisible[nbName] = false;
-		nb.click(function() {	 // see http://jsfiddle.net/chriscoyier/zgtfA/1/
+		$(`#${nbName}`).click(function() {	 // see http://jsfiddle.net/chriscoyier/zgtfA/1/
 			//console.log(`${nbName} clicked - curr state ${g.nbState[nbName]}`);
 		 	if (g.nbVisible[nbName]) { // true == visible, so hide it
 		 		nn.slideUp('fast',function(){
