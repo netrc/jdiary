@@ -1,5 +1,5 @@
 {
-	"PAGES": {
+	"pages": {
 		"p000": {
 			"note":"cover",
 			"baseURL":"https://lh3.googleusercontent.com/v_Ra1lXpZaBC7bQlsW912NhWqBMjNXJZHQwEIxJMkX4FNRtQWH8Nqp-MjIgLivAqrwTA5cfbSrKFXOys8i1nbaCoCQdg8hOh1ZJGMhyzR9rhllBkF2Hr8FgWO4QXF6Rd_xlywJ-Rk03teeTybZ4JnvYju3713RvzyBtoZ7_TExUDXHZdDz0NnXvO0B1KVH6Ny3L_iC-3ueYgSOTqfXN-eZL7XndmMcjoVJimpqRCO1dmWDThIcxVpwre3WGazBCrvUNXTbz15GYF61IrcSGvqhOHy7kAKDOBVz7X_ZhbgP8TIO237LNVK32gTwaZ8jvF0vI8ks1xD6N9egxpIWMr9K4yyvXRe8YrEzW1kAcvvxHmj3o2sGqnH7-PE3UJqICH1DCwY3TOOF49QGksBfBLuisD5k-YRG3LOxANVbQdayMjeUHuLcSswARGX4aiRrapQU0-MnLmnYnGZyh9i-5otNJd7eBDq62pnWlGUfYy4pR_ChLyr-fw1NReMhR6BjR86EwIVFqYPK_Z1fn96QodSdvk0bGa_Vl5WiR0RFXfHc8ih_-cMLqbzeADv7bRCrd6Wbmfo4b0kVAUGawNWSWVbFWSmiRG81pvltCZe3CvFbsNiSHw46t-u0UEAqH_Ok24-UyKkGVciextnq9QQEQADJxTf5U_O-agIGue=",
@@ -232,7 +232,7 @@
 			}
 		},
 
-	"ICONS": {
+	"icons": {
 		  "plane":"https://www.gstatic.com/mapspro/images/stock/103-plane.png",
 		  "hotel":"https://www.gstatic.com/mapspro/images/stock/1035-biz-hotel.png",
 		  "house":"https://www.gstatic.com/mapspro/images/stock/1037-biz-house.png",
@@ -249,7 +249,7 @@
 		  "tent":"https://www.gstatic.com/mapspro/images/stock/31-campground.png"
 	},
 
-	"LOCS":[
+	"locs":[
 		{ "icon":"house", "name":"Home", "ll":{"lng":-83.1458992,"lat":42.4980523}, "text":"" },
 		{ "icon":"plane", "name":"Chanute Field", "ll":{"lng":-88.1438487,"lat":40.2889062}, "text":"[|https://en.wikipedia.org/wiki/Chanute_Air_Force_Base]" },
 		{ "icon":"tent", "name":"Camp Mills (Mineola)", "ll":{"lng":-73.620801,"lat":40.7269173}, "text":"[|https://en.wikipedia.org/wiki/Camp_Mills]" },
@@ -275,7 +275,7 @@
 		{ "icon":"music", "name":"Nancy", "ll":{"lng":6.1818159,"lat":48.6891331}, "text":"" },
 		{ "icon":"tent", "name":"Kelly Field, Texas", "ll":{"lng":-98.584313,"lat":29.381128}, "text":"1917 training" }
 	],
-	"VIEWS": {
+	"views": {
 		"Start":{"ll":{"lat":40,"lng":-48},"zoom":3},
 		"Home":{"ll":{"lat":42.18,"lng":-82.70},"zoom":6},
 		"Mineola":{"ll":{"lat":40.8,"lng":-73.85},"zoom":9},
@@ -283,5 +283,31 @@
 		"GrandBanks":{"ll":{"lat":47.7,"lng":-45.8},"zoom":4},
 		"Fastnet":{"ll":{"lat":52.3,"lng":-7.6},"zoom":7},
 		"Liverpool":{"ll":{"lat":53.4,"lng":-2.9},"zoom":7}
-	}
+	},
+	"gmStyles": [
+  { "elementType": "geometry", "stylers": [ { "color": "#ebe3cd" } ] },
+  { "elementType": "labels.text.fill", "stylers": [ { "color": "#523735" } ] },
+  { "elementType": "labels.text.stroke", "stylers": [ { "color": "#f5f1e6" } ] },
+  { "featureType": "administrative", "elementType": "geometry.stroke", "stylers": [ { "color": "#c9b2a6" } ] },
+  { "featureType": "administrative.land_parcel", "elementType": "geometry.stroke", "stylers": [ { "color": "#dcd2be" } ] },
+  { "featureType": "administrative.land_parcel", "elementType": "labels.text.fill", "stylers": [ { "color": "#ae9e90" } ] },
+  { "featureType": "landscape.natural", "elementType": "geometry", "stylers": [ { "color": "#dfd2ae" } ] },
+  { "featureType": "poi", "elementType": "geometry", "stylers": [ { "color": "#dfd2ae" } ] },
+  { "featureType": "poi", "elementType": "labels.text.fill", "stylers": [ { "color": "#93817c" } ] },
+  { "featureType": "poi.park", "elementType": "geometry.fill", "stylers": [ { "color": "#a5b076" } ] },
+  { "featureType": "poi.park", "elementType": "labels.text.fill", "stylers": [ { "color": "#447530" } ] },
+  { "featureType": "road", "elementType": "geometry", "stylers": [ { "color": "#f5f1e6" } ] },
+  { "featureType": "road.arterial", "elementType": "geometry", "stylers": [ { "color": "#fdfcf8" } ] },
+  { "featureType": "road.highway", "elementType": "geometry", "stylers": [ { "color": "#f8c967" } ] },
+  { "featureType": "road.highway", "elementType": "geometry.stroke", "stylers": [ { "color": "#e9bc62" } ] },
+  { "featureType": "road.highway.controlled_access", "elementType": "geometry", "stylers": [ { "color": "#e98d58" } ] },
+  { "featureType": "road.highway.controlled_access", "elementType": "geometry.stroke", "stylers": [ { "color": "#db8555" } ] },
+  { "featureType": "road.local", "elementType": "labels.text.fill", "stylers": [ { "color": "#806b63" } ] },
+  { "featureType": "transit.line", "elementType": "geometry", "stylers": [ { "color": "#dfd2ae" } ] },
+  { "featureType": "transit.line", "elementType": "labels.text.fill", "stylers": [ { "color": "#8f7d77" } ] },
+  { "featureType": "transit.line", "elementType": "labels.text.stroke", "stylers": [ { "color": "#ebe3cd" } ] },
+  { "featureType": "transit.station", "elementType": "geometry", "stylers": [ { "color": "#dfd2ae" } ] },
+  { "featureType": "water", "elementType": "geometry.fill", "stylers": [ { "color": "#83B3D4" } ] },
+  { "featureType": "water", "elementType": "labels.text.fill", "stylers": [ { "color": "#92998d" } ] }
+]
 }
