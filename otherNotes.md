@@ -13,6 +13,27 @@ Jesse died of a heart attack at 38 years old in 1934.
 https://en.wikipedia.org/wiki/Marske,_Richmondshire
 https://en.wikipedia.org/wiki/17th_Aero_Squadron
 
+Find David Wells info in Clapp
+
+Find Lt. Whalley info (dec 8)
+
+G.H. Bower
+
+Never actually flew a Bristol Fighter
+
+And see
+https://en.wikipedia.org/wiki/Lloyd_Andrews_Hamilton
+http://parr-hooper.cmsmcq.com/2OD/the-biographies/jesse-frank-campbell/#LinkTo_WPFootnote13
+http://www.airwar1.org.uk/rfc%20aircraft2.htm#Intro5
+https://en.wikipedia.org/wiki/Balloon_buster
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&cad=rja&uact=8&ved=0ahUKEwjMrt36777WAhWIbRQKHfbcChEQFghCMAc&url=http%3A%2F%2Fwww.theaerodrome.com%2Fforum%2Fshowthread.php%3Ft%3D65605%26page%3D3&usg=AFQjCNHNqUKoyy5NewZrrTKcytndeDVW5A
+
+.....
+Do you have original WWI material that you would like to see preserved at the Library of Congress? Please consider donating it to the Veterans History Project!
+https://www.loc.gov/topics/world-war-i/
+https://www.loc.gov/wwi
+
+
 To research - count # of aerodromes in England and France
 
 In other news
