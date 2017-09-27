@@ -21,6 +21,8 @@ G.H. Bower
 
 Never actually flew a Bristol Fighter
 
+Morton Campbell burial section in Clapp
+
 And see
 https://en.wikipedia.org/wiki/Lloyd_Andrews_Hamilton
 http://parr-hooper.cmsmcq.com/2OD/the-biographies/jesse-frank-campbell/#LinkTo_WPFootnote13
