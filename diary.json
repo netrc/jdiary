@@ -692,7 +692,7 @@
 {
 	"date":"1918-09-22",
 	"vtag":"Soncampe",
-	"text":"Sept 22 - Twenty five huns attack twelve of us over Boulon woods. We had a merry old scrap and in all got four of them. We lost Tillinghast and Thomas. One of them went down in flames. It was a horrible sight. We ran into a hun two seater (Hanoverans) but he got away from us. These Hunds certainly are good pilots and have lots of nerve. They say they are part of Richtofen's old circus. #2 ???? squadron.",
+	"text":"Sept 22 - Twenty five huns attack twelve of us over Boulon woods. We had a merry old scrap and in all got four of them. We lost Tillinghast and Thomas. One of them went down in flames. It was a horrible sight. We ran into a hun two seater (Hanoverans) but he got away from us. These Hunds certainly are good pilots and have lots of nerve. They say they are part of Richtofen's old circus. #2 squadron.",
 	"notes":"Not sure what plane is meant by \"Hanoverans\", possibly a lost nickname. There's an odd number \"#2\" after the mention of Richtofen -- The Red Baron -- squad. But nothing quite matches [|https://en.wikipedia.org/wiki/Jagdgeschwader_1_(World_War_I)]",
 	"jtag":"p036"
 },
@@ -724,6 +724,7 @@
 	"date":"1918-09-27",
 	"vtag":"Soncampe",
 	"text":"Sept 27 - Got a goot burst into a pretty white-tailed Fokker. He went down in a spin and was last seen about 20ft from the ground still spinning. I doubt if I get him confirmed.",
+	"notes":"Yes, this was [|confirmed|otherNotes.html#combatReports].",
 	"jtag":"p037"
 },
 {
@@ -747,7 +748,7 @@
 {
 	"date":"1918-10-02",
 	"vtag":"Soncampe",
-	"text":"Oct 2 - Dropped bombs on [|Awoing|https://en.wikipedia.org/wiki/Awoingt]. Led both shows. Clements went on leave.",
+	"text":"Oct 2 - Dropped bombs on [|Awoingt|https://en.wikipedia.org/wiki/Awoingt]. Led both shows. Clements went on leave.",
 	"jtag":"p038"
 },
 {
@@ -771,7 +772,7 @@
 {
 	"date":"1918-10-07",
 	"vtag":"Soncampe",
-	"text":"Oct 7 - Bombed Awaingt again. Good news came today. Curtis, Lipton, Todd, Frost, Weiss and Bittinger are prisoners. Snyder went on leave today.",
+	"text":"Oct 7 - Bombed Awoingt again. Good news came today. Curtis, Lipton, Todd, Frost, Weiss and Bittinger are prisoners. Snyder went on leave today.",
 	"jtag":"p038"
 },
 {
@@ -832,7 +833,7 @@
 	"date":"1918-10-17",
 	"vtag":"Soncampe",
 	"text":"Oct 17 - Had a short scrap with France",
-	"notes":"Someone named France?? Something else?",
+	"notes":"Sick? Someone named France?? Something else?",
 	"jtag":"p039"
 },
 {
