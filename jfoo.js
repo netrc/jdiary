@@ -126,7 +126,7 @@ function doData(data, status) {
 	if (typeof(data) === "string") {  // local python http doesn't return JSON
 		data = JSON.parse(data);
 	}
-	// put the data into our global 
+	// put the data into our global
 	['pages','icons','locs','views','gmStyles'].map( k => g[k] = data[k] );
 
 	// if anchorData is a date, try and set that global currPage in doJSON // TODO
@@ -150,7 +150,10 @@ function doData(data, status) {
 		//console.log(`scroll - stp: ${scrollTopPos}`);
 		// magic number 120 seems to give good results
 		let currPageTop = g.pageTop.find( pt => { return scrollTopPos-120 < pt.absOffset;});
-		if (g.currView != currPageTop.jd.vtag) {
+		if (!currPageTop) {
+			console.log(`odd - can't find currPageTop - scrollTopPos: ${scrollTopPos} `);
+		}
+		if (currPageTop.jd.hasOwnProperty('vtag') && (g.currView != currPageTop.jd.vtag)) {
 			console.log(`scroll - new view - ${currPageTop.jd.vtag}`);
 			g.currView = currPageTop.jd.vtag;
 			if (g.views.hasOwnProperty(g.currView)) {
