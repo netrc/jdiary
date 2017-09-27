@@ -68,14 +68,14 @@
 	"date":"1917-09-29",
 	"vtag":"Fastnet",
   "text":"Sept 29 - Our convoy met us today. They are a trim looking lot of destroyers - ten English and two American. The British have three funnels while the American have four and area little longer. All are fast boats making from 35 to 40 knots an hour and have no trouble in running around our slow boats. The English take great pride in their warships and an amusing incident occured in connection therewith: An English lady who is aboard was talking to an officer about the destroyers and said they were the best in the world, far surpassing the American. \"Now look at that one,\" she said pointing to a four funneled destroyer off the starboard side. \"Isn't that the trimmest and neatest looking one you ever saw?\" The officer agrree that it was the best of the lot but the lady was quite taken aback when she was informed that it was an American destroyer.\nI feel quite a little safer now that they have arrived for this is really a dangerous region althought it is hard to realize it. It doesn't seem possible to sink a large steamer like this one but one small torpedo can do the business and leave few to tell the tale.\n Mines are more feared than submarines. When struck by a torpedo, the vessel sinks rather slowly while it is blown to pieces immediately upon striking a mine. I read the semaphoe signals between our boat and a destroyer and we were warned of a five mile area extending outward from a life buoy three miles off Fast head which is mined.\n There was a concert for the benefit of the families of British sailors who have been killed during the war. Wells sang and as usual brought the house down. The real treat however was Spalding's playing. He certainly is an artist with his violin and it is a real treat to hear him and much more to be embarked upon the same enterprise. War is a great equalizer. Before he would never play for less than $1,000 a night and now he is workig hard for $35 per month.",
-	"notes":"'Fast head' must be [|Fastnet Rock|https://en.wikipedia.org/wiki/Fastnet_Rock]",
+	"notes":"'Fast head' must be [|Fastnet Rock|https://en.wikipedia.org/wiki/Fastnet_Rock] \nPresumably Lieutenant David T. Wells",
 	"jtag":"p006"
 },
 {
 	"date":"1917-09-30",
 	"vtag":"Fastnet",
 	"text":"Sept 30 Sunday - We signed the pay roll today and perhaps we will get paid before long. Signing the pay roll seems to be just a perfunctory way of telling you it is the end of the month however.\nThey tell us we are in the Irish sea now. For all I know we may be in the Indian Ocean. For ten days now I have not seen the slightest vestage of land and we have been zig-zagging so much there is no keeping direction. Two more American destroyers joined us today making 14 in all. They ought to make it worse for German subs. This is the most dangerous part of the trip but I think with our convoy we shall get thru safely. If all goes well we should sight land tomorrow.",
-	"notes":"Presumably Lieutenant David T. Wells",
+
 	"jtag":"p008"
 },
 {
@@ -145,7 +145,7 @@
 {
 	"date":"1917-10-15",
 	"vtag":"Oxford",
-   	"text":"Oct 15 - They seem determined to make English men out of us. We have to buy a whip cord uniform, a split ___ cap and a sam browne belt. \nExams in Aerial of to morrow and I'll have to study a little as we get posted to flying squadrons a week from Monday if our studies warrant it.",
+   	"text":"Oct 15 - They seem determined to make English men out of us. We have to buy a whip cord uniform, a split - cap [sic] and a Sam Browne belt. \nExams in Aerial of to morrow and I'll have to study a little as we get posted to flying squadrons a week from Monday if our studies warrant it.",
 	"notes":"[|Example of military uniform|https://militaryantiquesmuseum.com/uniforms-uu614-wwi-era-us-army-enlistedmans-whipcord-uniform.16444.84.military-antiques] and the [|Sam Browne Belt|https://en.wikipedia.org/wiki/Sam_Browne_belt]",
 	"jtag":"p013"
 },
@@ -361,7 +361,7 @@
 	"date":"1917-12-24",
 	"vtag":"Villiers",
 	"text":"Dec 24. Left for London on the bus. It is not a comfortable way to travel but it is 2-1/2 miles to Radlett to the trains. I stayed at Faulkner's Hotel on Charing Cross. There were a number of soldiers and officers on Xmas leave from the front and it was quite interesting to talk with them. I went to the Strand in the evening and saw \"Wild Heaather\".",
-	"notes":"By the 1920s, Faulkner's hotel was in an area known as [|https://tricksterprince.wordpress.com/2014/01/22/the-worst-street-in-1920s-london/|the worst street in London!]\n[|Wild Heather|https://en.wikipedia.org/wiki/Wild_Heather] was a drama; see [|https://theatricalia.com/play/2mh/wild-heather]",
+	"notes":"By the 1920s, Faulkner's hotel was on Villiers Street off of Charing Cross in an area known as [|https://tricksterprince.wordpress.com/2014/01/22/the-worst-street-in-1920s-london/|the worst street in London!]\n[|Wild Heather|https://en.wikipedia.org/wiki/Wild_Heather] was a drama; see [|https://theatricalia.com/play/2mh/wild-heather]",
 	"jtag":"p025"
 },
 {
@@ -391,14 +391,14 @@
 {
 	"date":"1918-01-08",
 	"vtag":"LondonColney",
-	"text":"Jan 8 1918 - Well \"Old book.\" I have been neglecting you. Flying is awfully slow. I have only had 10 minutes on ground but Fellis (??) was burned to a cinder. Doc says he thins Fred will pull through although he is badly burned.",
+	"text":"Jan 8 1918 - Well \"Old book.\" I have been neglecting you. Flying is awfully slow. I have only had 10 minutes on ground but Fellis (??) was burned to a cinder. Doc says he thinks Fred will pull through although he is badly burned.",
 	"jtag":"p026"
 },
 {
 	"date":"1918-02-16",
 	"vtag":"LondonColney",
 	"text":"Feb 16 - De Garneo, 56, was killed in a Spad near Radlett this A.M. Engnine knocked out.",
-	"notes":"On This Day: ?? Feb 10, Soviet Union declares it is leaving the Allies",
+	"notes":"Moon phase was first quarter. \n On This Day: ?? Feb 10, Soviet Union declares it is leaving the Allies",
 	"jtag":"p027"
 },
 {
@@ -424,14 +424,14 @@
 {
 	"date":"1918-02-23",
 	"vtag":"LondonColney",
-	"text":"Feb 23 - Fred Stillman died today. 15 days after the crash. It was a shock to everyone as he had been recoverying rapidly the last few days. Nial and [I did a] cross country trip today. Since I had been to Northolt before, I was elected leader. We ran into a snow storm after leaving Northholt and got lost, landed at Brooklys ?? and after getting our bearings arrived safely at Hounslow. I brought Darcy back from Northholt with me. All the Avros and Pups are being sent away. Darcy took 4439 back to Northholt with him.",
-	"notes":"[|https://en.wikipedia.org/wiki/Hounslow] - ?? when was JFC at Northholt ? - ?? Where is Brooklyn ?!?",
+	"text":"Feb 23 - Fred Stillman died today. 15 days after the crash. It was a shock to everyone as he had been recoverying rapidly the last few days. Nial and [I did a] cross country trip today. Since I had been to Northolt before, I was elected leader. We ran into a snow storm after leaving Northolt and got lost, landed at Brooklyns and after getting our bearings arrived safely at Hounslow. I brought Darcy back from Northolt with me. All the Avros and Pups are being sent away. Darcy took 4439 back to Northolt with him.",
+	"notes":"When was Jesse at Northolt (which is just north of Heathrow)?\n Brooklyns is actually [|Brooklands|https://en.wikipedia.org/wiki/Brooklands], an early racing track and airfield, somewhat south of Heathrow.\n [|Hounslow|https://en.wikipedia.org/wiki/Hounslow] is just east of Heathrow.",
 	"jtag":"p027"
 },
 {
 	"date":"1918-03-01",
 	"vtag":"LondonColney",
-	"text":"Mar 1 - The Squadron has begun to mobilize. 20 SE's are in now and each has been assigned to a pilot. Major Darcy(??), our new C.O. arrived today and promises to be a good fellow.",
+	"text":"Mar 1 - The Squadron has begun to mobilize. 20 SE's are in now and each has been assigned to a pilot. Major Darcy, our new C.O. arrived today and promises to be a good fellow.",
 	"jtag":"p028"
 },
 {
@@ -444,7 +444,7 @@
 	"date":"1918-03-25",
 	"vtag":"LondonColney",
 	"text":"Mar 25. Graduated on Pups today. Went on leave for 4 days to Salisbury.",
-	"notes":"[|https://en.wikipedia.org/wiki/Salisbury]. On This Day - March 21-28 German Somme Offensive.",
+	"notes":"[|Salisbury|https://en.wikipedia.org/wiki/Salisbury] is noted for its magnificent cathedral. Note that during this leave, Jesse had his 22nd birthday (March 28).\n On This Day - March 21-28 German Somme Offensive.",
 	"jtag":"p028"
 },
 {
@@ -456,7 +456,8 @@
 {
 	"date":"1918-05-08",
 	"vtag":"LondonColney",
-	"text":"May 8 - Bill Wait was killed today. He dove into Elstree mess room (?!?) No one knows how it happened.",
+	"text":"May 8 - Bill Wait was killed today. He dove into Elstree mess room. No one knows how it happened.",
+	"notes":"Possible Elstree, England?",
 	"jtag":"p028"
 },
 {
@@ -468,8 +469,7 @@
 {
 	"date":"1918-05-18",
 	"vtag":"Markse",
-	"text":"May 18 - Curtis Wicks and myself started for school of aerial gunnery at Marske",
-	"notes":"[|https://en.wikipedia.org/wiki/Marske,_Richmondshire]",
+	"text":"May 18 - Curtis Wicks and myself started for school of aerial gunnery at [|Marske|https://en.wikipedia.org/wiki/Marske,_Richmondshire]",
 	"jtag":"p029"
 },
 {
@@ -481,15 +481,15 @@
 {
 	"date":"1918-06-16",
 	"vtag":"Markse",
-	"text":"June 16 - Lt. Turner, an Australian in the R.I.F.F?? was killed in a pup today. Spun into the ground and caught fire.",
+	"text":"June 16 - Lt. Turner, an Australian in the R.I.F.F?? was killed in a Pup today. Spun into the ground and caught fire.",
 	"notes":"On This Day: June 1 - Canadian Lt. Billy Bishop down's six planes over three days.",
 	"jtag":"p029"
 },
 {
 	"date":"1918-06-19",
 	"vtag":"Dover",
-	"text":"June 19 - Wicks Forester and myself started for Dover to fly Camels.",
-	"notes":"[|https://en.wikipedia.org/wiki/Dover] , Possibly, [|https://en.wikipedia.org/wiki/RAF_Wye]",
+	"text":"June 19 - Wicks, Forester, and myself started for [|Dover|https://en.wikipedia.org/wiki/Dover] to fly Camels.",
+	"notes":"Possibly, the airfield at [|Wye|https://en.wikipedia.org/wiki/RAF_Wye]",
 	"jtag":"p029"
 },
 {
@@ -535,7 +535,7 @@
 	"date":"1918-08-01",
 	"vtag":"PetiteSynth",
 	"text":"France\n\nAug 1 - Reported to 17th American Squadron at Dunkirk, Lt. Eckert commanding.",
-	"notes":"The Aerodrome at Petite-Synth. ?? [|http://www.49squadron.co.uk/airfields/af1_psynthe] ",
+	"notes":"The Aerodrome at [|Petite-Synthe|http://www.49squadron.co.uk/airfields/af1_psynthe], western industrial suburb of Dunkirk.",
 	"jtag":"p030"
 },
 {
