@@ -34,6 +34,8 @@ function convertMarkdown( s ) {
 	ns = ns.replace(/\[\|(.*?)\|(.*?)\]/g,`<a href="$2" target="_blank"> $1 </a>`);
 	// simple URLs
 	ns = ns.replace(/\[\|(.*?)\]/g, `<a href="$1" target="_blank"> $1 </a>`);
+	// Date tags
+	ns = ns.replace(/\[D\|(.*?)\]/g, `<a href="index.html#$1"> $1 </a>`);
 
 	return ns;
 }
@@ -165,6 +167,17 @@ function doData(data, status) {
 			}
 		}
 	});
+  // finally, if the current URL has a date suffix, scroll to that posted
+	let newU = location.href;
+	console.log(`now going to ${newU}`);
+	let dateRE = /191[78]-[0-1][0-9]-[0-3][0-9]/;   // 1917-1918 Dates
+	var found = newU.match(dateRE);
+	if (found) {
+		console.log(`found date - going to ${found[0]}`);
+		var mainTextDiv = document.getElementById('mainText');
+    var dateAnchor = document.getElementById(`jd${found[0]}`);
+    mainTextDiv.scrollTop = dateAnchor.offsetTop;
+	}
 }
 
 function doJSON(data, status) {
@@ -234,10 +247,12 @@ function doRouting() {
 		$.get(g.otherNotesMD, doOtherNotes);
 	} else if (newU.match(/.*#Print/)) {
 		$.get(g.diaryURL, doPrint);
-	} else { // THE DIARY
+	} else if (newU.match(/.*index.html/)) { // THE DIARY
 		$(`#app`).append(`	<div id="mainText"> </div> <div id="mainPane"> <div id="mapDiv"> </div> </div>`)
 		g.mainTextEl = $("#mainText");
 		$.get(g.diaryURL, doJSON);
+	} else {
+		console.error(`doRouting fail on ${newU}`);
 	}
 }
 
