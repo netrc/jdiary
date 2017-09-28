@@ -9,6 +9,7 @@ var g = {   // The Global State (boo!)
 	diaryURL: "diary.json",  //"dtest.json",   // relative to current URL
 	dataURL: "data.json",
 	introMD: "introduction.md",
+	whoAndWhereMD: "whoAndWhere.md",
 	otherNotesMD: "otherNotes.md",
 	currPage: 0,
 	lastPageAvail: 0,
@@ -187,6 +188,13 @@ function doIntro(data, status) {
 	}
 	$(`#app`).append(`<div id="intro"> ${convertMarkdown(data)}</div>`);
 }
+function doPeople(data, status) {
+	if (status != "success") {
+		console.log("get people error: " + status);
+		return;
+	}
+	$(`#app`).append(`<div id="intro"> ${convertMarkdown(data)}</div>`);
+}
 function doOtherNotes(data, status) {
 	if (status != "success") {
 		console.log("get other notes error: " + status);
@@ -220,6 +228,8 @@ function doRouting() {
 	$(`#app`).empty();
 	if (newU.match(/.*#Introduction/)) {
 		$.get(g.introMD, doIntro);
+	} else if (newU.match(/.*#People/)) {
+		$.get(g.whoAndWhereMD, doPeople);
 	} else if (newU.match(/.*#Notes/)) {
 		$.get(g.otherNotesMD, doOtherNotes);
 	} else if (newU.match(/.*#Print/)) {
