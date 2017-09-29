@@ -19,7 +19,7 @@ var g = {   // The Global State (boo!)
 	pageTop: [],  // array of offsets for each entry-card displayed
 	pages: {}, // object with properties set to page tages, e.g. "p001"
 	icons: {}, // object with properties set to icon tags, e.g. "anchor"
-	locs: [],	// array of location objects
+	locs: {},	// object with set of location objects
 	views: {}, // object with properties set to view tags, e.g. "start"
 	nbVisible: {}, // obj with props for each Button to hold vis State
 	gMapUrl: "https://www.google.com/maps/d/embed?mid=1gq6dzgv8SMbpdThRQ4nj9U8zT_A",
@@ -36,6 +36,8 @@ function convertMarkdown( s ) {
 	ns = ns.replace(/\[\|(.*?)\]/g, `<a href="$1" target="_blank"> $1 </a>`);
 	// Date tags
 	ns = ns.replace(/\[D\|(.*?)\]/g, `<a href="index.html#$1"> $1 </a>`);
+	// Geo tags
+	ns = ns.replace(/\[G\|(.*?)\]/g, `<span class="geoTag" onclick="geoTagClick('$1');"> &otimes; </span>`);
 
 	return ns;
 }
@@ -102,9 +104,9 @@ function initMap() {
 	  center: start.ll
 		});
 
-	g.locs.forEach(function(l) {	// icon, name, ll, text
-		//console.log(`loc: ${l.name}  ${l.icon}`);
-		new google.maps.Marker({ position: l.ll, map: g.gmap, title: l.name, icon: g.icons[l.icon] });
+	Object.keys(g.locs).forEach(function(k) {	// key with icon, name, ll, text
+		console.log(`loc: ${k}  ${g.locs[k].icon}`);
+		new google.maps.Marker({ position: g.locs[k].ll, map: g.gmap, title: k, icon: g.icons[g.locs[k].icon] });
 	});
 }
 
@@ -117,6 +119,19 @@ function setView() {
 			var mm = ltag[thisLocTag];
 			m.attr("src",g.gMapUrl+mm)
 		}
+	}
+}
+
+function geoTagClick( ts ) {
+	console.log(`gtc: ${ts}`);
+	if (g.views.hasOwnProperty(ts)) {
+		g.gmap.panTo(g.views[ts].ll);
+		g.gmap.setZoom(g.views[ts].zoom);
+	} else 	if (g.locs.hasOwnProperty(ts)) {
+		g.gmap.panTo(g.locs[ts].ll);
+		g.gmap.setZoom(8);
+	} else {
+		console.log(`missing views or locs for ${ts}`)
 	}
 }
 
