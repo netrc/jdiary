@@ -13,6 +13,8 @@ Jesse died of a heart attack at 38 years old in 1934.
 https://en.wikipedia.org/wiki/Marske,_Richmondshire
 https://en.wikipedia.org/wiki/17th_Aero_Squadron
 
+GTC Test - Marske [G|Marske]
+
 Find David Wells info in Clapp
 
 Find Lt. Whalley info (dec 8)
@@ -24,7 +26,7 @@ Never actually flew a Bristol Fighter
 Morton Campbell burial section in Clapp
 
 Jesse's bragging of course, but here's a [|picture of downtown Detroit|http://all-that-is-interesting.com/wordpress/wp-content/uploads/2015/02/vintage-detroit-gasoline-1917.jpg] from 1917. 'Skyscrapers', streetcars, and everyone (in Detroit area at least) has a car.
- 
+
 And see
 https://en.wikipedia.org/wiki/Lloyd_Andrews_Hamilton
 http://parr-hooper.cmsmcq.com/2OD/the-biographies/jesse-frank-campbell/#LinkTo_WPFootnote13
