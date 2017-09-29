@@ -95,7 +95,14 @@ footer {
 	right: 0px;
 	border-radius: 8px;
 }
-
+.geoTag {
+	cursor: pointer;
+	font-weight: bold;
+	color: #66DD66;
+}
+.geoTag:hover{
+	background-color: #AACCAA;
+}
 div.accordion {
     background-color: #f4e4d4;
 		width: 15%;
