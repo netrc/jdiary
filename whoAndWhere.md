@@ -48,7 +48,7 @@
 <tr> <td> Thomas  </td> <td>  [D|1918-09-22] "we lost [him]  </td> </tr>
 <tr> <td> Tillinghast </td> <td> [D|1918-09-22] "we lost [him]", 1918-10-26 "escaped from Germany" </td> </tr>
 <tr> <td> Todd </td> <td> [D|1918-08-14],  [D|1918-08-21],  [D|1918-08-27] "they got [him]", [D|1918-10-07] "prisoner" </td> </tr>
-<tr> <td> Turner, Lt.  </td> <td> [D|1918-06-16] "spun in to the ground" </td> </tr>
+<tr> <td> Turner, Lt.  </td> <td> [D|1918-06-16] Australian, "spun in to the ground" </td> </tr>
 <tr> <td> Vaughn </td> <td> [D|1918-10-14] </td> </tr>
 <tr> <td> Wait, Bill </td> <td> [D|1918-05-08] "killed today" </td> </tr>
 <tr> <td> Weiss, </td> <td> [D|1918-10-07] </td> </tr>

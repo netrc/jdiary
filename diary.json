@@ -94,7 +94,7 @@
 {
 	"date":"1917-10-03",
 	"vtag":"Oxford",
-  "text":"Oct 3 - I was transported to Queens College today. 60 were sent to Queens and 90 to Christs. Ed Mooce, George Sherman, and myself have a large room on the fourth floor. The English seem to know little about stoves as far as I have been yet I have seen nothing but fire places. These giddy English people speak a batty funny language and it is jolly hard to understand them. It is almost like a foreign language and I have to listen with both ears to understand them. The fellows in school are fine chaps thought. I have met several Canadians from Windsor.\nWe all have to go through ground school again and will have six weeks here. It seems that all our work at Champaign was for naught. It ought to be easy for me however.",
+  "text":"Oct 3 - I was transported to Queens College today. 60 were sent to Queens and 90 to Christs. Ed Moore, George Sherman, and myself have a large room on the fourth floor. The English seem to know little about stoves as far as I have been yet I have seen nothing but fire places. These giddy English people speak a batty funny language and it is jolly hard to understand them. It is almost like a foreign language and I have to listen with both ears to understand them. The fellows in school are fine chaps thought. I have met several Canadians from Windsor.\nWe all have to go through ground school again and will have six weeks here. It seems that all our work at Champaign was for naught. It ought to be easy for me however.",
 	"notes":"Champaign - ground school training at The University of Illinois in Champaign, IL - see [|https://en.wikipedia.org/wiki/United_States_Army_World_War_I_Flight_Training]",
 	"jtag":"p010"
 },
@@ -185,6 +185,7 @@
 	"date":"1917-10-23",
 	"vtag":"Oxford",
   "text":"Oct 23 - Horribly cold and wet again. If I get through without having pneumonia I'll be lucky. I don't see how these English stand it without fires. They think America is a wilderness and one asked me if we say many Indians now and if it was far to a city. We are so far ahead of them here that they can't even see our dust!",
+	"notes":"Jesse's bragging of course, but here's a [|picture of downtown Detroit|http://all-that-is-interesting.com/wordpress/wp-content/uploads/2015/02/vintage-detroit-gasoline-1917.jpg] from 1917. 'Skyscrapers', streetcars, and everyone (in Detroit area at least) has a car.",
 	"jtag":"p015"
 },
 {
@@ -197,7 +198,8 @@
 {
 	"date":"1917-11-02",
 	"vtag":"Oxford",
-  "text":"Nov 2 - Our flying clothes were issued today and they are a fine lot. I don't know whether I will ever get to fly or not but this is one step farther towards it. We have been ordered to the Machine Gun school at [|Grantham|https://en.wikipedia.org/wiki/Grantham] and leave tomorrow.",
+  "text":"Nov 2 - Our flying clothes were issued today and they are a fine lot. I don't know whether I will ever get to fly or not but this is one step farther towards it. We have been ordered to the Machine Gun school at Grantham [G|Grantham] and leave tomorrow.",
+	"notes": "[|Grantham|https://en.wikipedia.org/wiki/Grantham]",
 	"jtag":"p016"
 },
 {
@@ -470,7 +472,7 @@
 	"date":"1918-05-18",
 	"vtag":"Markse",
 	"text":"May 18 - Curtis Wicks and myself started for school of aerial gunnery at Marske [G|Marske]",
-	"notes": "[|Marske|https://en.wikipedia.org/wiki/Marske,_Richmondshire]",
+	"notes": "This was the No.4 School of Aerial Gunnery; must have been a lonely place on north-east coast of England - [|Marske|https://en.wikipedia.org/wiki/Marske,_Richmondshire].\n One of the instructors was [!W.E. Johns|https://en.wikipedia.org/wiki/W._E._Johns] who went on to write the famed series of books relating WWI ace pilot 'Biggles'. Another [|reference|https://www.crossandcockade.com/Store/Product.asp?id=382&item=From-Biggles-to-the-Red-Baron|].",
 	"jtag":"p029"
 },
 {
@@ -482,7 +484,7 @@
 {
 	"date":"1918-06-16",
 	"vtag":"Markse",
-	"text":"June 16 - Lt. Turner, an Australian in the R.I.F.F?? was killed in a Pup today. Spun into the ground and caught fire.",
+	"text":"June 16 - Lt. Turner, an Australian in the R.I.F.F was killed in a Pup today. Spun into the ground and caught fire.",
 	"notes":"On This Day: June 1 - Canadian Lt. Billy Bishop down's six planes over three days.",
 	"jtag":"p029"
 },
@@ -510,6 +512,7 @@
 	"date":"1918-06-29",
 	"vtag":"Dover",
 	"text":"June 29 - Went on leave for a week to recover.",
+	"notes":"Two weeks later, on July 15, the original 17th Aero Squadron started operations near Dunkirk.",
 	"jtag":"p029"
 },
 {
@@ -530,6 +533,7 @@
 	"date":"1918-07-31",
 	"vtag":"PetiteSynth",
 	"text":"July 31 - Started for [|Dunkirk|https://en.wikipedia.org/wiki/Dunkirk] to 17th American Squadron \"Camels\"",
+	"notes":"For the duration of the war, the 17th Aero Squadron (along with the 147th) was a U.S. Army air unit assigned to the Royal Air Force.",
 	"jtag":"p029"
 },
 {
@@ -960,7 +964,7 @@
 	"date":"1918-11-22",
 	"vtag":"Toul",
 	"text":"Nov 22 - Found out that the place I want is only 8 miles from here so I walked over. Saw Eddie Moore. He has the D.S.C.",
-	"notes":"[|Distinguished Service Cross|https://en.wikipedia.org/wiki/Distinguished_Service_Cross_(United_States)]. But no one by that name found at [|http://www.homeofheroes.com/members/02_DSC/citatons/01_wwi_dsc/dsc_05wwi_Army_M.html]",
+	"notes":"The [|Distinguished Service Cross|https://en.wikipedia.org/wiki/Distinguished_Serice_Cross_(United_States)]. Listed as Edward Russell Moore at [|http://www.homeofheroes.com/members/02_DSC/citatons/01_wwi_dsc/dsc_05wwi_AirService2.html].",
 	"jtag":"p042"
 },
 {
@@ -972,8 +976,8 @@
 {
 	"date":"1918-12-18",
 	"vtag":"ColumbeyLesBelles",
-	"text":"Dec 18 - Started home. Ferried the Spads to [|East Columbey Le Belles|https://en.wikipedia.org/wiki/Colombey-les-Belles]",
-	"notes":"[|East Columbey Le Belles|https://en.wikipedia.org/wiki/Colombey-les-Belles]\n",
+	"text":"Dec 18 - Started home. Ferried the Spads to East Columbey Le Belles",
+	"notes":"[|East Columbey Le Belles|https://en.wikipedia.org/wiki/Colombey-les-Belles]\n On March 11, 1919, Jesse was sent via St. Nazaire, France [G|StNazaire]  on the [|SS Dakotan|https://en.wikipedia.org/wiki/SS_Dakotan]. He arrived back in the U.S. in Hoboken, New Jersey on March 20 and was sent back to Camp Mills, New York to be mustered out.",
 	"jtag":"p042"
 },
 {

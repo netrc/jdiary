@@ -1,46 +1,40 @@
+<h2> After The War </h2>
+After the war, Jesse returned to Michigan and went back to finish at Albion College. There he met and later married Mildred McIlvenna and returned to Royal Oak where he joined his father in the construction business. His family grew to three sons - James, Donald, Thomas, and Arthur. Tragically, Arthur died at age two.
 
-The Diary ends in xxx. In xxx, Jesse was sent via St. Nazaire, France back to Camp Mills on the [|SS Dakotan|https://en.wikipedia.org/wiki/SS_Dakotan].
+Jesse died of a heart attack at 38 years old in 1934 in his hometown of Royal Oak, Michigan.
 
-After the war, Jesse returned to Michigan and went back to finish at Albion College. There he met and married Mildred McIlvenna and returned to Royal Oak where he joined his father in the construction business. His family grew to three sons, with another dying at age 2.
+His son James went on to serve in WWII in the Pacific as Air Force navigator; Donald was in the Navy (?); Thomas (my father) served in the Army in the late '50s working on the Mercury Redstone missile project.
 
-Jesse died of a heart attack at 38 years old in 1934.
-
+Today, the descendent of Jesse's unit is the [|17th Weapons Squadron|https://en.wikipedia.org/wiki/17th_Weapons_Squadron] flying F-15E Strike Eagles out of [|Nellis Air Force Base|https://en.wikipedia.org/wiki/Nellis_AFB], Nevada.
 <hr>
 
-// Traditional narrative has 17th men going to Texas for training, then to Toronto, then left NY in Jan 1918. According to his diary, Jesse left in Sep 1917 and spent almost a year in England continuing his pilot training.
+<h2> To Research </h2>
 
-// TODO
-https://en.wikipedia.org/wiki/Marske,_Richmondshire
-https://en.wikipedia.org/wiki/17th_Aero_Squadron
-
-GTC Test - Marske [G|Marske]
-
-Find David Wells info in Clapp
-
-Find Lt. Whalley info (dec 8)
-
-G.H. Bower
-
-Never actually flew a Bristol Fighter
-
-Morton Campbell burial section in Clapp
-
-Jesse's bragging of course, but here's a [|picture of downtown Detroit|http://all-that-is-interesting.com/wordpress/wp-content/uploads/2015/02/vintage-detroit-gasoline-1917.jpg] from 1917. 'Skyscrapers', streetcars, and everyone (in Detroit area at least) has a car.
-
-And see
 https://en.wikipedia.org/wiki/Lloyd_Andrews_Hamilton
+
 http://parr-hooper.cmsmcq.com/2OD/the-biographies/jesse-frank-campbell/#LinkTo_WPFootnote13
+
 http://www.airwar1.org.uk/rfc%20aircraft2.htm#Intro5
+
 https://en.wikipedia.org/wiki/Balloon_buster
+
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&cad=rja&uact=8&ved=0ahUKEwjMrt36777WAhWIbRQKHfbcChEQFghCMAc&url=http%3A%2F%2Fwww.theaerodrome.com%2Fforum%2Fshowthread.php%3Ft%3D65605%26page%3D3&usg=AFQjCNHNqUKoyy5NewZrrTKcytndeDVW5A
 
-.....
-Do you have original WWI material that you would like to see preserved at the Library of Congress? Please consider donating it to the Veterans History Project!
-https://www.loc.gov/topics/world-war-i/
-https://www.loc.gov/wwi
+* count # of aerodromes in England and France
 
+* What is Australian R.I.F.F. for 1918 May 20
 
-To research - count # of aerodromes in England and France
+* Find David Wells info in Clapp
+
+* Find Lt. Whalley info (dec 8)
+
+* G.H. Bower
+
+* Never actually flew a Bristol Fighter
+
+* Morton Campbell burial section in Clapp
+
+To what unit/group was violinist Albert Spalding assigned? Where did he serve
 
 In other news
 
@@ -61,13 +55,11 @@ https://www.youtube.com/watch?v=LvQcCmTtCjA
 http://www.theaerodrome.com/forum/showthread.php?p=711317
 
 Passenger List - http://www.theaerodrome.com/forum/attachment.php?attachmentid=33563&d=1501978177
-To Camp Mills - USS Dakotan   Date of sailig Mar 11th 1919,  St Nazaire  - Hoboken March 20 1919
-Campbell, Jesse F.  Capt.
 
 http://www.theaerodrome.com/forum/showthread.php?t=19448
 Venice ?
 
-<h2> Bibliography </h2>
+<h2> Bibliography & References </h2>
 
 Internet Archive
 
@@ -94,10 +86,32 @@ USASp87 - In the summer of 1917, 500 pilots were to b trained in Italy. ... Trai
 
 USASp119 - The training of cadets commenced on Sept 4 1917 with the arrival of a detachment of 53 cadets and one officer at the British School of Military Aeronautics at Oxford.
 
-<h2> Unanswered Questions </h2>
-<ul>
-<li> To what unit/group was violinist Albert Spalding assigned? Where did he serve? And see various youtube recordings.
-</ul>
 
 <h2> Random </h2>
+
+Ed Moore's D.S.C. citation [|http://www.homeofheroes.com/members/02_DSC/citatons/01_wwi_dsc/dsc_05wwi_AirService2.html]
+
+MOORE, EDWARD RUSSELL
+
+First Lieutenant (Air Service), U.S. Army
+
+Pilot, 8th Aero Squadron, Air Service, A.E.F.
+
+Date of Action: October 9, 1918
+
+Citation:
+
+The Distinguished Service Cross is presented to Edward Russell Moore, First Lieutenant (Air Service), U.S. Army, for extraordinary heroism in action near Thiaucourt, France, October 9, 1918. Lieutenant Moore, with First Lieutenant Gardner Philip Allen, observer, took advantage of a short period of fair weather during generally unfavorable atmospheric conditions to undertake a photographic mission behind the German lines. Accompanied by two protecting planes, they had just commenced their mission when they were attacked by eight enemy planes, which followed them throughout their course, firing at the photographic plane. Lieutenant Moore, pilot, with both firing wires cut by bullets, a landing wire shot away, his elevators riddled with bullets, and both wings punctured, continued on his prescribed course, although it made him an easy target. Lieutenant Allen was thus enabled in the midst of the attack to take pictures of the exact territory assigned, and he made no attempt to protect the plane with his machine guns. Displaying entire disregard of his personal danger and steadfast devotion to duty, the two officers successfully accomplished their mission.
+
+General Orders No. No. 145, W.D., 1918
+
+Birth: Audrain County, MO
+
+Home Town: Columbia, MO
+
 Frank J. Campbell and Henry Ewald joined forces in 1911 but by 1917, two years before Chevrolet parked its account at the agency, Campbell was gone. He had sold his shares and peaced-out to war-torn France to work at a YMCA canteen. While Campbell still had his name on the door -- and it came first! -- Ewald was left to build the business, turning it into one of the biggest agencies around. Meanwhile, Campbell, a vet of the Spanish-American War, became a real-life prototype for the Most Interesting Man in the World, quite literally defying death. He survived a mustard gas attack. He was selected to hang a man for treason in World War II. He handled live rattlesnakes. Even his death was awesome: He was crushed by a 2,000-pound boulder while searching for agate rocks in Oregon at age 72. He basically did everything -- everything except run the ad agency with his name on it.  - http://adage.com/article/agency-news/mather-meet-lesser-men-famous-agency-names/241085/
+
+
+Do you have original WWI material that you would like to see preserved at the Library of Congress? Please consider donating it to the Veterans History Project!
+https://www.loc.gov/topics/world-war-i/
+https://www.loc.gov/wwi

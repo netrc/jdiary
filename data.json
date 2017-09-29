@@ -274,7 +274,8 @@
 		"La Comédie Française": { "icon":"theater", "ll":{"lng":2.33593759999997,"lat":48.8635708}, "text":"" },
 		"Toul": { "icon":"plane", "ll":{"lng":5.8810544,"lat":48.6790607}, "text":"" },
 		"Nancy": { "icon":"music", "ll":{"lng":6.1818159,"lat":48.6891331}, "text":"" },
-		"Kelly Field, Texas": { "icon":"tent", "ll":{"lng":-98.584313,"lat":29.381128}, "text":"1917 training" }
+		"Kelly Field, Texas": { "icon":"tent", "ll":{"lng":-98.584313,"lat":29.381128}, "text":"1917 training" },
+		"Nellis": { "icon":"plane", "ll":{"lng":-115.04,"lat":36.235556}, "text":"https://en.wikipedia.org/wiki/17th_Weapons_Squadron" }
 	},
 	"views": {
 		"Start":{"ll":{"lat":40,"lng":-48},"zoom":3},
