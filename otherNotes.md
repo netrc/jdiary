@@ -23,6 +23,8 @@ Never actually flew a Bristol Fighter
 
 Morton Campbell burial section in Clapp
 
+Jesse's bragging of course, but here's a [|picture of downtown Detroit|http://all-that-is-interesting.com/wordpress/wp-content/uploads/2015/02/vintage-detroit-gasoline-1917.jpg] from 1917. 'Skyscrapers', streetcars, and everyone (in Detroit area at least) has a car.
+ 
 And see
 https://en.wikipedia.org/wiki/Lloyd_Andrews_Hamilton
 http://parr-hooper.cmsmcq.com/2OD/the-biographies/jesse-frank-campbell/#LinkTo_WPFootnote13
