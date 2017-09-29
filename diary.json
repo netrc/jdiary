@@ -469,7 +469,8 @@
 {
 	"date":"1918-05-18",
 	"vtag":"Markse",
-	"text":"May 18 - Curtis Wicks and myself started for school of aerial gunnery at [|Marske|https://en.wikipedia.org/wiki/Marske,_Richmondshire]",
+	"text":"May 18 - Curtis Wicks and myself started for school of aerial gunnery at Marske [G|Marske]",
+	"notes": "[|Marske|https://en.wikipedia.org/wiki/Marske,_Richmondshire]",
 	"jtag":"p029"
 },
 {
