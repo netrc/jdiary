@@ -158,6 +158,7 @@ function doData(data, status) {
 	// get scroll offsets of each page card
 	g.jd.map( jd => {  // orjust add pTop absOffset to existing g.jd objects
 		//console.log(`getting top of #${jd.date}`);
+		//let x = $(`#jd${jd.date}`).position();
 		g.pageTop.push( {jd: jd, absOffset: $(`#jd${jd.date}`).offset().top});
 	});
 	// other idea, in order to not have to search array
@@ -166,8 +167,8 @@ function doData(data, status) {
 	$(`#mainText`).on('scroll',function(){
 		let scrollTopPos = $(this).scrollTop(); // curr scroll position
 		//console.log(`scroll - stp: ${scrollTopPos}`);
-		// magic number 120 seems to give good results
-		let currPageTop = g.pageTop.find( pt => { return scrollTopPos-120 < pt.absOffset;});
+		//console.log(`maint d stp: ${$('#mainText').get(0).scrollTop}  pos().top: ${$('#mainText').offset().top} `)
+		let currPageTop = g.pageTop.find( pt => { return scrollTopPos*.6 < pt.absOffset;});
 		if (!currPageTop) {
 			console.log(`odd - can't find currPageTop - scrollTopPos: ${scrollTopPos} `);
 		}
@@ -279,7 +280,7 @@ function initPage(){
 	console.log("initPage - URL=: " + location.href);
 	// auto start if URL is empty
 	location.href="#Introduction";
-	//doRouting(); // why do I have to call this?
+	doRouting(); // why do I have to call this?
 }
 
 function apiReady() {
