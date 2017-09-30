@@ -207,6 +207,7 @@ function doJSON(data, status) {
 	}
 	g.jd = data;
 	g.lastPageAvail = g.jd.length-1; // NO LONGER USED
+	ga('set','page','/diary'); ga('semd', 'pageview');
 	$.get(g.dataURL, doData);
 }
 
@@ -215,6 +216,7 @@ function doIntro(data, status) {
 		console.log("get intro md error: " + status);
 		return;
 	}
+	ga('set','page','/introduction'); ga('semd', 'pageview');
 	$(`#app`).append(`<div id="intro"> ${convertMarkdown(data)}</div>`);
 }
 function doPeople(data, status) {
@@ -222,6 +224,7 @@ function doPeople(data, status) {
 		console.log("get people error: " + status);
 		return;
 	}
+	ga('set','page','/people'); ga('semd', 'pageview');
 	$(`#app`).append(`<div id="intro"> ${convertMarkdown(data)}</div>`);
 }
 function doOtherNotes(data, status) {
@@ -229,6 +232,7 @@ function doOtherNotes(data, status) {
 		console.log("get other notes error: " + status);
 		return;
 	}
+	ga('set','page','/people'); ga('semd', 'pageview');
 	$(`#app`).append(`<div id="intro"> ${convertMarkdown(data)}</div>`);
 }
 
