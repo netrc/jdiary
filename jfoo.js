@@ -280,7 +280,7 @@ function initPage(){
 	console.log("initPage - URL=: " + location.href);
 	// auto start if URL is empty
 	location.href="#Introduction";
-	doRouting(); // why do I have to call this?
+	//doRouting();// works but makes the app put in 2 intro sections
 }
 
 function apiReady() {
