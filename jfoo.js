@@ -108,6 +108,13 @@ function initMap() {
 		console.log(`loc: ${k}  ${g.locs[k].icon}`);
 		new google.maps.Marker({ position: g.locs[k].ll, map: g.gmap, title: k, icon: g.icons[g.locs[k].icon] });
 	});
+
+	var westernFrontLine = new google.maps.Polyline({
+		path: g.westernFront,
+		strokeColor: '#885522',
+		strokeWeight: 2
+	});
+	westernFrontLine.setMap(g.gmap);
 }
 
 function setView() {
@@ -145,7 +152,7 @@ function doData(data, status) {
 		data = JSON.parse(data);
 	}
 	// put the data into our global
-	['pages','icons','locs','views','gmStyles'].map( k => g[k] = data[k] );
+	Object.assign(g, data);  // pages, icons, locs, views, gmStyles, westernFront 
 
 	// if anchorData is a date, try and set that global currPage in doJSON // TODO
 	anchorData = location.href.replace(/.*#/,"");
