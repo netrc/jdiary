@@ -39,6 +39,8 @@ The Aerodrome - web site with active forums, research on World War I aces and ai
 * To what unit/group was violinist Albert Spalding assigned? Where did he serve
 * Map of Western Front, 1918, showing German offensive gains from April through July [|https://en.wikipedia.org/wiki/Western_Front_(World_War_I)#/media/File:Western_front_1918_german.jpg]
 In other news
+* German advances - https://en.wikipedia.org/wiki/Spring_Offensive
+* "Hundred Days Offensive" https://en.wikipedia.org/wiki/Hundred_Days_Offensive
 
 * Aug 12 - Allies defeat Germans at Battle of Amiens - last great battle of the war.
 * Aug 29 Bapaume taken by Australian Corps and Canadian Corps in the Hundred Days Offensive
