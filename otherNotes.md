@@ -41,6 +41,7 @@ The Aerodrome - web site with active forums, research on World War I aces and ai
 In other news
 * German advances - https://en.wikipedia.org/wiki/Spring_Offensive
 * "Hundred Days Offensive" https://en.wikipedia.org/wiki/Hundred_Days_Offensive
+* Map - Aug 1918 - http://www.emersonkent.com/map_archive/western_front_1918.htm
 
 * Aug 12 - Allies defeat Germans at Battle of Amiens - last great battle of the war.
 * Aug 29 Bapaume taken by Australian Corps and Canadian Corps in the Hundred Days Offensive
