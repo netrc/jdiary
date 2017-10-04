@@ -136,7 +136,7 @@ function geoTagClick( ts ) {
 		g.gmap.setZoom(g.views[ts].zoom);
 	} else 	if (g.locs.hasOwnProperty(ts)) {
 		g.gmap.panTo(g.locs[ts].ll);
-		g.gmap.setZoom(8);
+		g.gmap.setZoom(10);
 	} else {
 		console.log(`missing views or locs for ${ts}`)
 	}
@@ -152,7 +152,7 @@ function doData(data, status) {
 		data = JSON.parse(data);
 	}
 	// put the data into our global
-	Object.assign(g, data);  // pages, icons, locs, views, gmStyles, westernFront 
+	Object.assign(g, data);  // pages, icons, locs, views, gmStyles, westernFront
 
 	// if anchorData is a date, try and set that global currPage in doJSON // TODO
 	anchorData = location.href.replace(/.*#/,"");
