@@ -244,13 +244,13 @@
 		  "music":"https://www.gstatic.com/mapspro/images/stock/1293-poi-music.png",
 		  "anchor":"https://www.gstatic.com/mapspro/images/stock/1443-trans-marine.png",
 		  "train":"https://www.gstatic.com/mapspro/images/stock/1463-trans-tram.png",
-			"ship":"http://www.gstatic.com/mapspro/images/stock/1441-trans-marina.png",
-			"bar":"http://www.gstatic.com/mapspro/images/stock/979-biz-bar.png",
+			"ship":"https://www.gstatic.com/mapspro/images/stock/1441-trans-marina.png",
+			"bar":"https://www.gstatic.com/mapspro/images/stock/979-biz-bar.png",
 		  "tent":"https://www.gstatic.com/mapspro/images/stock/31-campground.png",
-			"action":"http://www.gstatic.com/mapspro/images/stock/1143-crisis-epicenter.png",
-			"explode":"http://www.gstatic.com/mapspro/images/stock/1145-crisis-explosion.png",
-			"skull":"http://www.gstatic.com/mapspro/images/stock/1137-crisis-death.png",
-			"monument":"http://www.gstatic.com/mapspro/images/stock/1239-poi-civic.png"
+			"action":"https://www.gstatic.com/mapspro/images/stock/1143-crisis-epicenter.png",
+			"explode":"https://www.gstatic.com/mapspro/images/stock/1145-crisis-explosion.png",
+			"skull":"https://www.gstatic.com/mapspro/images/stock/1137-crisis-death.png",
+			"monument":"https://www.gstatic.com/mapspro/images/stock/1239-poi-civic.png"
 	},
 
 	"locs":{
