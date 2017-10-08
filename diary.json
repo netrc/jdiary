@@ -83,7 +83,7 @@
 	"date":"1917-10-01",
 	"vtag":"Fastnet",
    	"text":"Oct 1 - Word was recieved at ten this morning that a vessel had just been sunk 10 miles north by a sub. We gave the spot plenty of room and saw nothing of it. I saw several fishing smaks which were being used for trawling for mines. They have swept a clean path for us. Lights appeared on shore at 9pm and I slept better knowing I would not have far to swim if we were sunk.",
-	"notes":"Probably the first of our Campbell ancestors to see Ireland in 200 years",
+	"notes":"Probably the first of our Campbell ancestors to see Ireland in 200 years; we emigrated from Northern Ireland in 1719.",
 	"jtag":"p009"
 },
 {
@@ -95,7 +95,7 @@
 {
 	"date":"1917-10-03",
 	"vtag":"Oxford",
-  "text":"Oct 3 - I was transported to Queens College today. 60 were sent to Queens and 90 to Christs. Ed Moore, George Sherman, and myself have a large room on the fourth floor. The English seem to know little about stoves as far as I have been yet I have seen nothing but fire places. These giddy English people speak a batty funny language and it is jolly hard to understand them. It is almost like a foreign language and I have to listen with both ears to understand them. The fellows in school are fine chaps thought. I have met several Canadians from Windsor.\nWe all have to go through ground school again and will have six weeks here. It seems that all our work at Champaign was for naught. It ought to be easy for me however.",
+  "text":"Oct 3 - I was transported to Queens College [G|Queens College, Oxford] today. 60 were sent to Queens and 90 to Christs. Ed Moore, George Sherman, and myself have a large room on the fourth floor. The English seem to know little about stoves as far as I have been yet I have seen nothing but fire places. These giddy English people speak a batty funny language and it is jolly hard to understand them. It is almost like a foreign language and I have to listen with both ears to understand them. The fellows in school are fine chaps thought. I have met several Canadians from Windsor.\nWe all have to go through ground school again and will have six weeks here. It seems that all our work at Champaign was for naught. It ought to be easy for me however.",
 	"notes":"Champaign - ground school training at The University of Illinois in Champaign, IL - see [|https://en.wikipedia.org/wiki/United_States_Army_World_War_I_Flight_Training]",
 	"jtag":"p010"
 },
@@ -179,7 +179,7 @@
 {
 	"date":"1917-10-22",
 	"vtag":"Oxford",
-  "text":"Oct 22 - We were moved from Queens to Exeter College today. We drew a room on the third floor again. I am getting used to rapid changes of elevation climbing up and down stairs. We have a little better room but no fire. All the American Cadets are together again.",
+  "text":"Oct 22 - We were moved from Queens to Exeter College [G|Exeter College, Oxford] today. We drew a room on the third floor again. I am getting used to rapid changes of elevation climbing up and down stairs. We have a little better room but no fire. All the American Cadets are together again.",
 	"jtag":"p015"
 },
 {
@@ -207,6 +207,7 @@
 	"date":"1917-11-03",
 	"vtag":"Grantham",
   "text":"Nov 3 - We left Oxford at 9:30 after a strenuous time packing up and getting our baggage away. Arrived at Grantham at 4:30 and were met at the station by a band. Marching up the street behind real music again was a real treat and was a good indication of the treatment we are to get here. When we arrived at the camp which is in a valley just outside the city, a fine warm meal awaited us. We are officers in treatmnet if not in fact. The white band is off of our PFC caps and we wear our best uniforms and the lower half of the Sam Browne Belt. Incidentaly, they drew a number of salutes from the \"privates\". We have officers mess and quarters and a batman to wait on us, make bed, shine shoes and belts and call us \"sir\".",
+	"notes": "Originally [|RAF Station Grantham|https://en.wikipedia.org/wiki/RAF_Spitalgate].",
 	"jtag":"p016"
 },
 {
@@ -219,7 +220,7 @@
 {
 	"date":"1917-11-05",
 	"vtag":"Grantham",
-  "text":"Nov 5 - Start classes today again and it looks as though I might know something about the Vickers before long if they keep on the way they have started. Every screw and knot is accounted for. We get great meals here, the best cooking I have found yet in England.",
+  "text":"Nov 5 - Start classes today again and it looks as though I might know something about the [|Vickers|https://en.wikipedia.org/wiki/Vickers_machine_gun] before long if they keep on the way they have started. Every screw and knot is accounted for. We get great meals here, the best cooking I have found yet in England.",
 	"jtag":"p018"
 },
 {
@@ -232,7 +233,8 @@
 {
 	"date":"1917-11-15",
 	"vtag":"Grantham",
-  "text":"Nov 15 - At last I came to be posted. Orders have come for me and 4 others to proeced to the 25th training squadron at [|Thetford|https://en.wikipedia.org/wiki/Thetford]. I hate to leave Sherman and Ed Moore but I suppose it must come sooner or later anyways.",
+  "text":"Nov 15 - At last I came to be posted. Orders have come for me and 4 others to proeced to the 25th training squadron at Thetford. I hate to leave Sherman and Ed Moore but I suppose it must come sooner or later anyways.",
+	"notes": "See [|http://www.abct.org.uk/airfields/airfield-finder/thetford-snarehill/]. For the town, see  [|Thetford|https://en.wikipedia.org/wiki/Thetford]",
 	"jtag":"p018"
 },
 {
@@ -244,13 +246,14 @@
 {
 	"date":"1917-11-18",
 	"vtag":"Thetford",
-  "text":"Nov 18 - Left Grantham at 8:30 for Thetford, missed connections at [|Petersboro|https://en.wikipedia.org/wiki/Peterborough] and had to wait 4 hours. After changing again at [|Ely|https://en.wikipedia.org/wiki/Ely,_Cambridgeshire] we finally got here at 3:00. Thetford is smaller than Grantham and seems just as dead. The flying field is 2 miles east of town so perhaps I can save a bit of money.",
+  "text":"Nov 18 - Left Grantham at 8:30 for Thetford, missed connections at [G|Petersboro] and had to wait 4 hours. After changing again at [G|Ely] we finally got here at 3:00. Thetford is smaller than Grantham and seems just as dead. The flying field is 2 miles east of town so perhaps I can save a bit of money.",
+	"notes": "Apparently, Jesse was housed in Radlett [G|Radlett]. His train stops were the towns of [|Petersboro|https://en.wikipedia.org/wiki/Peterborough] and [|Ely|https://en.wikipedia.org/wiki/Ely,_Cambridgeshire] ",
 	"jtag":"p018"
 },
 {
 	"date":"1917-11-20",
 	"vtag":"Thetford",
-  "text":"Nov 20 - The machines here are all pushers, [|Morris Farnums|https://en.wikipedia.org/wiki/Farman_MF.11] or Rumpsters (?) as they call them. It was windy today so I didn't get a chance to go up. I'll probably get plenty of it in the next few days. Classes are from 9 - 1 and 2 - 3. Same old stuff. I am beginning to get fed up with it.",
+  "text":"Nov 20 - The machines here are all pushers, [|Morris Farnums|https://en.wikipedia.org/wiki/Farman_MF.11] or Rumpsters as they call them. It was windy today so I didn't get a chance to go up. I'll probably get plenty of it in the next few days. Classes are from 9 - 1 and 2 - 3. Same old stuff. I am beginning to get fed up with it.",
 	"notes":"\"Rumpsters\" because the propellor pushes from the rear (rump!) - [|https://en.wikipedia.org/wiki/Pusher_configuration]",
 	"jtag":"p019"
 },
@@ -274,15 +277,16 @@
 },
 {
 	"date":"1917-12-01",
-	"vtag":"Picadilly",
-   	"text":"Dec 1 - I got back from London early this morning and found there had been flying yesterday. Not enough to make any difference though. It did seem good to [see] civilization again. London is quite a place and the crowds, taxis, and cars seemed like home again. I had a very nice room at [|The Picadilly Hotel|http://www.thepiccadillywestend.co.uk] for 8/6 and saw a very good play called [|Theodore and Co.|https://en.wikipedia.org/wiki/Theodore_%26_Co].\n Unlike most American cities, London has very few high buildings. The streets careen every which way and end up in either a square or a circus. Picadilly or Oxford circus are not shows as supposed but simply a square or where a number of streets converge.\nAt night numbers of search lights search the sky for Zeps. Fortuntely, none came while I was there. I met an American from ??? Brouton ??? who was bound for the states after four months service in the ambulance corps in France and it made me sort of homesick to go back with him. He has not had enough yet and is going back to join the Aviators Corps.",
-	"notes":"\"Theodore & Co.\" was a very successful show, music by Jerome Kern. It played at [|The Gaiety Theatre|https://en.wikipedia.org/wiki/Gaiety_Theatre,_London]. See [|http://www.guidetomusicaltheatre.com/shows_t/theodore.htm]",
+	"vtag":"Piccadilly",
+   	"text":"Dec 1 - I got back from London early this morning and found there had been flying yesterday. Not enough to make any difference though. It did seem good to [see] civilization again. London is quite a place and the crowds, taxis, and cars seemed like home again. I had a very nice room at The Piccadilly Hotel [G]|PiccadillyHotel] for 8/6 and saw a very good play called [|Theodore and Co.|https://en.wikipedia.org/wiki/Theodore_%26_Co].\n Unlike most American cities, London has very few high buildings. The streets careen every which way and end up in either a square or a circus. Picadilly or Oxford circus are not shows as supposed but simply a square or where a number of streets converge.\nAt night numbers of search lights search the sky for Zeps. Fortuntely, none came while I was there. I met an American from ??? Brouton ??? who was bound for the states after four months service in the ambulance corps in France and it made me sort of homesick to go back with him. He has not had enough yet and is going back to join the Aviators Corps.",
+	"notes":"\"Theodore & Co.\" was a very successful show, music by Jerome Kern. It played at [|The Gaiety Theatre|https://en.wikipedia.org/wiki/Gaiety_Theatre,_London]. See [|http://www.guidetomusicaltheatre.com/shows_t/theodore.htm]. The hotel is now [|The Picadilly Hotel|http://www.thepiccadillywestend.co.uk]",
 	"jtag":"p020"
 },
 {
 	"date":"1917-12-08",
 	"vtag":"Thetford",
-   	"text":"Saturday Dec 8 - I had a fine ride today. Lt. Whally and I went on a cross country trip south and west. We passed over [|Bury St. Edmunds|https://en.wikipedia.org/wiki/Bury_St_Edmunds] at 6,000 ft. and although it is quite a large place it looked very small. We landed near a small village and had tea. The inhabitants looked at us as if we were strangers from another planet. It was really quite a lot of good fun to be looked at so. I have often watched [other] aviators in the past. When we got back we found that Capt. Creed our Flight Commander and Roberts had had a crash. Capt. Creed was quite badly hurt but Roberts escaped with a shaking up. He was really quite miraculous as the machine was a total wreck. They got in to a side slip too close to the ground.",
+   	"text":"Saturday Dec 8 - I had a fine ride today. Lt. Whally and I went on a cross country trip south and west. We passed over [G|BuryStEdmunds] at 6,000 ft. and although it is quite a large place it looked very small. We landed near a small village and had tea. The inhabitants looked at us as if we were strangers from another planet. It was really quite a lot of good fun to be looked at so. I have often watched [other] aviators in the past. When we got back we found that Capt. Creed our Flight Commander and Roberts had had a crash. Capt. Creed was quite badly hurt but Roberts escaped with a shaking up. He was really quite miraculous as the machine was a total wreck. They got in to a side slip too close to the ground.",
+		"notes":"The city is [|Bury St. Edmunds|https://en.wikipedia.org/wiki/Bury_St_Edmunds]",
 	"jtag":"p021"
 },
 {
@@ -306,14 +310,14 @@
 {
 	"date":"1917-12-13",
 	"vtag":"Thetford",
-	"text":"Thursday Dec 13 - At last I have flown the flying coffins all alone. My first solo at 2:30 this afternoon. I was a little nervous going around with the instructor before but the machine left the ground with me alone. I had all the confidence in the world. It was quite misty at 1000 but I could barely see the ground. I lost the aerodrome and it took me 1/2 hour to find it again\n In the morning Whalley and I hunted pheasants in the [?us] and succeeded in getting three.\n I had in all 3-1/2 hrs in the air today and am rather tired",
+	"text":"Thursday Dec 13 - At last I have flown the flying coffins all alone. My first solo at 2:30 this afternoon. I was a little nervous going around with the instructor before but the machine left the ground with me alone. I had all the confidence in the world. It was quite misty at 1000 but I could barely see the ground. I lost the aerodrome and it took me 1/2 hour to find it again\n In the morning Whalley and I hunted pheasants in the [?] and succeeded in getting three.\n I had in all 3-1/2 hrs in the air today and am rather tired",
 	"jtag":"p022"
 },
 {
 	"date":"1917-12-14",
 	"vtag":"Thetford",
 	"text":"Dec 14 Friday - High wind - no flying. One good day would finish me now.",
-	"notes":"finish == presumably, finish his required flying time to qualify as pilot",
+	"notes":"'finish': presumably, finish his required flying time to qualify as pilot",
 	"jtag":"p023"
 },
 {
@@ -332,20 +336,21 @@
 {
 	"date":"1917-12-18",
 	"vtag":"Thetford",
- 	"text":"Dec 18 Tuesday - I got my transfer papers signed by the major and got leave for [|Norwich|https://en.wikipedia.org/wiki/Norwich]. I have been recommended for a [|Bristol Fighter|https://en.wikipedia.org/wiki/Bristol_F.2_Fighter]",
+ 	"text":"Dec 18 Tuesday - I got my transfer papers signed by the major and got leave for Norwich [G|Norwich, Mousehold Heath]. I have been recommended for a [|Bristol Fighter|https://en.wikipedia.org/wiki/Bristol_F.2_Fighter]",
+	"notes":"[|RAF Mousehold Heath|https://en.wikipedia.org/wiki/RAF_Mousehold_Heath].  For the town, see [|Norwich|https://en.wikipedia.org/wiki/Norwich]",
 	"jtag":"p024"
 },
 {
 	"date":"1917-12-19",
 	"vtag":"Norwich",
 	"text":"Dec 19 Wednesday - Norwich is quite a city. Street cars, buses and crowds. I went to the cinema in the afternoon. Morrison and I had dinner at [|The Royal|https://en.wikipedia.org/wiki/Royal_Hotel,_Norwich] with Lt. Col G. H Bower and his wife. I was quite surprised to hear that she was a sister of Mary Garden. They were quite insistent that we come out and see them some time. Came back to Thetford on the 10:24",
-	"notes":"Jesse kept the calling card of Lt. G.H. Bower but nothing else is known of him. Mary Garden was a world renowned opera singer - [|https://en.wikipedia.org/wiki/Mary_Garden]<p> The aerodrome was at [|Mousehold Heath|https://en.wikipedia.org/wiki/Mousehold_Heath]",
+	"notes":"Jesse kept the calling card of Lt. G.H. Bower but nothing else is known of him. Mary Garden was a world renowned opera singer - [|https://en.wikipedia.org/wiki/Mary_Garden]",
 	"jtag":"p024"
 },
 {
 	"date":"1917-12-21",
 	"vtag":"Norwich",
-	"text":"Dec 21 Friday - Orders came to go to 74 T.S. at [|London Colney|https://en.wikipedia.org/wiki/London_Colney]. Left Thetford at 2:30 [xxx?] London. Could hardly find anyone who had hard of the bally place at London but finally found a taxu driver who had heard of it. Finally arrived here at 7:30. It is an out of the way place between Radlett and St. Auberns [St. Albans]",
+	"text":"Dec 21 Friday - Orders came to go to 74 T.S. at London-Colney [G|London Colney Airfield]. Left Thetford at 2:30 [xxx?] London. Could hardly find anyone who had hard of the bally place at London but finally found a taxi driver who had heard of it. Finally arrived here at 7:30. It is an out of the way place between Radlett and St. Auberns [St. Albans]",
 	"notes":"Only at Norwich for three days! Actually, the new aerodrome was at [Shenlybury|https://en.wikipedia.org/wiki/Shenley,_Hertfordshire], see [https://shenleyww1.wordpress.com/royal-flying-corps-at-shenley/]\nAnd note the use of [\"bally\"|https://en.wiktionary.org/wiki/bally], a nice, somewhat classier version of \"bloody\"",
 	"jtag":"p024"
 },
@@ -364,8 +369,8 @@
 {
 	"date":"1917-12-24",
 	"vtag":"Villiers",
-	"text":"Dec 24. Left for London on the bus. It is not a comfortable way to travel but it is 2-1/2 miles to Radlett to the trains. I stayed at Faulkner's Hotel on Charing Cross. There were a number of soldiers and officers on Xmas leave from the front and it was quite interesting to talk with them. I went to the Strand in the evening and saw \"Wild Heaather\".",
-	"notes":"By the 1920s, Faulkner's hotel was on Villiers Street off of Charing Cross in an area known as [|https://tricksterprince.wordpress.com/2014/01/22/the-worst-street-in-1920s-london/|the worst street in London!]\n[|Wild Heather|https://en.wikipedia.org/wiki/Wild_Heather] was a drama; see [|https://theatricalia.com/play/2mh/wild-heather]",
+	"text":"Dec 24. Left for London on the bus. It is not a comfortable way to travel but it is 2-1/2 miles to Radlett to the trains. I stayed at Faulkner's Hotel on Charing Cross. There were a number of soldiers and officers on Xmas leave from the front and it was quite interesting to talk with them. I went to the Strand in the evening and saw \"Wild Heather\".",
+	"notes":"By the 1920s, Faulkner's hotel was on Villiers Street off of Charing Cross in an area known as [|the worst street in London!|https://tricksterprince.wordpress.com/2014/01/22/the-worst-street-in-1920s-london/|]\n[|Wild Heather|https://en.wikipedia.org/wiki/Wild_Heather] was a drama; see [|https://theatricalia.com/play/2mh/wild-heather]",
 	"jtag":"p025"
 },
 {
@@ -383,7 +388,7 @@
 {
 	"date":"1917-12-29",
 	"vtag":"LondonColney",
-	"text":"Dec 29 - Today was a bad day on the Aerodrome, 4 bad crashes although no on was fatally injured. One poor fellow's prop came off at 3000 feet; another lost his engine and prop and struck a tree in making a forced landind. Received a cablegram from home sent Xmas and was mighty glad to get it.",
+	"text":"Dec 29 - Today was a bad day on the Aerodrome, 4 bad crashes although no on was fatally injured. One poor fellow's prop came off at 3000 feet; another lost his engine and prop and struck a tree in making a forced landing. Received a cablegram from home sent Xmas and was mighty glad to get it.",
 	"jtag":"p026"
 },
 {
@@ -396,6 +401,7 @@
 	"date":"1918-01-08",
 	"vtag":"LondonColney",
 	"text":"Jan 8 1918 - Well \"Old book.\" I have been neglecting you. Flying is awfully slow. I have only had 10 minutes on ground but Ellis was burned to a cinder. Doc says he thinks Fred will pull through although he is badly burned.",
+	"notes":"This was Fred Stillman.",
 	"jtag":"p026"
 },
 {
@@ -428,8 +434,8 @@
 {
 	"date":"1918-02-23",
 	"vtag":"LondonColney",
-	"text":"Feb 23 - Fred Stillman died today. 15 days after the crash. It was a shock to everyone as he had been recoverying rapidly the last few days. Nial and [I did a] cross country trip today. Since I had been to Northolt before, I was elected leader. We ran into a snow storm after leaving Northolt and got lost, landed at Brooklyns and after getting our bearings arrived safely at Hounslow. I brought Darcy back from Northolt with me. All the Avros and Pups are being sent away. Darcy took 4439 back to Northolt with him.",
-	"notes":"When was Jesse at Northolt (which is just north of Heathrow)?\n Brooklyns is actually [|Brooklands|https://en.wikipedia.org/wiki/Brooklands], an early racing track and airfield, somewhat south of Heathrow.\n [|Hounslow|https://en.wikipedia.org/wiki/Hounslow] is just east of Heathrow.",
+	"text":"Feb 23 - Fred Stillman died today. 15 days after the crash. It was a shock to everyone as he had been recoverying rapidly the last few days. Nial and [I did a] cross country trip today. Since I had been to Northolt [G|Northolt Airfield] before, I was elected leader. We ran into a snow storm after leaving Northolt and got lost, landed at Brooklyns and after getting our bearings arrived safely at Hounslow. I brought Darcy back from Northolt with me. All the Avros and Pups are being sent away. Darcy took 4439 back to Northolt with him.",
+	"notes":"When was Jesse at [|RAF Northolt|https://en.wikipedia.org/wiki/RAF_Northolt]?\n Brooklyns is actually [|Brooklands|https://en.wikipedia.org/wiki/Brooklands], an early racing track and airfield, somewhat south of Heathrow.\n [|Hounslow|https://en.wikipedia.org/wiki/Hounslow] is just east of Heathrow.",
 	"jtag":"p027"
 },
 {
@@ -447,7 +453,7 @@
 {
 	"date":"1918-03-25",
 	"vtag":"LondonColney",
-	"text":"Mar 25. Graduated on Pups today. Went on leave for 4 days to Salisbury.",
+	"text":"Mar 25. Graduated on Pups today. Went on leave for 4 days to Salisbury [G|Salisbury].",
 	"notes":"[|Salisbury|https://en.wikipedia.org/wiki/Salisbury] is noted for its magnificent cathedral. Note that during this leave, Jesse had his 22nd birthday (March 28).\n On This Day - March 21-28 German Somme Offensive.",
 	"jtag":"p028"
 },
@@ -461,7 +467,7 @@
 	"date":"1918-05-08",
 	"vtag":"LondonColney",
 	"text":"May 8 - Bill Wait was killed today. He dove into Elstree mess room. No one knows how it happened.",
-	"notes":"Possible Elstree, England?",
+	"notes":"[|RAF Elstree|https://en.wikipedia.org/wiki/Elstree_Airfield]",
 	"jtag":"p028"
 },
 {
@@ -493,21 +499,21 @@
 {
 	"date":"1918-06-19",
 	"vtag":"Dover",
-	"text":"June 19 - Wicks, Forester, and myself started for [|Dover|https://en.wikipedia.org/wiki/Dover] to fly Camels.",
-	"notes":"Possibly, the airfield at [|Wye|https://en.wikipedia.org/wiki/RAF_Wye]",
+	"text":"June 19 - Wicks, Forester, and myself started for Dover [G|Dover (Swingate Downs) Airfield] to fly Camels.",
+	"notes":"The airfield at [|Dover, Swingate Downs|http://www.ukairfieldguide.net/airfields/Swingate-Downs]",
 	"jtag":"p029"
 },
 {
 	"date":"1918-06-23",
 	"vtag":"Dover",
-	"text":"June 23 - Took my first flip on a Camel. Not so bad as I had heard they were. We have only to fly here so we should not have a bad time.",
+	"text":"June 23 - Took my first flip on a [|Camel|https://en.wikipedia.org/wiki/Sopwith_Camel]. Not so bad as I had heard they were. We have only to fly here so we should not have a bad time.",
 	"jtag":"p029"
 },
 {
 	"date":"1918-06-25",
 	"vtag":"Dover",
 	"text":"June 25 - Sick with the flue.",
-	"notes":"Note this is during the [|great flu pandemic across Europe and America|https://en.wikipedia.org/wiki/1918_flu_pandemic]. No other mention in this diary of the flu.",
+	"notes":"Note most of this diary is written during the time of the [|great flu pandemic across Europe and America|https://en.wikipedia.org/wiki/1918_flu_pandemic]. No other mention in this diary of the flu.",
 	"jtag":"p029"
 },
 {
@@ -527,35 +533,36 @@
 {
 	"date":"1918-07-30",
 	"vtag":"Boulogne",
-	"text":"July 30 - Crossed the Channel to [|Boulogne|https://en.wikipedia.org/wiki/Boulogne-sur-Mer]. Stayed the night at Hotel Maurice.",
-	"notes":"No trace of Hotel Maurice.",
+	"text":"July 30 - Crossed the Channel to Boulogne [G|Boulogne]. Stayed the night at Hotel Maurice.",
+	"notes":"No trace of Hotel Maurice. For the city, see [|Boulogne|https://en.wikipedia.org/wiki/Boulogne-sur-Mer]",
 	"jtag":"p029"
 },
 {
 	"date":"1918-07-31",
 	"vtag":"PetiteSynth",
-	"text":"July 31 - Started for [|Dunkirk|https://en.wikipedia.org/wiki/Dunkirk] to 17th American Squadron \"Camels\"",
-	"notes":"For the duration of the war, the 17th Aero Squadron (along with the 147th) was a U.S. Army air unit assigned to the Royal Air Force.",
+	"text":"July 31 - Started for Dunkirk [G|PetiteSynth] to 17th American Squadron \"Camels\"",
+	"notes":"For the duration of the war, the 17th Aero Squadron (along with the 147th) was a U.S. Army air unit assigned to the Royal Air Force, 65th Wing, [|3rd Infantry Brigade|https://en.wikipedia.org/wiki/3rd_Infantry_Brigade_(United_Kingdom)].",
 	"jtag":"p029"
 },
 {
 	"date":"1918-08-01",
 	"vtag":"PetiteSynth",
 	"text":"France\n\nAug 1 - Reported to 17th American Squadron at Dunkirk, Lt. Eckert commanding.",
-	"notes":"The Aerodrome at [|Petite-Synthe|http://www.49squadron.co.uk/airfields/af1_psynthe], western industrial suburb of Dunkirk.",
+	"notes":"[|Petite-Synthe Airfield|http://www.49squadron.co.uk/airfields/af1_psynthe], western industrial suburb of Dunkirk.",
 	"jtag":"p030"
 },
 {
 	"date":"1918-08-03",
 	"vtag":"PetiteSynth",
 	"text":"Aug 3 - 1st trip over lines, we got a good bit of archie and machine gun fire at Nieppe Forest. Saw no E.A.",
-	"notes":"E.A. == Enemy Aircraft.\nArchie == anti-aircraft fire;  See [|https://english.stackexchange.com/questions/301554/why-is-german-anti-aircraft-fire-called-archibald]\n[|Front line as of Aug 8|http://www.longlongtrail.co.uk/maps/allied18q.jpg]\nNieppe Forest, just north-west of [|Merville|https://en.wikipedia.org/wiki/Merville,_Nord]\n[|Nieppe|https://en.wikipedia.org/wiki/Nieppe]",
+	"notes":"E.A. == Enemy Aircraft.\nArchie == anti-aircraft fire;  See [|https://english.stackexchange.com/questions/301554/why-is-german-anti-aircraft-fire-called-archibald] - The song can be heard at [|https://www.youtube.com/watch?v=fqsZiLpyoaw]\n[|Front line as of Aug 8|http://www.longlongtrail.co.uk/maps/allied18q.jpg]\nNieppe Forest, just north-west of [|Merville|https://en.wikipedia.org/wiki/Merville,_Nord]\n[|Nieppe|https://en.wikipedia.org/wiki/Nieppe]",
 	"jtag":"p030"
 },
 {
 	"date":"1918-08-05",
 	"vtag":"PetiteSynth",
-	"text":"Aug 5 - Straffed trenches around [|Dixmude|https://en.wikipedia.org/wiki/Diksmuide]",
+	"text":"Aug 5 - Straffed trenches around Dixmude [G|Diksmuide]",
+	"notes":"See [|Dixmuide|https://en.wikipedia.org/wiki/Diksmuide]",
 	"jtag":"p030"
 },
 {
@@ -567,8 +574,8 @@
 {
 	"date":"1918-08-14",
 	"vtag":"PetiteSynth",
-	"text":"Aug 14 - Started work in earnest today. The first show was escorting [|D.H.9 bombers|https://en.wikipedia.org/wiki/Airco_DH.9] to [|Bruges|https://en.wikipedia.org/wiki/Bruges]. 5 Fokkers attack us over Bruges and we accounted for 3. I got my first Hun. Hamilton, Todd, and myself were all firing at him when he went down so I get credit for 1/3 hun destroyed officially. One Fokker which Wicks was firing at crashed into Case cutting off his tail plane. Both crashed to the ground. Sherman failed to return. He was last seen going down after a hun.\nIn the afternoon we went on an offensive patrol and ran into 15 enemy aircraft which were scrapping a formation of Bristol Fighters. We joined in but every thing was so messed up that I couldn't tell where I was. Luckily none attacked me. I found myself up alone with 3 Fokkers everyone else having gone down but they didn't attack me so I left them alone.",
-	"notes":"Just two weeks after getting to France, his Oxford roomate, George Sherman is killed in what must have been a terrifying day of battle. \nNot sure what Fokker model, must have been a figher:  [|https://en.wikipedia.org/wiki/Fokker_D.VI], [|https://en.wikipedia.org/wiki/Fokker_D.VII], [|https://en.wikipedia.org/wiki/Fokker_Dr.I]",
+	"text":"Aug 14 - Started work in earnest today. The first show was escorting [|D.H.9 bombers|https://en.wikipedia.org/wiki/Airco_DH.9] to Bruges [G|Bruges]. 5 Fokkers attack us over Bruges and we accounted for 3. I got my first Hun. Hamilton, Todd, and myself were all firing at him when he went down so I get credit for 1/3 hun destroyed officially. One Fokker which Wicks was firing at crashed into Case cutting off his tail plane. Both crashed to the ground. Sherman failed to return. He was last seen going down after a hun.\nIn the afternoon we went on an offensive patrol and ran into 15 enemy aircraft which were scrapping a formation of Bristol Fighters. We joined in but every thing was so messed up that I couldn't tell where I was. Luckily none attacked me. I found myself up alone with 3 Fokkers everyone else having gone down but they didn't attack me so I left them alone.",
+	"notes":"Just two weeks after getting to France, his Oxford roomate, George Sherman is killed in what must have been a terrifying day of battle. \nNot sure what Fokker model, must have been a figher:  [|https://en.wikipedia.org/wiki/Fokker_D.VI], [|https://en.wikipedia.org/wiki/Fokker_D.VII], [|https://en.wikipedia.org/wiki/Fokker_Dr.I]\n. For the city, see [|Bruges|https://en.wikipedia.org/wiki/Bruges].",
 	"jtag":"p030"
 },
 {
@@ -580,13 +587,15 @@
 {
 	"date":"1918-08-16",
 	"vtag":"PetiteSynth",
-	"text":"Aug 16 - Escorted DH9 to Bruges. Archie was fierce coming back but no one was brought down although several were hit. Went to [|Calais|https://en.wikipedia.org/wiki/Calais] for dinner.",
+	"text":"Aug 16 - Escorted DH9 to Bruges. Archie was fierce coming back but no one was brought down although several were hit. Went to Calais [G|Calais] for dinner.",
+	"notes":"For the town, see [|Calais|https://en.wikipedia.org/wiki/Calais]",
 	"jtag":"p031"
 },
 {
 	"date":"1918-08-17",
 	"vtag":"AuxiLeChateau",
-	"text":"Aug 17 - Moved to [|Auxi-Le-Chateau|https://en.wikipedia.org/wiki/Auxi-le-Ch%C3%A2teau] today. Our new front is between [|Albert|https://en.wikipedia.org/wiki/Albert,_Somme] and [|Arras|https://en.wikipedia.org/wiki/Arras] so we should have plenty of work.",
+	"text":"Aug 17 - Moved to Auxi-Le-Chateau [G|AuxiLeChateau] today. Our new front is between Albert [G|Albert] and Arras [G|Arras] so we should have plenty of work.",
+	"notes": "For the towns, see [|Auxi-Le-Chateau|https://en.wikipedia.org/wiki/Auxi-le-Ch%C3%A2teau], [|Albert|https://en.wikipedia.org/wiki/Albert,_Somme], [|Arras|https://en.wikipedia.org/wiki/Arras]",
 	"jtag":"p031"
 },
 {
@@ -875,26 +884,26 @@
 },
 {
 	"date":"1918-10-23",
-	"vtag":"London",
+	"vtag":"Royal Air Force Club",
 	"text":"Oct 23 - Crossed the channel and arrived at Officers club London at 8:00 P.M.",
 	"notes":"Possibly the [|Royal Air Force Club|https://en.wikipedia.org/wiki/Royal_Air_Force_Club], Picadilly, founded in 1918.",
 	"jtag":"p039"
 },
 {
 	"date":"1918-10-24",
-	"vtag":"London",
+	"vtag":"Royal Air Force Club",
 	"text":"Oct 24 - quite a few fellows of the old bunch are here either on leave or getting new machines for the Americans.",
 	"jtag":"p039"
 },
 {
 	"date":"1918-10-26",
-	"vtag":"London",
+	"vtag":"Royal Air Force Club",
 	"text":"Oct 26 - Tillinglast (17sq), Anderson (40sq), and Donaldson (32 sq) arrived here tonight having esacaped from Germany. They had a wonderful experience. 30 days walking across Belgium to the Holland border and finally cutting the electrically charged wire there. Don Harris who was shot down while we were at Dunkirk is a prisoner in Holland and is working at the American Embassy.",
 	"jtag":"p040"
 },
 {
 	"date":"1918-11-05",
-	"vtag":"London",
+	"vtag":"Royal Air Force Club",
 	"text":"Nov 5 - Supposed to go back today but orders from H.Q. here said to wait for orders as the squadron had moved south with the Americans.",
 	"notes":"The 17th Sqaudron had moved south to [|Toul|https://en.wikipedia.org/wiki/Toul] apparently now attached (as of Nov 1st) with the [|4th Pursuit Group, II Army|https://en.wikipedia.org/wiki/4th_Pursuit_Group]",
 	"jtag":"p040"
