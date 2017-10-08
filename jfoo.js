@@ -133,7 +133,8 @@ function geoTagClick( ts ) {
 	console.log(`gtc: ${ts}`);
 	if (g.views.hasOwnProperty(ts)) {
 		g.gmap.panTo(g.views[ts].ll);
-		g.gmap.setZoom(g.views[ts].zoom);
+		let z = (g.views[ts].hasOwnProperty('zoom')) ? g.views[ts].zoom : 6;
+		g.gmap.setZoom(z);
 	} else 	if (g.locs.hasOwnProperty(ts)) {
 		g.gmap.panTo(g.locs[ts].ll);
 		g.gmap.setZoom(10);
@@ -184,7 +185,8 @@ function doData(data, status) {
 			g.currView = currPageTop.jd.vtag;
 			if (g.views.hasOwnProperty(g.currView)) {
 				g.gmap.panTo(g.views[g.currView].ll);
-				g.gmap.setZoom(g.views[g.currView].zoom);
+				let z = (g.views[g.currView].hasOwnProperty('zoom')) ? g.views[g.currView].zoom : 6;
+				g.gmap.setZoom(z);
 			} else {
 				console.log(`missing VIEWS for ${g.currView}`)
 			}
