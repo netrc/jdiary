@@ -133,7 +133,7 @@ function geoTagClick( ts ) {
 	console.log(`gtc: ${ts}`);
 	if (g.views.hasOwnProperty(ts)) {
 		g.gmap.panTo(g.views[ts].ll);
-		let z = (g.views[ts].hasOwnProperty('zoom')) ? g.views[ts].zoom : 6;
+		let z = (g.views[ts].hasOwnProperty('zoom')) ? g.views[ts].zoom : 7;
 		g.gmap.setZoom(z);
 	} else 	if (g.locs.hasOwnProperty(ts)) {
 		g.gmap.panTo(g.locs[ts].ll);
