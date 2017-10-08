@@ -69,7 +69,7 @@
 	"date":"1917-09-29",
 	"vtag":"Fastnet",
   "text":"Sept 29 - Our convoy met us today. They are a trim looking lot of destroyers - ten English and two American. The British have three funnels while the American have four and area little longer. All are fast boats making from 35 to 40 knots an hour and have no trouble in running around our slow boats. The English take great pride in their warships and an amusing incident occured in connection therewith: An English lady who is aboard was talking to an officer about the destroyers and said they were the best in the world, far surpassing the American. \"Now look at that one,\" she said pointing to a four funneled destroyer off the starboard side. \"Isn't that the trimmest and neatest looking one you ever saw?\" The officer agrree that it was the best of the lot but the lady was quite taken aback when she was informed that it was an American destroyer.\nI feel quite a little safer now that they have arrived for this is really a dangerous region althought it is hard to realize it. It doesn't seem possible to sink a large steamer like this one but one small torpedo can do the business and leave few to tell the tale.\n Mines are more feared than submarines. When struck by a torpedo, the vessel sinks rather slowly while it is blown to pieces immediately upon striking a mine. I read the semaphoe signals between our boat and a destroyer and we were warned of a five mile area extending outward from a life buoy three miles off Fast head [G|Fastnet Rock] which is mined.\n There was a concert for the benefit of the families of British sailors who have been killed during the war. Wells sang and as usual brought the house down. The real treat however was Spalding's playing. He certainly is an artist with his violin and it is a real treat to hear him and much more to be embarked upon the same enterprise. War is a great equalizer. Before he would never play for less than $1,000 a night and now he is workig hard for $35 per month.",
-	"notes":"'Fast head' must be [|Fastnet Rock|https://en.wikipedia.org/wiki/Fastnet_Rock] \nPresumably Lieutenant David T. Wells",
+	"notes":"'Fast head' must be [|Fastnet Rock|https://en.wikipedia.org/wiki/Fastnet_Rock] \nPresumably Lieutenant David T. Wells, supply officer of the squadron. Wells also wrote much of the background material used in the 'History of the 17th Squadron'.",
 	"jtag":"p006"
 },
 {
@@ -407,7 +407,7 @@
 	"date":"1918-02-16",
 	"vtag":"LondonColney",
 	"text":"Feb 16 - DeGamo, 56, was killed in a Spad near Radlett this A.M. Engnine knocked out.",
-	"notes":"Not sure what the '56' notation means.\nOn This Day: Feb 10, Russia declares it is withdrawing from the Allied Forces",
+	"notes":"Not sure what the '56' notation means.\nMeanwhile, the original 17th Squadron had arrived in England at the end of January and had just shipped out to France.\nOn This Day: Feb 10, Russia declares it is withdrawing from the Allied Forces",
 	"jtag":"p027"
 },
 {
@@ -499,7 +499,7 @@
 	"date":"1918-06-19",
 	"vtag":"Dover",
 	"text":"June 19 - Wicks, Forester, and myself started for Dover [G|Dover (Swingate Downs) Airfield] to fly Camels.",
-	"notes":"The airfield at [|Dover, Swingate Downs|http://www.ukairfieldguide.net/airfields/Swingate-Downs]",
+	"notes":"The airfield at [|Dover, Swingate Downs|http://www.ukairfieldguide.net/airfields/Swingate-Downs]. Meanwhile, in France, the 17th Squadron, which had its A/B/C 'flights' working out of different R.A.F. bases, now was sent as a whole to their airfield at Petite-Synthe [G|PetiteSynthe] near Dunkirk.",
 	"jtag":"p029"
 },
 {
@@ -519,7 +519,7 @@
 	"date":"1918-06-29",
 	"vtag":"Dover",
 	"text":"June 29 - Went on leave for a week to recover.",
-	"notes":"Two weeks later, on July 15, the original 17th Aero Squadron started operations near Dunkirk.",
+	"notes":"Two weeks later, on July 15, the original 17th Aero Squadron started active operations near Dunkirk, and scored their first air victory.",
 	"jtag":"p029"
 },
 {
@@ -538,56 +538,57 @@
 },
 {
 	"date":"1918-07-31",
-	"vtag":"PetiteSynth",
+	"vtag":"PetiteSynthe",
 	"text":"July 31 - Started for Dunkirk [G|PetiteSynth] to 17th American Squadron \"Camels\"",
 	"notes":"For the duration of the war, the 17th Aero Squadron (along with the 147th) was a U.S. Army air unit assigned to the Royal Air Force, 65th Wing, [|3rd Infantry Brigade|https://en.wikipedia.org/wiki/3rd_Infantry_Brigade_(United_Kingdom)].",
 	"jtag":"p029"
 },
 {
 	"date":"1918-08-01",
-	"vtag":"PetiteSynth",
+	"vtag":"PetiteSynthe",
 	"text":"France\n\nAug 1 - Reported to 17th American Squadron at Dunkirk, Lt. Eckert commanding.",
-	"notes":"[|Petite-Synthe Airfield|http://www.49squadron.co.uk/airfields/af1_psynthe], western industrial suburb of Dunkirk.\nFor a description, see Frederick Clapp's, 'History of the 17th Squadron`, p18 - [IA|H17p18]",
+	"notes":"[|Petite-Synthe Airfield|http://www.49squadron.co.uk/airfields/af1_psynthe], western industrial suburb of Dunkirk.\nThis field was originally built for the Royal Naval Air Service. For more description, see Frederick Clapp's, 'History of the 17th Squadron`, p18 - [IA|H17p18]",
 	"jtag":"p030"
 },
 {
 	"date":"1918-08-03",
-	"vtag":"PetiteSynth",
+	"vtag":"PetiteSynthe",
 	"text":"Aug 3 - 1st trip over lines, we got a good bit of archie and machine gun fire at Nieppe Forest. Saw no E.A.",
-	"notes":"E.A. == Enemy Aircraft.\nArchie == anti-aircraft fire;  See [|https://english.stackexchange.com/questions/301554/why-is-german-anti-aircraft-fire-called-archibald] - The song can be heard at [|https://www.youtube.com/watch?v=fqsZiLpyoaw]\n[|Front line as of Aug 8|http://www.longlongtrail.co.uk/maps/allied18q.jpg]\nNieppe Forest, just north-west of [|Merville|https://en.wikipedia.org/wiki/Merville,_Nord]\n[|Nieppe|https://en.wikipedia.org/wiki/Nieppe]",
+	"notes":"Note that standard practice by the R.A.F. was that no pilot was to go over the lines until they had <i>three  weeks </i> of practical experience in the Western Front - [IA|H17p16]. Either the 17th simply went their own way (even though a part of the R.A.F.), or Jesse may have demonstrated superior ability.\nE.A. == Enemy Aircraft.\nArchie == anti-aircraft fire;  See [|https://english.stackexchange.com/questions/301554/why-is-german-anti-aircraft-fire-called-archibald] - The song can be heard at [|https://www.youtube.com/watch?v=fqsZiLpyoaw]\n[|Front line as of Aug 8|http://www.longlongtrail.co.uk/maps/allied18q.jpg]\nNieppe Forest, just north-west of [|Merville|https://en.wikipedia.org/wiki/Merville,_Nord]\n[|Nieppe|https://en.wikipedia.org/wiki/Nieppe]",
 	"jtag":"p030"
 },
 {
 	"date":"1918-08-05",
-	"vtag":"PetiteSynth",
+	"vtag":"PetiteSynthe",
 	"text":"Aug 5 - Straffed trenches around Dixmude [G|Diksmuide]",
-	"notes":"See [|Dixmuide|https://en.wikipedia.org/wiki/Diksmuide]",
+	"notes":"See [|Dixmuide|https://en.wikipedia.org/wiki/Diksmuide]. Again, unusual for a new pilot to get this assignment after four days.\nIn fact, Jesse was singled out with an 'assist' on a Fokker kill two days later on August 7th - see Combat Report 8 [IA|H17p59]",
 	"jtag":"p030"
 },
 {
 	"date":"1918-08-10",
-	"vtag":"PetiteSynth",
+	"vtag":"PetiteSynthe",
 	"text":"Aug 10 - Went to 19,000 ft. on aerial sentry. No E.A.",
+	"notes":"Jesse does not mention the first major action taken by the 17th, the attack bombing on the Varsenare Aerodrome [G|Varsanare]. It's evident that Jesse was not part of this action, probably due to his lack of experience, though as just mentioned, he seemed to have demonstrated his ability. Either way, odd that there's no mention of this. For a complete writeup see [IA|H17p30].",
 	"jtag":"p030"
 },
 {
 	"date":"1918-08-14",
-	"vtag":"PetiteSynth",
+	"vtag":"PetiteSynthe",
 	"text":"Aug 14 - Started work in earnest today. The first show was escorting [|D.H.9 bombers|https://en.wikipedia.org/wiki/Airco_DH.9] to Bruges [G|Bruges]. 5 Fokkers attack us over Bruges and we accounted for 3. I got my first Hun. Hamilton, Todd, and myself were all firing at him when he went down so I get credit for 1/3 hun destroyed officially. One Fokker which Wicks was firing at crashed into Case cutting off his tail plane. Both crashed to the ground. Sherman failed to return. He was last seen going down after a hun.\nIn the afternoon we went on an offensive patrol and ran into 15 enemy aircraft which were scrapping a formation of Bristol Fighters. We joined in but every thing was so messed up that I couldn't tell where I was. Luckily none attacked me. I found myself up alone with 3 Fokkers everyone else having gone down but they didn't attack me so I left them alone.",
 	"notes":"Just two weeks after getting to France, his Oxford roomate, George Sherman is killed in what must have been a terrifying day of battle. \nNot sure what Fokker model, must have been a figher:  [|https://en.wikipedia.org/wiki/Fokker_D.VI], [|https://en.wikipedia.org/wiki/Fokker_D.VII], [|https://en.wikipedia.org/wiki/Fokker_Dr.I]\n. For the city, see [|Bruges|https://en.wikipedia.org/wiki/Bruges].",
 	"jtag":"p030"
 },
 {
 	"date":"1918-08-15",
-	"vtag":"PetiteSynth",
+	"vtag":"PetiteSynthe",
 	"text":"Aug 15 - Escorted DH9's to Bruges. Saw a few Fokkers but none were attacked. Went after a balloon but missed it.",
 	"jtag":"p031"
 },
 {
 	"date":"1918-08-16",
-	"vtag":"PetiteSynth",
+	"vtag":"PetiteSynthe",
 	"text":"Aug 16 - Escorted DH9 to Bruges. Archie was fierce coming back but no one was brought down although several were hit. Went to Calais [G|Calais] for dinner.",
-	"notes":"For the town, see [|Calais|https://en.wikipedia.org/wiki/Calais]",
+	"notes":"After these weeks of escorting DH9 bombers to Bruges, Major G.R.M. Reid of [|211th Squadron|http://www.211squadron.org/world_war_i.html] wrote that 'not a machine of theirs was lost as a result of attack by enemy aircraft.' - [IA|H17p25]\nFor the town, see [|Calais|https://en.wikipedia.org/wiki/Calais]",
 	"jtag":"p031"
 },
 {
