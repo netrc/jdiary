@@ -19,7 +19,15 @@ The U.S. Air Service in World War I: Volume 1, 1978 - full text at [|https://arc
 
 War Birds - Diary of An Unknown Aviator, John Grider, 1917-1918 - full text at [|https://archive.org/details/warbirdsdiaryofu00unse]
 
+The Camel Drivers ...
+
+Web Sites:
+
+http://parr-hooper.cmsmcq.com/
+http://parr-hooper.cmsmcq.com/2OD/
+
 The Aerodrome - web site with active forums, research on World War I aces and aircraft - [|http://www.theaerodrome.com/index.php]
+
 
 <h2> To Research </h2>
 * when was lafayette escadrille active
