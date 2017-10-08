@@ -31,7 +31,7 @@ function convertMarkdown( s ) {
 	// newlines to <p>
 	let ns = s.replace(/\n/g,"<p>");
 	// URLs with labels
-	ns = ns.replace(/\[\|(.*?)\|(.*?)\]/g,`<a href="$2" target="_blank"> $1 </a>`);
+	ns = ns.replace(/\[\|([^\]]*?)\|(.*?)\]/g,`<a href="$2" target="_blank"> $1 </a>`);
 	// simple URLs
 	ns = ns.replace(/\[\|(.*?)\]/g, `<a href="$1" target="_blank"> $1 </a>`);
 	// Date tags
@@ -41,10 +41,6 @@ function convertMarkdown( s ) {
 
 	return ns;
 }
-function convertNoteMarkdown( s ) {
-	return "<br><hr><br>" + convertMarkdown(s);
-}
-
 
 function showEntry(jd) {
 	//console.log(`showEntry: d jtag: ${jd.jtag}`);
