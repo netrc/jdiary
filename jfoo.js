@@ -4,6 +4,15 @@ var ltag = {
 	'oxford': '&ll=51.75830779657324%2C-1.2635350191405905&z=14'
 };
 
+var GCONSTS = {
+	bib: {
+	  "WB": "https://archive.org/stream/fakeWB",
+    "H17": "https://archive.org/stream/historyof17thaer00claprich"
+	},
+	bibRegexOne: RegExp( "\\[IA\\|(.*?)p(.*?)\\]" ),
+	bibRegexGlobal: RegExp( "\\[IA\\|(.*?)p(.*?)\\]", "g" )
+};
+
 var g = {   // The Global State (boo!)
 	//diaryURL: "https://netrc.github.io/jdiary/diary.json",
 	diaryURL: "diary.json",  //"dtest.json",   // relative to current URL
@@ -27,6 +36,11 @@ var g = {   // The Global State (boo!)
 	jd: {}
 }
 
+function normalizeArray( a ) {
+    return a ? a : [];          // really, just turn null into empty array
+}
+
+
 function convertMarkdown( s ) {
 	// newlines to <p>
 	let ns = s.replace(/\n/g,"<p>");
@@ -39,6 +53,22 @@ function convertMarkdown( s ) {
 	// Geo tags
 	ns = ns.replace(/\[G\|(.*?)\]/g, `<span class="geoTag" onclick="geoTagClick('$1');"> &otimes; </span>`);
 
+	// InternetArchive bib tags
+	let mArray = ns.match(GCONSTS.bibRegexGlobal);  // get all the IA tags
+	normalizeArray(mArray).map( function(m) { // for each IA tag...
+	    // console.log("got an m: "+m);
+	    let a = ns.match(GCONSTS.bibRegexOne); // get just next one (return all info on match...)
+	    let bibAbbrev = a[1]     // ...in order to get the Abbrev
+	    //console.dir(bibAbbrev);
+	    if (! GCONSTS.bib.hasOwnProperty(bibAbbrev)) {
+	        console.err(`missing bib entry for ${bibAbbrev}`);
+	        return;
+	    }
+	    // Now, do the markdown replacement
+	    ns = ns.replace(GCONSTS.bibRegexOne, `<a href="${GCONSTS.bib[bibAbbrev]}/#page/$2/mode/2up" target="_blank"> [${bibAbbrev}p$2] </a>`);
+	    //console.log(s);
+	});
+	
 	return ns;
 }
 
