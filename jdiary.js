@@ -1,9 +1,4 @@
 
-var ltag = {
-	'thetford': '',
-	'oxford': '&ll=51.75830779657324%2C-1.2635350191405905&z=14'
-};
-
 var GCONSTS = {
 	bib: {
 	  "WB": "https://archive.org/stream/fakeWB",
@@ -18,6 +13,7 @@ var g = {   // The Global State (boo!)
 	diaryURL: "diary.json",  //"dtest.json",   // relative to current URL
 	dataURL: "data.json",
 	introMD: "introduction.md",
+	lettersURL: "letters.json",
 	whoAndWhereMD: "whoAndWhere.md",
 	otherNotesMD: "otherNotes.md",
 	currPage: 0,
@@ -39,7 +35,6 @@ var g = {   // The Global State (boo!)
 function normalizeArray( a ) {
     return a ? a : [];          // really, just turn null into empty array
 }
-
 
 function convertMarkdown( s ) {
 	// newlines to <p>
@@ -243,7 +238,7 @@ function doJSON(data, status) {
 	}
 	g.jd = data;
 	g.lastPageAvail = g.jd.length-1; // NO LONGER USED
-	ga('set','page','/diary'); ga('semd', 'pageview');
+	ga('set','page','/diary'); ga('send', 'pageview');
 	$.get(g.dataURL, doData);
 }
 
@@ -252,7 +247,7 @@ function doIntro(data, status) {
 		console.log("get intro md error: " + status);
 		return;
 	}
-	ga('set','page','/introduction'); ga('semd', 'pageview');
+	ga('set','page','/introduction'); ga('send', 'pageview');
 	$(`#app`).append(`<div id="intro"> ${convertMarkdown(data)}</div>`);
 }
 function doPeople(data, status) {
@@ -260,7 +255,7 @@ function doPeople(data, status) {
 		console.log("get people error: " + status);
 		return;
 	}
-	ga('set','page','/people'); ga('semd', 'pageview');
+	ga('set','page','/people'); ga('send', 'pageview');
 	$(`#app`).append(`<div id="intro"> ${convertMarkdown(data)}</div>`);
 }
 function doOtherNotes(data, status) {
@@ -268,8 +263,17 @@ function doOtherNotes(data, status) {
 		console.log("get other notes error: " + status);
 		return;
 	}
-	ga('set','page','/people'); ga('semd', 'pageview');
+	ga('set','page','/people'); ga('send', 'pageview');
 	$(`#app`).append(`<div id="intro"> ${convertMarkdown(data)}</div>`);
+}
+
+function doLetters(data, status) {
+	if (status != "success") {
+		console.log("get other notes error: " + status);
+		return;
+	}
+	ga('set','page','/letters'); ga('send', 'pageview');
+	$(`#app`).append(`<div id="letters">  See photo album at <a href="https://photos.app.goo.gl/z2npFyV1PIPjsYXY2"> https://photos.app.goo.gl/z2npFyV1PIPjsYXY2 </a> </div>`);
 }
 
 function doPrint(data, status) {
@@ -301,6 +305,8 @@ function doRouting() {
 		$.get(g.whoAndWhereMD, doPeople);
 	} else if (newU.match(/.*#Notes/)) {
 		$.get(g.otherNotesMD, doOtherNotes);
+	} else if (newU.match(/.*#Letters/)) {
+		$.get(g.lettersURL, doLetters);
 	} else if (newU.match(/.*#Print/)) {
 		$.get(g.diaryURL, doPrint);
 	} else if (newU.match(/.*index.html/)) { // THE DIARY
