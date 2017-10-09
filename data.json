@@ -255,7 +255,7 @@
 
 	"locs":{
 		"Home": { "icon":"house", "ll":{"lng":-83.1458992,"lat":42.4980523}, "text":"" },
-		"Fort Sheridan": { "icon": "tent", "ll":{"lng":-89.704924, "lat":40.793909}, "text": "https://en.wikipedia.org/wiki/Sheridan_Reserve_Center"},
+		"Fort Sheridan": { "icon": "tent", "ll":{"lng":-87.810556, "lat":42.215}, "text": "https://en.wikipedia.org/wiki/Sheridan_Reserve_Center"},
 		"University of Illinois at Urbana-Champaign": { "icon":"tent", "ll":{"lng":-88.2271615, "lat":40.1019523}, "text":""},
 		"Chanute Field": { "icon":"plane", "ll":{"lng":-88.1438487,"lat":40.2889062}, "text":"[|https://en.wikipedia.org/wiki/Chanute_Air_Force_Base]" },
 		"Camp Mills (Mineola)": { "icon":"tent", "ll":{"lng":-73.620801,"lat":40.7269173}, "text":"[|https://en.wikipedia.org/wiki/Camp_Mills]" },
