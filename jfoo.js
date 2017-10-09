@@ -68,7 +68,7 @@ function convertMarkdown( s ) {
 	    ns = ns.replace(GCONSTS.bibRegexOne, `<a href="${GCONSTS.bib[bibAbbrev]}/#page/$2/mode/2up" target="_blank"> [${bibAbbrev}p$2] </a>`);
 	    //console.log(s);
 	});
-	
+
 	return ns;
 }
 
@@ -138,7 +138,8 @@ function initMap() {
 	var westernFrontLine = new google.maps.Polyline({
 		path: g.westernFront,
 		strokeColor: '#885522',
-		strokeWeight: 2
+		strokeWeight: 2,
+		title: 'The Western Front' //does nothing
 	});
 	westernFrontLine.setMap(g.gmap);
 }
