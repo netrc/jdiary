@@ -1,6 +1,7 @@
 Research notes
 
-H17 - Clapp, A History of the 17th Aero Squadron
+-----------------------------------
+H17 - Frederick M. Clapp, A History of the 17th Aero Squadron
 Clapp, copyright 1920
 
  (((
@@ -14,7 +15,6 @@ Clapp, copyright 1920
     1918-09-14 - quite a rest/ started on wireless interruption; see below
     1918-09-22 - see clapp
     1918-11-20 - Took my first flip in a Spad.
-
  )))
 
 H17p3 - Wells is essentially co-author of chap 1
@@ -191,7 +191,7 @@ H17p45 - break the cambrai front
     "The mud in this camp was omnipresent and deep"
 
 H17p46 - 1918-09-22 - a flourish
-    "We opened the Soncamp chapter with a flourish on September 22nd. While on the morning patrol, Lt. Vaugn saw fifteen Fokkers dive, as he thought on our "C" flight formation frmo 15,000 feet"
+    "We opened the Soncamp chapter with a flourish on September 22nd. While on the morning patrol, Lt. Vaugn saw fifteen Fokkers dive, as he thought, on our "C" flight formation from 15,000 feet"
 
     p.47 the story of Tillinghast escape,
 
@@ -265,3 +265,21 @@ Aug 1 – 1st Lt JFC assigned as pilots
 Sopwith F.2146
 Sopwith F.5993
 Sopwith D.6513
+
+
+----------------------
+USAS index p443 - "17th Pursuit" 44-46, 85, 103, 302, 325-39, 341-44, 352
+* USASp45, Some US pilots served in RAF, but there were two wholly American 17th 148th
+* USASp325 - Main Article
+
+17th Aero Sq - first flights on July 15, 1918 on Dunkirk Front
+- Aug/Sep Auxi with 3rd Brigade, British drive on Cambrai
+- Oct Doullens, 3rd British Army, pursuit ops, bombing, and ground strafing.
+
+USASp17 - When hostilities ceased on November 11, 1918, there were actualy assigned to armies 45 American squadrons and 767 pilots, 481 observers, 23 aerial gunners, and complement of soldiers... 740 airplanes....
+
+USASp85 - From pilots trained in England on Sopwith Camel airplanes, two complete American squadrons, the 17th and 148th, with American enlisted personnel, were formed and served with the Royal Air force in the field until November 1, 1918 at which date they were ordered to join the 2nd Army.  -  Highly Commended.
+
+USASp87 - In the summer of 1917, 500 pilots were to b trained in Italy. ... Training center in Foggia Foggia-Renatico.
+
+USASp119 - The training of cadets commenced on Sept 4 1917 with the arrival of a detachment of 53 cadets and one officer at the British School of Military Aeronautics at Oxford.

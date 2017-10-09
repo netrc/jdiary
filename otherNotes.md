@@ -43,7 +43,6 @@ The Aerodrome - web site with active forums, research on World War I aces and ai
 * Find Lt. Whalley info (dec 8)
 * G.H. Bower
 * Never actually flew a Bristol Fighter
-* Morton Campbell burial section in Clapp
 * To what unit/group was violinist Albert Spalding assigned? Where did he serve
 * Map of Western Front, 1918, showing German offensive gains from April through July [|https://en.wikipedia.org/wiki/Western_Front_(World_War_I)#/media/File:Western_front_1918_german.jpg]
 In other news
@@ -61,21 +60,7 @@ In other news
 * http://www.theaerodrome.com/forum/showthread.php?p=711317
 * Passenger List - http://www.theaerodrome.com/forum/attachment.php?attachmentid=33563&d=1501978177
 *  http://www.theaerodrome.com/forum/showthread.php?t=19448
-* USAS index p443 - "17th Pursuit" 44-46, 85, 103, 302, 325-39, 341-44, 352
-* USASp45, Some US pilots served in RAF, but there were two wholly American 17th 148th
-* USASp325 - Main Article
 
-17th Aero Sq - first flights on July 15, 1918 on Dunkirk Front
-- Aug/Sep Auxi with 3rd Brigade, British drive on Cambrai
-- Oct Doullens, 3rd British Army, pursuit ops, bombing, and ground strafing.
-
-USASp17 - When hostilities ceased on November 11, 1918, there were actualy assigned to armies 45 American squadrons and 767 pilots, 481 observers, 23 aerial gunners, and complement of soldiers... 740 airplanes....
-
-USASp85 - From pilots trained in England on Sopwith Camel airplanes, two complete American squadrons, the 17th and 148th, with American enlisted personnel, were formed and served with the Royal Air force in the field until November 1, 1918 at which date they were ordered to join the 2nd Army.  -  Highly Commended.
-
-USASp87 - In the summer of 1917, 500 pilots were to b trained in Italy. ... Training center in Foggia Foggia-Renatico.
-
-USASp119 - The training of cadets commenced on Sept 4 1917 with the arrival of a detachment of 53 cadets and one officer at the British School of Military Aeronautics at Oxford.
 
 <h2> Random </h2>
 
