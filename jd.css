@@ -104,14 +104,25 @@ footer {
 	background-color: #AACCAA;
 }
 div.accordion {
+	  display: inline;
     background-color: #f4e4d4;
-		width: 15%;
     cursor: pointer;
     font-style: italic;
 }
 
 button.accordion.active, button.accordion:hover {
     background-color: #ddd;
+}
+.tebottom {
+	display: flex;
+	width: 100%;
+}
+.tedate {
+	display: inline;
+	text-align: right;
+	font-style: italic;
+	font-size: 10pt;
+	flex-grow: 1;
 }
 
 div.note {

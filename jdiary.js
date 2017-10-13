@@ -16,6 +16,7 @@ var g = {   // The Global State (boo!)
 	lettersURL: "letters.json",
 	whoAndWhereMD: "whoAndWhere.md",
 	otherNotesMD: "otherNotes.md",
+	wdays: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
 	currPage: 0,
 	lastPageAvail: 0,
 	currLocTag: '',
@@ -86,8 +87,9 @@ function showEntry(jd) {
 
 	g.mainTextEl.append(`<a href="#${jd.date}"></a>`);
 	let nbName = "nb"+jd.date;
-	let nbDiv = (jd.hasOwnProperty('notes')) ? `<div class="accordion"  id="${nbName}">Notes...</div>` : "";
-	g.mainTextEl.append(`<div class="entryText" id="jd${jd.date}"> <p> ${convertMarkdown(jd.text)} </p> ${nbDiv}</div>`);
+	let nbDiv = (jd.hasOwnProperty('notes')) ? `<div class="accordion"  id="${nbName}"> Notes...` : "";
+	let teDate = (jd.jtag != 'p000') ? `<div class="tedate"> ${jd.date} ${g.wdays[(new Date(jd.date)).getDay()]} </div>` : "";
+	g.mainTextEl.append(`<div class="entryText" id="jd${jd.date}"> <p> ${convertMarkdown(jd.text)} </p> <div class="tebottom"> ${nbDiv} ${teDate} </div>`);
 	if (jd.hasOwnProperty('notes')) {
 		let nName = "n"+jd.date;
 		let nn = $(`<div class="note hide" id="${nName}"> <p> ${convertMarkdown(jd.notes)} </p></div>`);
@@ -109,10 +111,6 @@ function showEntry(jd) {
 		});
 	}
 
-	//setView();
-	// move map to new view if needed
-	// inactivate prev/next buttons as necesary
-	//location.href = "https://codepen.io/netrc/pen/oGgLjN#" + thisDD.date;
 }
 
 function initMap() {
