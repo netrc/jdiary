@@ -6,7 +6,8 @@
 </tr>
 <tr> <td> Allison </td> <td> [D|1918-09-17] </td> </tr>
 <tr> <td> Anderson </td> <td> [D|1918-09-25] "missing a month now", [D|1918-10-26] "escaped from Germany" </td> </tr>
-<tr> <td> Bittinger </td> <td> [D|1918-08-27]  "[they got hims]" [D|1918-10-07] prisoner </td> </tr>
+<tr> <td> Ayers </td> <td> [D|1918-11-11]  "swiping a flag [in Nancy]" </td> </tr>
+<tr> <td> Bittinger </td> <td> [D|1918-08-27]  "[they got him]" [D|1918-10-07] prisoner </td> </tr>
 <tr> <td> Bower, Lt. Col G. H. </td> <td> [D|1917-12-19], 2/7th Black Watch, see Garden, Mary </td> </tr>
 <tr> <td> Brady, Lt. </td> <td> [D|1918-11-09] </td> </tr>
 <tr> <td> Buckley </td> <td> [D|1918-02-19] the sixth of our "Italian Detachment" to cash in. </td> </tr>
