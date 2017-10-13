@@ -74,7 +74,7 @@ function showEntry(jd) {
 	if (g.currPTag != jd.jtag) {  // then, new page to view
 		let pThumb = "", pFull = "";
 		if (g.pages.hasOwnProperty(jd.jtag)) {
-			pThumb = g.pages[jd.jtag].baseURL + "w220-h172-no";
+			pThumb = g.pages[jd.jtag].baseURL + "w300-h231-no";
 			pFull = g.pages[jd.jtag].fullPage;
 		} else {
 			console.log(`cant find page pic for this day: ${jd.jtag}`);
