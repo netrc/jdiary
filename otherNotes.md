@@ -11,28 +11,61 @@ Today, the descendent of Jesse's unit is the [|17th Weapons Squadron|https://en.
 <h2> Sources </h2>
 
 The Great War Diary of Jesse Campbell, 1917-1918 - [|https://photos.app.goo.gl/J3GGO0oq27cxZui93]
+
 Jesse Campbell Letters, 1917-1918 - [|https://photos.app.goo.gl/z2npFyV1PIPjsYXY2]
 
-A History of the 17th Aero Squadron, Frederick Clapp, 1920 - full text at [|https://archive.org/details/historyof17thaer00claprich]
+'A History of the 17th Aero Squadron', Frederick Clapp, 1920 - full text at [|https://archive.org/details/historyof17thaer00claprich]. A marvelously written eye-witness account of the squadron, including many anecdotes of operations and living conditions written by one of the officers. Includes transcripts of combat and bombing reports and other statistics.
 
-The U.S. Air Service in World War I: Volume 1, 1978 - full text at [|https://archive.org/details/TheUSAirServiceInWWIVol1]
+'War Birds - Diary of An Unknown Aviator', John Grider, 1917-1918 - full text at [|https://archive.org/details/warbirdsdiaryofu00unse]. A rollicking, severely embellished autobiographical tale of a ship and ground-school mate of Jesse. Most of the first-half of the "diary" tells of the drinking and carousing of John Grider, with little information about flying or instruction. Apparently, this work is heavily amended by Grider's friend and air service comrade Elliot Springs.
 
-War Birds - Diary of An Unknown Aviator, John Grider, 1917-1918 - full text at [|https://archive.org/details/warbirdsdiaryofu00unse]
+'The Camel Drivers: The 17th Aero Squadron in World War I', by George Roland and Otis Lowell Reed. Schiffer Publishing, Ltd, 2004. 160 pages. ISBN-13: 978-0764300714. [|Amazon Link|http://amzn.to/2zaut4y]
 
-The Camel Drivers ...
+'The Camels Are Coming', W.E. Johns, 1932. The first of the classic English war series of Cpt. James "Biggles" Bigglesworth. W.E. Johns was in the Royal Flying Corps/Royal Air Force and went on to teach at Marske-by-the-Sea during the time Jesse was there. While the adventures are fictional, the descriptions of the pilot's life, language, and descriptions of fighter action on the Western Front are accurate. Coincidentally, the title of the book is a play on the well-known Scottish song, 'The Campbells are Coming'.
+
+'The U.S. Air Service in World War I: Volume 1, 1978' - full text at [|https://archive.org/details/TheUSAirServiceInWWIVol1] - a collection of historical reports on the air service compiled by the United States Air Force.
 
 Web Sites:
 
-http://parr-hooper.cmsmcq.com/
-http://parr-hooper.cmsmcq.com/2OD/
+[|http://parr-hooper.cmsmcq.com/2OD/] - Site devoted to the Second Oxford Detachment of the 17th Aero Squadron. Written by descendent of Parr Hooper, who was a cadet-mate of Jesse from the RMS Carmania through Oxford, Grantham, and more. Many outstanding pictures of the airfields and men. Extremely well researched and written.
 
-The Aerodrome - web site with active forums, research on World War I aces and aircraft - [|http://www.theaerodrome.com/index.php]
+[|http://www.wwiaviation.com/toc.html] - Fascinating site devoted to the aircraft of the Great War.
 
+[|http://www.theaerodrome.com/index.php] - "The Aerodrome", web site for fans of Great War aircraft and squadrons with active forums and research.
+
+<h2> Random Notes </h2>
+
+[|Ed Moore's D.S.C. citation|http://www.homeofheroes.com/members/02_DSC/citatons/01_wwi_dsc/dsc_05wwi_AirService2.html]
+<blockquote>
+MOORE, EDWARD RUSSELL
+First Lieutenant (Air Service), U.S. Army
+Pilot, 8th Aero Squadron, Air Service, A.E.F.
+Date of Action: October 9, 1918
+
+Citation:
+The Distinguished Service Cross is presented to Edward Russell Moore, First Lieutenant (Air Service), U.S. Army, for extraordinary heroism in action near Thiaucourt, France, October 9, 1918. Lieutenant Moore, with First Lieutenant Gardner Philip Allen, observer, took advantage of a short period of fair weather during generally unfavorable atmospheric conditions to undertake a photographic mission behind the German lines. Accompanied by two protecting planes, they had just commenced their mission when they were attacked by eight enemy planes, which followed them throughout their course, firing at the photographic plane. Lieutenant Moore, pilot, with both firing wires cut by bullets, a landing wire shot away, his elevators riddled with bullets, and both wings punctured, continued on his prescribed course, although it made him an easy target. Lieutenant Allen was thus enabled in the midst of the attack to take pictures of the exact territory assigned, and he made no attempt to protect the plane with his machine guns. Displaying entire disregard of his personal danger and steadfast devotion to duty, the two officers successfully accomplished their mission.
+
+General Orders No. No. 145, W.D., 1918
+Birth: Audrain County, MO
+Home Town: Columbia, MO
+</blockquote>
+
+<h3> Frank Campbell </h3>
+From [|Adage.com|http://adage.com/article/agency-news/mather-meet-lesser-men-famous-agency-names/241085/]
+
+<blockquote>
+Frank J. Campbell and Henry Ewald joined forces in 1911 but by 1917, two years before Chevrolet parked its account at the agency, Campbell was gone. He had sold his shares and peaced-out to war-torn France to work at a YMCA canteen. While Campbell still had his name on the door -- and it came first! -- Ewald was left to build the business, turning it into one of the biggest agencies around. Meanwhile, Campbell, a vet of the Spanish-American War, became a real-life prototype for the Most Interesting Man in the World, quite literally defying death. He survived a mustard gas attack. He was selected to hang a man for treason in World War II. He handled live rattlesnakes. Even his death was awesome: He was crushed by a 2,000-pound boulder while searching for agate rocks in Oregon at age 72. He basically did everything -- everything except run the ad agency with his name on it.
+</blockquote>
+
+<h3> Derogatory Terms </h3>
+
+Jesse's Diary uses a few old-fashioned derogatory terms for the enemy.
+
+"Hun" is a reference to a speech given by Emperor Wilhelm II in 1900, where he urged on his army to fight in the Boer War with the famed tenacity of the Hun empire.
+
+"Boche" from French slang for cabbage/head.
 
 <h2> To Research </h2>
 * Grantham - https://sites.google.com/site/beltonparkww1/other-maps/belton-harrowby-ww1-camps
-* when was lafayette escadrille active
-* when were other us air services active
 * https://en.wikipedia.org/wiki/Lloyd_Andrews_Hamilton
 * http://parr-hooper.cmsmcq.com/2OD/the-biographies/jesse-frank-campbell/#LinkTo_WPFootnote13
 * http://www.airwar1.org.uk/rfc%20aircraft2.htm#Intro5
@@ -40,7 +73,6 @@ The Aerodrome - web site with active forums, research on World War I aces and ai
 * https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&cad=rja&uact=8&ved=0ahUKEwjMrt36777WAhWIbRQKHfbcChEQFghCMAc&url=http%3A%2F%2Fwww.theaerodrome.com%2Fforum%2Fshowthread.php%3Ft%3D65605%26page%3D3&usg=AFQjCNHNqUKoyy5NewZrrTKcytndeDVW5A
 * count # of aerodromes in England and France
 * What is Australian R.I.F.F. for 1918 May 20
-* Find David Wells info in Clapp
 * Find Lt. Whalley info (dec 8)
 * G.H. Bower
 * Never actually flew a Bristol Fighter
@@ -62,28 +94,6 @@ In other news
 * Passenger List - http://www.theaerodrome.com/forum/attachment.php?attachmentid=33563&d=1501978177
 *  http://www.theaerodrome.com/forum/showthread.php?t=19448
 
-
-<h2> Random </h2>
-
-Ed Moore's D.S.C. citation [|http://www.homeofheroes.com/members/02_DSC/citatons/01_wwi_dsc/dsc_05wwi_AirService2.html]
-
-MOORE, EDWARD RUSSELL
-First Lieutenant (Air Service), U.S. Army
-Pilot, 8th Aero Squadron, Air Service, A.E.F.
-Date of Action: October 9, 1918
-
-Citation:
-The Distinguished Service Cross is presented to Edward Russell Moore, First Lieutenant (Air Service), U.S. Army, for extraordinary heroism in action near Thiaucourt, France, October 9, 1918. Lieutenant Moore, with First Lieutenant Gardner Philip Allen, observer, took advantage of a short period of fair weather during generally unfavorable atmospheric conditions to undertake a photographic mission behind the German lines. Accompanied by two protecting planes, they had just commenced their mission when they were attacked by eight enemy planes, which followed them throughout their course, firing at the photographic plane. Lieutenant Moore, pilot, with both firing wires cut by bullets, a landing wire shot away, his elevators riddled with bullets, and both wings punctured, continued on his prescribed course, although it made him an easy target. Lieutenant Allen was thus enabled in the midst of the attack to take pictures of the exact territory assigned, and he made no attempt to protect the plane with his machine guns. Displaying entire disregard of his personal danger and steadfast devotion to duty, the two officers successfully accomplished their mission.
-
-General Orders No. No. 145, W.D., 1918
-Birth: Audrain County, MO
-Home Town: Columbia, MO
-
-
-Frank J. Campbell and Henry Ewald joined forces in 1911 but by 1917, two years before Chevrolet parked its account at the agency, Campbell was gone. He had sold his shares and peaced-out to war-torn France to work at a YMCA canteen. While Campbell still had his name on the door -- and it came first! -- Ewald was left to build the business, turning it into one of the biggest agencies around. Meanwhile, Campbell, a vet of the Spanish-American War, became a real-life prototype for the Most Interesting Man in the World, quite literally defying death. He survived a mustard gas attack. He was selected to hang a man for treason in World War II. He handled live rattlesnakes. Even his death was awesome: He was crushed by a 2,000-pound boulder while searching for agate rocks in Oregon at age 72. He basically did everything -- everything except run the ad agency with his name on it.  - http://adage.com/article/agency-news/mather-meet-lesser-men-famous-agency-names/241085/
-
-
 Do you have original WWI material that you would like to see preserved at the Library of Congress? Please consider donating it to the Veterans History Project!
 https://www.loc.gov/topics/world-war-i/
 https://www.loc.gov/wwi
-
