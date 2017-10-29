@@ -280,7 +280,7 @@
 		"Gaiety Theatre" : { "icon": "theater", "ll": {"lng":-0.1175, "lat":51.513056} },
 		"BuryStEdmunds": { "icon": "monument", "ll": {"lng":0.7188344, "lat":52.2440544}},
 		"Marske-By-The-Sea": { "icon":"plane", "ll":{"lng":-1.0620775,"lat":54.5934068}, "text":"" },
-		"Norwich, Mousehold Heath": { "icon":"plane", "ll":{"lng":1.32234080000001, "lat":52.6421818}, "text":""},
+		"Norwich": { "icon":"hotel", "ll":{"lng":1.29781, "lat":52.6293}, "text":""},
 		"London Colney Airfield": { "icon":"plane", "ll":{"lng":-0.2876327, "lat":51.6892357}, "text":""},
 		"Radlett": { "icon":"hotel", "ll":{"lng":-0.317386899999974, "lat":51.686808}, "text":""},
 		"Salisbury": { "icon":"hotel", "ll":{"lng":-1.79447200000004, "lat":51.068785}, "text":""},
