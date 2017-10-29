@@ -387,7 +387,7 @@
 	"vtag":"Thetford",
  	"loctext":"Thetford",
   "text":"Dec 18 Tuesday - I got my transfer papers signed by the major and got leave for Norwich [G|Norwich, Mousehold Heath]. I have been recommended for a [|Bristol Fighter|https://en.wikipedia.org/wiki/Bristol_F.2_Fighter]",
-	"notes":"[|RAF Mousehold Heath|https://en.wikipedia.org/wiki/RAF_Mousehold_Heath]. No mention in the diary of ever flying Bristol Fighter.\nFor the town, see [|Norwich|https://en.wikipedia.org/wiki/Norwich]",
+	"notes":"[|Norwich|https://en.wikipedia.org/wiki/Norwich] is an interesting choice for leave, about 30 miles north-east of Thetford. \nNo mention later in the diary of ever flying Bristol Fighters.",
 	"jtag":"p024"
 },
 {
@@ -403,7 +403,7 @@
 	"vtag":"Norwich",
 	"loctext":"Norwich",
   "text":"Dec 21 Friday - Orders came to go to 74 T.S. at London-Colney [G|London Colney Airfield]. Left Thetford at 2:30 [xxx?] London. Could hardly find anyone who had hard of the bally place at London but finally found a taxi driver who had heard of it. Finally arrived here at 7:30. It is an out of the way place between Radlett and St. Auberns [St. Albans]",
-	"notes":"Only at Norwich for three days! Actually, the new aerodrome was at [|Shenlybury|https://en.wikipedia.org/wiki/Shenley,_Hertfordshire]. And see [|https://shenleyww1.wordpress.com/royal-flying-corps-at-shenley/]\nApparently, Jesse was housed in Radlett [G|Radlett]. \nNote the use of [|\"bally\"|https://en.wiktionary.org/wiki/bally], a nice, somewhat classier version of \"bloody\"",
+	"notes":"The new aerodrome was just south of London-Colney at [|Shenlybury|https://en.wikipedia.org/wiki/Shenley,_Hertfordshire]. And see [|https://shenleyww1.wordpress.com/royal-flying-corps-at-shenley/] for history and pictures of the aerodrom.\nApparently, Jesse was housed in Radlett [G|Radlett]. \nNote the use of [|\"bally\"|https://en.wiktionary.org/wiki/bally], a somewhat classier version of \"bloody\"",
 	"jtag":"p024"
 },
 {
@@ -575,7 +575,7 @@
 	"vtag":"Dover",
 	"loctext":"Dover",
   "text":"June 19 - Wicks, Forester, and myself started for Dover [G|Dover (Swingate Downs) Airfield] to fly Camels.",
-	"notes":"The airfield at [|Dover, Swingate Downs|http://www.ukairfieldguide.net/airfields/Swingate-Downs]. Meanwhile, in France, the 17th Squadron, which had its A/B/C 'flights' working out of different R.A.F. bases, now was sent as a whole to their airfield at Petite-Synthe [G|PetiteSynthe] near Dunkirk.",
+	"notes":"The airfield at [|Dover, Swingate Downs|http://www.ukairfieldguide.net/airfields/Swingate-Downs] (Also see [|http://www.pastscape.org.uk/hob.aspx?hob_id=1417760]). Meanwhile, in France, the 17th Squadron, which had its A/B/C 'flights' working out of different R.A.F. bases, now was sent as a whole to their airfield at Petite-Synthe [G|PetiteSynthe] near Dunkirk.",
 	"jtag":"p029"
 },
 {
@@ -630,7 +630,7 @@
 	"vtag":"PetiteSynthe",
 	"loctext":"Petite-Synthe",
   "text":"France\n\nAug 1 - Reported to 17th American Squadron at Dunkirk, Lt. Eckert commanding.",
-	"notes":"[|Petite-Synthe Airfield|http://www.49squadron.co.uk/airfields/af1_psynthe], western industrial suburb of Dunkirk.\nThis field was originally built for the Royal Naval Air Service. For more description, see Frederick Clapp's, 'History of the 17th Squadron`, p18 - [IA|H17p18]",
+	"notes":"[|Petite-Synthe Airfield|http://www.49squadron.co.uk/airfields/af1_psynthe], western industrial suburb of Dunkirk.\nThis field was originally built for the Royal Naval Air Service. For more description, see Frederick Clapp's, 'History of the 17th Squadron`, p18 - [IA|H17p18]\nBy this date the Great War was in its final stages. Earlier in the year, Germany had gone on the offensive, trying to gain ground before U.S. soldiers and material entered the conflict. From August 1918 onwards, the Allies conducted a furious offensive to drive Germany out of France and end the war. See [|The Hundred Days Offensive|https://en.wikipedia.org/wiki/Hundred_Days_Offensive].",
 	"jtag":"p030"
 },
 {
@@ -844,7 +844,7 @@
 	"vtag":"Soncampe",
 	"loctext":"Sombrin",
   "text":"Sept 25 - Flew to 40 squadron at St. Pol [G|St. Pol-sur-Mer Airfield]. Anderson has been missing for a month now.",
-	"notes": "[|St. Pol|https://en.wikipedia.org/wiki/Saint-Pol-sur-Ternoise]",
+	"notes": "[|St. Pol|https://en.wikipedia.org/wiki/Saint-Pol-sur-Ternoise]. The airfield is mentioned at [|http://www.forgottenairfields.com/france/nord-pas-de-calais/nord/st-pol-du-mer-s1061.html]. [|40th Squadron, RAF|https://en.wikipedia.org/wiki/No._40_Squadron_RAF]",
 	"jtag":"p037"
 },
 {
@@ -899,7 +899,7 @@
 	"vtag":"Soncampe",
 	"loctext":"Sombrin",
   "text":"Oct 3 - Bombed Caudry [G|Caudry] station from 5,000 feet. Got a direct hit on the tracks.",
-	"notes":"Bombing Report 22 [IA|H17p128]\n[|Caudry|https://en.wikipedia.org/wiki/Caudry]",
+	"notes":"Bombing Report 22 [IA|H17p128]\n[|Caudry|https://en.wikipedia.org/wiki/Caudry]. Here's an picture of German troops arriving in Caudry - [|https://www.awm.gov.au/collection/H13409/]",
 	"jtag":"p038"
 },
 {
@@ -939,7 +939,7 @@
 	"vtag":"Soncampe",
 	"loctext":"Sombrin",
   "text":"Oct 9 - Two shows. The second one was a reconaissance trying to find the hun. We have all of Cambrai and Caudry now. Major Fowler was in my flights. Have dropped 60 bombs so far this month.",
-	"notes":"Bombing Reports 30 & 31 [IA|H17p141]",
+	"notes":"Bombing Reports 30 & 31 [IA|H17p141]\nThis was part of [|The Battle of Cambrai|https://en.wikipedia.org/wiki/Battle_of_Cambrai_(1918)] which broke the German [|Hindenburg Line|https://en.wikipedia.org/wiki/Hindenburg_Line].",
 	"jtag":"p039"
 },
 {
