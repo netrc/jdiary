@@ -12,7 +12,7 @@ Today, the descendent of Jesse's unit is the [|17th Weapons Squadron|https://en.
 
 The Great War Diary of Jesse Campbell, 1917-1918 - [|https://photos.app.goo.gl/J3GGO0oq27cxZui93]
 
-Jesse Campbell Letters, 1917-1918 - [|https://photos.app.goo.gl/z2npFyV1PIPjsYXY2]
+Jesse Campbell Letters, 1917-1918 - [|https://photos.app.goo.gl/z2npFyV1PIPjsYXY2]. Four letters written to Albion College friend Bob Crosthwaite. The first three were written while still training in England, the last written during a rainy spell in October 1918 in France. Note all the letters are signed with the nickname "Jockey".
 
 'A History of the 17th Aero Squadron', Frederick Clapp, 1920 - full text at [|https://archive.org/details/historyof17thaer00claprich]. A marvelously written eye-witness account of the squadron, including many anecdotes of operations and living conditions written by one of the officers, 1st Lieutenant Frederick Clapp, adjutant. Includes transcripts of combat and bombing reports and other statistics. Abbreviated as "H17".
 
