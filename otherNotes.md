@@ -14,7 +14,7 @@ The Great War Diary of Jesse Campbell, 1917-1918 - [|https://photos.app.goo.gl/J
 
 Jesse Campbell Letters, 1917-1918 - [|https://photos.app.goo.gl/z2npFyV1PIPjsYXY2]
 
-'A History of the 17th Aero Squadron', Frederick Clapp, 1920 - full text at [|https://archive.org/details/historyof17thaer00claprich]. A marvelously written eye-witness account of the squadron, including many anecdotes of operations and living conditions written by one of the officers. Includes transcripts of combat and bombing reports and other statistics. Abbreviated as "H17".
+'A History of the 17th Aero Squadron', Frederick Clapp, 1920 - full text at [|https://archive.org/details/historyof17thaer00claprich]. A marvelously written eye-witness account of the squadron, including many anecdotes of operations and living conditions written by one of the officers, 1st Lieutenant Frederick Clapp, adjutant. Includes transcripts of combat and bombing reports and other statistics. Abbreviated as "H17".
 
 'War Birds - Diary of An Unknown Aviator', John Grider, 1917-1918 - full text at [|https://archive.org/details/warbirdsdiaryofu00unse]. A rollicking, severely embellished autobiographical tale of a ship and ground-school mate of Jesse. Most of the first-half of the "diary" tells of the drinking and carousing of John Grider, with little information about flying or instruction. Apparently, this work is heavily amended by Grider's friend and air service comrade Elliot Springs. Abbreviated as "WB".
 
