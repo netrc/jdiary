@@ -658,6 +658,7 @@
 	"loctext":"Petite-Synthe",
   "text":"Aug 10 - Went to 19,000 ft. on aerial sentry. No E.A.",
 	"notes":"Jesse does not mention the first major action taken by the 17th, the attack bombing on the Varsenare Aerodrome [G|Varsanare]. It's evident that Jesse was not part of this action, probably due to his lack of experience, though as just mentioned, he seemed to have demonstrated his ability. Either way, odd that there's no mention of this. For a complete writeup see [IA|H17p30].",
+	"notes": "In Other News: The [|Battle of Amiens|https://en.wikipedia.org/wiki/Battle_of_Amiens_(1918)] began. This battle turned out to be the last great battle of the Great War.",
 	"jtag":"p030"
 },
 {
@@ -764,6 +765,7 @@
 	"vtag":"AuxiLeChateau",
 	"loctext":"Auxi-Le-Château",
   "text":"Aug 28 - Led two formation of new fellows up to see the lines.",
+	"notes":"In Other News: The next day, the Allies (especially Canadian and Australian forces) took control of Baupaume.",
 	"jtag":"p034"
 },
 {
@@ -878,7 +880,7 @@
 	"vtag":"Soncampe",
 	"loctext":"Sombrin",
   "text":"Sept 29 - more straffing troops.",
-	"notes":"Cambrai [G|Cambrai] - Bombing Reports 15 & 16 [IA|H17p116]",
+	"notes":"Cambrai [G|Cambrai] - Bombing Reports 15 & 16 [IA|H17p116].\nIn Other News: Allied forces score a decisive breakthrough of Hindenburg Line.",
 	"jtag":"p038"
 },
 {
@@ -1068,7 +1070,7 @@
 	"vtag":"Royal Air Force Club",
 	"loctext":"London",
   "text":"Nov 5 - Supposed to go back today but orders from H.Q. here said to wait for orders as the squadron had moved south with the Americans.",
-	"notes":"The 17th Sqaudron had moved south to [|Toul|https://en.wikipedia.org/wiki/Toul] apparently now attached (as of Nov 1st) with the [|4th Pursuit Group, II Army|https://en.wikipedia.org/wiki/4th_Pursuit_Group]",
+	"notes":"The 17th Sqaudron had moved south to [|Toul|https://en.wikipedia.org/wiki/Toul] apparently now attached (as of Nov 1st) with the [|4th Pursuit Group, II Army|https://en.wikipedia.org/wiki/4th_Pursuit_Group]\nIn Other News: This week, Turkey signed their own armistice with the Allies, and Austria signed with Italy.",
 	"jtag":"p040"
 },
 {
