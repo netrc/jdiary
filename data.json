@@ -294,6 +294,7 @@
 		"London Colney Airfield": { "icon":"plane", "ll":{"lng":-0.2876327, "lat":51.6892357}, "text":""},
 		"Radlett": { "icon":"hotel", "ll":{"lng":-0.317386899999974, "lat":51.686808}, "text":""},
 		"Salisbury": { "icon":"hotel", "ll":{"lng":-1.79447200000004, "lat":51.068785}, "text":""},
+		"Waddington": { "icon":"plane", "ll":{"lng":-0.530833, "lat":53.1725}, "text":""},
 		"Northolt Airfield": { "icon":"plane", "ll":{"lng":-0.4244298, "lat":51.5540337}, "text":""},
 		"Brooklands Airfield": { "icon":"plane", "ll":{"lng":-0.4708242, "lat":51.3524067}, "text":""},
 		"Hounslow Heath Airfield": { "icon":"plane", "ll":{"lng":-0.3876972, "lat":51.462176}, "text":""},
