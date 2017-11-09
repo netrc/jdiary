@@ -461,7 +461,30 @@
 	"date":"1918-01-08",
 	"vtag":"LondonColney",
 	"loctext":"London Colney",
-  "text":"Jan 8 1918 - Well \"Old book.\" I have been neglecting you. Flying is awfully slow. I have only had 10 minutes on ground but Ellis was burned to a cinder. Doc says he thinks Fred will pull through although he is badly burned.",
+  "text":"Jan 8 1918 - Well \"Old book.\" I have been neglecting you. Flying is awfully slow. I have only had 10 minutes on Avros so far. Joe Sharp was done in at Waddington [G|Waddington] yesterday on an R.E.8. Nose dived into the ground from 1500 feet. Poor fellow the first one of our bunch to go. I can hardly believe it.",
+	"notes":"See [|R.A.F. Waddington|https://en.wikipedia.org/wiki/RAF_Waddington]",
+	"jtag":"p027"
+},
+{
+	"date":"1918-01-09",
+	"vtag":"LondonColney",
+	"loctext":"London Colney",
+	"text":"Went to London tonight to meet Sherman and Smith. I was very glad to see them again and exchange flying experiences. They are at a good place at Elmswell[G|Elmswell] at a H.D. squadron ([|B.E.'s|https://en.wikipedia.org/wiki/Royal_Aircraft_Factory_B.E.2]) but don't get much flying.",
+ "notes":"Not sure what an 'H.D.' squadron is. For the airfield see [|R.A.F. Great Ashfield|https://en.wikipedia.org/wiki/RAF_Great_Ashfield] and [|http://www.abct.org.uk/airfields/airfield-finder/great-ashfield-ashfield-elmswell/], [|http://www.ukairfieldguide.net/airfields/Elmswell]",
+	"jtag":"p027"
+},
+{
+	"date":"1918-01-10",
+	"vtag":"LondonColney",
+	"loctext":"London Colney",
+	"text":"Came back from London this morning with Donnellon, Taffy Jones and Jack Greathead. As we were on parade this afternoon we saw a S.E.5 catch fire at 1000 feet. It was Jack Greathead a South African. He made a fine attempt to get down but when about 20 feet up crashed into the ground. The petrol tank caught alight and the flames shot up 40 fet. Before anyone could reach the machine it was in cinders. The poor fellow probably dies instanteously. Not ten minutes before it happened I was talking to him. It is awful to have one snatched away so quickly and in such a manner.",
+	"jtag":"p027"
+},
+{
+	"date":"1918-02-08",
+	"vtag":"LondonColney",
+	"loctext":"London Colney",
+	"text":"Stillman and Ellis collided at 2300 ft today. The machines caught fire and came down ni a flat spin. Fred managed to get out when they struck the ground but Ellis was burned to a cinder. Doc says he thinks Fred will pull through although he is badly burned.",
 	"notes":"This was Fred Stillman.",
 	"jtag":"p026"
 },
@@ -471,7 +494,7 @@
 	"loctext":"London Colney",
   "text":"Feb 16 - DeGamo, 56, was killed in a Spad near Radlett this A.M. Engnine knocked out.",
 	"notes":"Not sure what the '56' notation means.\nMeanwhile, the original 17th Squadron had arrived in England at the end of January and had just shipped out to France.\nOn This Day: Feb 10, Russia declares it is withdrawing from the Allied Forces",
-	"jtag":"p027"
+	"jtag":"p028"
 },
 {
 	"date":"1918-02-17",
@@ -479,7 +502,7 @@
 	"loctext":"London Colney",
   "text":"Feb 17 - Now that the moon is up the Gothas are over again. They got the Midland Hotel and St. Pancras Station last night. About 40 killed. Morrison, Matheson, and Roberts did their cross country this afternoon and came back in fog.",
 	"notes":"See [|https://en.wikipedia.org/wiki/Gotha_G.V] , [|https://en.wikipedia.org/wiki/German_strategic_bombing_during_World_War_I#1918] , Apparently actually [|https://en.wikipedia.org/wiki/Zeppelin-Staaken_R.VI].\n Moon phase was first quarter.",
-	"jtag":"p027"
+	"jtag":"p028"
  }
 ,
 {
@@ -487,29 +510,59 @@
 	"vtag":"LondonColney",
 	"loctext":"London Colney",
   "text":"Feb 18 - The raid continues. Only one Gotha got through last night. Few casualties.",
-	"jtag":"p027"
+	"jtag":"p028"
 },
 {
 	"date":"1918-02-19",
 	"vtag":"LondonColney",
 	"loctext":"London Colney",
   "text":"Feb 19 - The third day of the raid. They had a bad time last night by the way the guns were going. They're at it again tonight and I can hear the guns booming away. Word came through today that Buckley was killed at Hounslow [G|Hounslow Heath Airfield] yesterday on a Pip. He is the sixth of our \"Italian Detachment\" to cash in.",
-	"jtag":"p027"
+	"jtag":"p028"
 },
 {
 	"date":"1918-02-23",
 	"vtag":"LondonColney",
 	"loctext":"London Colney",
-  "text":"Feb 23 - Fred Stillman died today. 15 days after the crash. It was a shock to everyone as he had been recoverying rapidly the last few days. Nial and [I did a] cross country trip today. Since I had been to Northolt [G|Northolt Airfield] before, I was elected leader. We ran into a snow storm after leaving Northolt and got lost, landed at Brooklyns and after getting our bearings arrived safely at Hounslow. I brought Darcy back from Northolt with me. All the Avros and Pups are being sent away. Darcy took 4439 back to Northolt with him.",
+  "text":"Feb 23 - Fred Stillman died today. 15 days after the crash. It was a shock to everyone as he had been recoverying rapidly the last few days. Nial and Cunningham came down today in [|A W's|https://en.wikipedia.org/wiki/Armstrong_Whitworth_F.K.8] from Bascombe Downs.",
+	"jtag":"p029"
+},
+{
+	"date":"1918-02-24",
+	"vtag":"LondonColney",
+	"loctext":"London Colney",
+	"text":"Solo on Avros today. I have had enough dual so that I was perfectly confident. I caused a little sensation by looping on my first solo. I had told the fellows I was going to so I had to. Made a good one too.",
+	"jtag":"p029"
+},
+{
+	"date":"1918-02-26",
+	"vtag":"LondonColney",
+	"loctext":"London Colney",
+	"text":"Formation flight for 50 minutes this morning. Fred Stillman's funeral was at 10:30 at Napsbury Hosp. All the Americans were there together with Capt Stillman and his two sisters who are on Red Cross work in France. Two American flying officers are with us now. Although they have had 100 hours on [|Curtis|https://en.wikipedia.org/wiki/Curtiss_JN-4] machines the instructors say they would rather have a hun just off from Rumpties.",
+	"notes":"The hospital was immediately north of the airfield in the village of [|Napsbury Park|https://en.wikipedia.org/wiki/Napsbury_Park]\n'hun' must be short for 'hundred hours'. The (British?) instructors comment seems to be that the Curtiss 'Jenny' trainer was worse even than the Rumpty pusher aircraft.",
+	"jtag":"p029"
+},
+{
+	"date":"1918-02-27",
+	"vtag":"LondonColney",
+	"loctext":"London Colney",
+	"text":"Only got in 20 minutes flying today - I looped, spun, and Immilmaned and found the Avro would dive at 120 without the wings dropping off. I'll have to put her to 130 now and see what happens. Wicks and Curtis did their cross coutrny today.",
+	"notes":"Jesse seems to have gotten the hang of flying 'stunts' pretty well. He refers to the [|Immelmann turn|https://en.wikipedia.org/wiki/Immelmann_turn] used to rapidly go up, reverse, and come back down on the enemy.",
+	"jtag":"p029"
+},
+{
+	"date":"1918-02-28",
+	"vtag":"LondonColney",
+	"loctext":"London Colney",
+	"text":"Fry and I did our cross country trip today. Since I had been to Northolt [G|Northolt Airfield] before, I was elected leader. We ran into a snow storm after leaving Northolt and got lost, landed at Brooklyns and after getting our bearings arrived safely at Hounslow. I brought Darcy back from Northolt with me. All the Avros and Pups are being sent away. Darcy took 4439 back to Northolt with him.",
 	"notes":"When was Jesse at [|RAF Northolt|https://en.wikipedia.org/wiki/RAF_Northolt]?\n Brooklyns is actually [|Brooklands|https://en.wikipedia.org/wiki/Brooklands], an early racing track and airfield, somewhat south of Heathrow.\n [|Hounslow|https://en.wikipedia.org/wiki/Hounslow_Heath_Aerodrome] is just east of Heathrow.",
-	"jtag":"p027"
+	"jtag":"p028"
 },
 {
 	"date":"1918-03-01",
 	"vtag":"LondonColney",
 	"loctext":"London Colney",
   "text":"Mar 1 - The Squadron has begun to mobilize. 20 SE's are in now and each has been assigned to a pilot. Major Darcy, our new C.O. arrived today and promises to be a good fellow.",
-	"jtag":"p028"
+	"jtag":"p030"
 },
 {
 	"date":"1918-03-04",
@@ -517,7 +570,7 @@
 	"loctext":"London Colney",
   "text":"Mar 4 - The C.O. was in last night and we had a pleasant chat with him. I did not go out to the aerodrome until 11 and found all classes were washed out.",
 	"notes":"And see Jesse's letter of 1918-03-16 with a few more details of the snowy cross-country trip of 1918-02-23.",
-	"jtag":"p028"
+	"jtag":"p030"
 },
 {
 	"date":"1918-03-25",
@@ -525,14 +578,14 @@
 	"loctext":"London Colney",
   "text":"Mar 25. Graduated on Pups today. Went on leave for 4 days to Salisbury [G|Salisbury].",
 	"notes":"[|Salisbury|https://en.wikipedia.org/wiki/Salisbury] is noted for its magnificent cathedral. Note that during this leave, Jesse had his 22nd birthday (March 28).\n On This Day - March 21-28 German Somme Offensive.",
-	"jtag":"p028"
+	"jtag":"p030"
 },
 {
 	"date":"1918-05-04",
 	"vtag":"LondonColney",
 	"loctext":"London Colney",
   "text":"May 4 - Clarency Fry was killed today. His engine cut out on a climbing turn.",
-	"jtag":"p028"
+	"jtag":"p030"
 },
 {
 	"date":"1918-05-08",
@@ -540,7 +593,7 @@
 	"loctext":"London Colney",
   "text":"May 8 - Bill Wait was killed today. He dove into Elstree mess room. No one knows how it happened.",
 	"notes":"[|RAF Elstree|https://en.wikipedia.org/wiki/Elstree_Airfield] about 5 miles south of London-Colney.",
-	"jtag":"p028"
+	"jtag":"p030"
 },
 {
 	"date":"1918-05-12",
@@ -548,7 +601,7 @@
 	"loctext":"London Colney",
   "text":"May 12 - Finished on Spads today.",
 	"notes":"And see Jesse's letter dated today, 1918-05-12.",
-	"jtag":"p028"
+	"jtag":"p030"
 },
 {
 	"date":"1918-05-18",
@@ -556,14 +609,14 @@
 	"loctext":"Marske",
   "text":"May 18 - Curtis Wicks and myself started for school of aerial gunnery at Marske [G|Marske]",
 	"notes": "This was the No.4 School of Aerial Gunnery; must have been a lonely place on north-east coast of England - [|Marske|https://en.wikipedia.org/wiki/Marske,_Richmondshire].\n One of the instructors was [|W.E. Johns|https://en.wikipedia.org/wiki/W._E._Johns] who went on to write the famed series of books relating WWI ace pilot 'Biggles'. Another [|reference|https://www.crossandcockade.com/Store/Product.asp?id=382&item=From-Biggles-to-the-Red-Baron|].",
-	"jtag":"p029"
+	"jtag":"p031"
 },
 {
 	"date":"1918-05-28",
 	"vtag":"Markse",
 	"loctext":"Marske",
   "text":"May 28 - Had my first flip with Lt. Felder in a Avro today.",
-	"jtag":"p029"
+	"jtag":"p031"
 },
 {
 	"date":"1918-06-16",
@@ -571,7 +624,7 @@
 	"loctext":"Marske",
   "text":"June 16 - Lt. Turner, an Australian in the R.I.F.F was killed in a Pup today. Spun into the ground and caught fire.",
 	"notes":"On This Day: June 1 - Canadian Lt. Billy Bishop down's six planes over three days.",
-	"jtag":"p029"
+	"jtag":"p031"
 },
 {
 	"date":"1918-06-19",
@@ -579,14 +632,14 @@
 	"loctext":"Dover",
   "text":"June 19 - Wicks, Forester, and myself started for Dover [G|Dover (Swingate Downs) Airfield] to fly Camels.",
 	"notes":"The airfield at [|Dover, Swingate Downs|http://www.ukairfieldguide.net/airfields/Swingate-Downs] (Also see [|http://www.pastscape.org.uk/hob.aspx?hob_id=1417760]). Meanwhile, in France, the 17th Squadron, which had its A/B/C 'flights' working out of different R.A.F. bases, now was sent as a whole to their airfield at Petite-Synthe [G|PetiteSynthe] near Dunkirk.",
-	"jtag":"p029"
+	"jtag":"p031"
 },
 {
 	"date":"1918-06-23",
 	"vtag":"Dover",
 	"loctext":"Dover",
   "text":"June 23 - Took my first flip on a [|Camel|https://en.wikipedia.org/wiki/Sopwith_Camel]. Not so bad as I had heard they were. We have only to fly here so we should not have a bad time.",
-	"jtag":"p029"
+	"jtag":"p031"
 },
 {
 	"date":"1918-06-25",
@@ -594,7 +647,7 @@
 	"loctext":"Dover",
   "text":"June 25 - Sick with the flue.",
 	"notes":"Note most of this diary is written during the time of the [|great flu pandemic across Europe and America|https://en.wikipedia.org/wiki/1918_flu_pandemic]. No other mention in this diary of the flu.",
-	"jtag":"p029"
+	"jtag":"p031"
 },
 {
 	"date":"1918-06-29",
@@ -602,7 +655,7 @@
 	"loctext":"Dover",
   "text":"June 29 - Went on leave for a week to recover.",
 	"notes":"Two weeks later, on July 15, the original 17th Aero Squadron started active operations near Dunkirk, and scored their first air victory.",
-	"jtag":"p029"
+	"jtag":"p031"
 },
 {
 	"date":"1918-07-29",
@@ -610,7 +663,7 @@
 	"loctext":"London",
   "text":"July 29 - Wicks and myself started overseas. Reported to Hotel Cecil and received orders.",
 	"notes":"[|Hotel Cecil, London|https://en.wikipedia.org/wiki/Hotel_Cecil_(London)]",
-	"jtag":"p029"
+	"jtag":"p031"
 },
 {
 	"date":"1918-07-30",
@@ -618,7 +671,7 @@
 	"loctext":"Boulogne",
   "text":"July 30 - Crossed the Channel to Boulogne [G|Boulogne]. Stayed the night at Hotel Maurice.",
 	"notes":"For the city, see [|Boulogne|https://en.wikipedia.org/wiki/Boulogne-sur-Mer]. The hotel was the Hotel Meurice on Rue Victor Hugo; an undated picture postcard can be seen at [|https://photos.app.goo.gl/VIpOokfvxmz18rKp2] ",
-	"jtag":"p029"
+	"jtag":"p031"
 },
 {
 	"date":"1918-07-31",
@@ -626,7 +679,7 @@
 	"loctext":"Petite-Synthe",
   "text":"July 31 - Started for Dunkirk [G|PetiteSynth] to 17th American Squadron \"Camels\"",
 	"notes":"For the duration of the war, the 17th Aero Squadron (along with the 147th) was a U.S. Army air unit assigned to the Royal Air Force, 65th Wing, [|3rd Infantry Brigade|https://en.wikipedia.org/wiki/3rd_Infantry_Brigade_(United_Kingdom)].",
-	"jtag":"p029"
+	"jtag":"p031"
 },
 {
 	"date":"1918-08-01",
@@ -634,7 +687,7 @@
 	"loctext":"Petite-Synthe",
   "text":"France\n\nAug 1 - Reported to 17th American Squadron at Dunkirk, Lt. Eckert commanding.",
 	"notes":"[|Petite-Synthe Airfield|http://www.49squadron.co.uk/airfields/af1_psynthe], western industrial suburb of Dunkirk.\nThis field was originally built for the Royal Naval Air Service. For more description, see Frederick Clapp's, 'History of the 17th Squadron`, p18 - [IA|H17p18]\nBy this date the Great War was in its final stages. Earlier in the year, Germany had gone on the [|offensive|https://en.wikipedia.org/wiki/Spring_Offensive], trying to gain ground before U.S. soldiers and materiel entered the conflict. From August 1918 onwards, the Allies conducted a furious counter-offensive -  [|the Hundred Days |https://en.wikipedia.org/wiki/Hundred_Days_Offensive] - to drive Germany out of France and end the war.",
-	"jtag":"p030"
+	"jtag":"p032"
 },
 {
 	"date":"1918-08-03",
@@ -642,7 +695,7 @@
 	"loctext":"Petite-Synthe",
   "text":"Aug 3 - 1st trip over lines, we got a good bit of archie and machine gun fire at Nieppe Forest. Saw no E.A.",
 	"notes":"Note that standard practice by the R.A.F. was that no pilot was to go over the lines until they had <i>three  weeks </i> of practical experience in the Western Front - [IA|H17p16]. Either the 17th simply went their own way (even though a part of the R.A.F.), or Jesse may have demonstrated superior ability.\nE.A. == Enemy Aircraft.\nArchie == anti-aircraft fire;  See [|https://english.stackexchange.com/questions/301554/why-is-german-anti-aircraft-fire-called-archibald] - The song can be heard at [|https://www.youtube.com/watch?v=fqsZiLpyoaw]\n[|Front line as of Aug 8|http://www.longlongtrail.co.uk/maps/allied18q.jpg]\nNieppe Forest, just north-west of [|Merville|https://en.wikipedia.org/wiki/Merville,_Nord]\n[|Nieppe|https://en.wikipedia.org/wiki/Nieppe]",
-	"jtag":"p030"
+	"jtag":"p032"
 },
 {
 	"date":"1918-08-05",
@@ -650,7 +703,7 @@
 	"loctext":"Petite-Synthe",
   "text":"Aug 5 - Straffed trenches around Dixmude [G|Diksmuide]",
 	"notes":"See [|Dixmuide|https://en.wikipedia.org/wiki/Diksmuide]. Again, unusual for a new pilot to get this assignment after four days.\nIn fact, Jesse was singled out with an 'assist' on a Fokker kill two days later on August 7th - see Combat Report 8 [IA|H17p59]\nNote comment on strafing in Clapp's 'History': In many ways, on the other hand, \"ground strafing\" is a severer test than most fighting of a pilot's stamina and skill and of the rigging and fitting of his machine.[IA|H17p39]\nSuccessful  strafing also served to demoralize German troops as, previously, German air protection was supreme.",
-	"jtag":"p030"
+	"jtag":"p032"
 },
 {
 	"date":"1918-08-10",
@@ -659,7 +712,7 @@
   "text":"Aug 10 - Went to 19,000 ft. on aerial sentry. No E.A.",
 	"notes":"Jesse does not mention the first major action taken by the 17th, the attack bombing on the Varsenare Aerodrome [G|Varsanare]. It's evident that Jesse was not part of this action, probably due to his lack of experience, though as just mentioned, he seemed to have demonstrated his ability. Either way, odd that there's no mention of this. For a complete writeup see [IA|H17p30].",
 	"notes": "In Other News: The [|Battle of Amiens|https://en.wikipedia.org/wiki/Battle_of_Amiens_(1918)] began. This battle turned out to be the last great battle of the Great War.",
-	"jtag":"p030"
+	"jtag":"p032"
 },
 {
 	"date":"1918-08-14",
@@ -667,14 +720,14 @@
 	"loctext":"Petite-Synthe",
   "text":"Aug 14 - Started work in earnest today. The first show was escorting [|D.H.9 bombers|https://en.wikipedia.org/wiki/Airco_DH.9] to Bruges [G|Bruges]. 5 Fokkers attack us over Bruges and we accounted for 3. I got my first Hun. Hamilton, Todd, and myself were all firing at him when he went down so I get credit for 1/3 hun destroyed officially. One Fokker which Wicks was firing at crashed into Case cutting off his tail plane. Both crashed to the ground. Sherman failed to return. He was last seen going down after a hun.\nIn the afternoon we went on an offensive patrol and ran into 15 enemy aircraft which were scrapping a formation of Bristol Fighters. We joined in but every thing was so messed up that I couldn't tell where I was. Luckily none attacked me. I found myself up alone with 3 Fokkers everyone else having gone down but they didn't attack me so I left them alone.",
 	"notes":"Just two weeks after getting to France, his Oxford roomate, George Sherman is killed in what must have been a terrifying day of battle. Jesse's confirmation of Wick's victory is in Combat Report 15 [IA|H17p65]\nNot sure what Fokker model, must have been a figher:  [|https://en.wikipedia.org/wiki/Fokker_D.VI], [|https://en.wikipedia.org/wiki/Fokker_D.VII], [|https://en.wikipedia.org/wiki/Fokker_Dr.I]\n. For the city, see [|Bruges|https://en.wikipedia.org/wiki/Bruges].",
-	"jtag":"p030"
+	"jtag":"p032"
 },
 {
 	"date":"1918-08-15",
 	"vtag":"PetiteSynthe",
 	"loctext":"Petite-Synthe",
   "text":"Aug 15 - Escorted DH9's to Bruges. Saw a few Fokkers but none were attacked. Went after a balloon but missed it.",
-	"jtag":"p031"
+	"jtag":"p033"
 },
 {
 	"date":"1918-08-16",
@@ -682,7 +735,7 @@
 	"loctext":"Petite-Synthe",
   "text":"Aug 16 - Escorted DH9 to Bruges. Archie was fierce coming back but no one was brought down although several were hit. Went to Calais [G|Calais] for dinner.",
 	"notes":"After these weeks of escorting DH9 bombers to Bruges, Major G.R.M. Reid of [|211th Squadron|http://www.211squadron.org/world_war_i.html] wrote that 'not a machine of theirs was lost as a result of attack by enemy aircraft.' - [IA|H17p25]\nFor the town, see [|Calais|https://en.wikipedia.org/wiki/Calais]",
-	"jtag":"p031"
+	"jtag":"p033"
 },
 {
 	"date":"1918-08-17",
@@ -690,14 +743,14 @@
 	"loctext":"Auxi-Le-Château",
   "text":"Aug 17 - Moved to Auxi-Le-Chateau [G|AuxiLeChateau] today. Our new front is between Albert [G|Albert] and Arras [G|Arras] so we should have plenty of work.",
 	"notes": "For the towns, see [|Auxi-Le-Chateau|https://en.wikipedia.org/wiki/Auxi-le-Ch%C3%A2teau], [|Albert|https://en.wikipedia.org/wiki/Albert,_Somme], [|Arras|https://en.wikipedia.org/wiki/Arras]",
-	"jtag":"p031"
+	"jtag":"p033"
 },
 {
 	"date":"1918-08-19",
 	"vtag":"AuxiLeChateau",
 	"loctext":"Auxi-Le-Château",
   "text":"Aug 19 - Went on a tour of the lines between Arras and Albert.",
-	"jtag":"p031"
+	"jtag":"p033"
 },
 {
 	"date":"1918-08-20",
@@ -705,7 +758,7 @@
 	"loctext":"Auxi-Le-Château",
   "text":"Aug 20 - Ferried a machine back from Hesdin [G|Hesdin Airfield] and got lost near Abbyville [G|Abbeville]. In the afternoon we had another look at the lines. Gave an exhibition for formation flying for Captain Dodge in the evening. Big show tomorrow. Our trooops are going to attack opposite.",
 	"notes":"The attack may have been the [|https://en.wikipedia.org/wiki/Second_Battle_of_Bapaume] \nFor the towns, [|Hesdin|https://en.wikipedia.org/wiki/Hesdin] and [|Abbyville|https://en.wikipedia.org/wiki/Abbeville]",
-	"jtag":"p031"
+	"jtag":"p033"
 },
 {
 	"date":"1918-08-21",
@@ -713,14 +766,14 @@
  	"loctext":"Auxi-Le-Château",
   "text":"Aug 21 - Misty in the morning so we did not have to go over. Our troops have advanced about 5 miles. Escorted [|R.E 8s|https://en.wikipedia.org/wiki/Royal_Aircraft_Factory_R.E.8] on a bombing expedition in the afternoon to Baupaume [G|Baupaume] and were attacked by eight fokkers. We got two without losing anyone. Had an offensive patrol in the evening and trench straffed in the last fifteen minutes. Hamilton, Todd, and myself went down on a baloon and got it in flames at 200 feet from the ground.",
 	"notes": "Jesse's confirmation of Ham & Todd's victory is in Combat Report 22 [IA|H17p69].  \n[|Bapaume|https://en.wikipedia.org/wiki/Bapaume]",
-	"jtag":"p032"
+	"jtag":"p034"
 },
 {
 	"date":"1918-08-22",
 	"vtag":"AuxiLeChateau",
 	"loctext":"Auxi-Le-Château",
   "text":"Aug 22 - Escorted R.E.8's again to Bapaumme and were attacked by 10 fokkers. One got on my tail and he nearly got me. One bullet went thru the center sections strut by my head and a bracing strut stopped another about an inch from my leg. We got three of them in the scrap. Had an O.P. in the evening but didn't see anything. A large piece of archie went thru my top plane.",
-	"jtag":"p032"
+	"jtag":"p034"
 },
 {
 	"date":"1918-08-23",
@@ -728,7 +781,7 @@
 	"loctext":"Auxi-Le-Château",
   "text":"Aug 23. Another push today. In the morning we shot up and dropped bombs on tropps and transports along the Bapaumme-Albert road. Machine gun fire from the ground was fierce and nearly every one was shot up badly when we got back. I got two in my engine and Wicks had his pressure pump shot off. Morton Campbell was shot down about 5 miles in Hun land.",
 	"notes":"See Bombing Report 2 [IA|H17p99]\nMorton Campbell was not related to Jesse. Clapp writes of later finding Morton's battefield burial after the Allies pushed the German's back...\nand when the Boche had gone back beyond Thiepval and Contalmaison we found his grave. He had landed, upside down, in that broad belt of shell-torn country where there is not a yard not shattered by heavy explosive. His grave was a low soft mound beside his crashed machine. On it, the usual inverted bottle, stuck in the mud, contained an envelope, blood-soaked and bearing his name. We made a cross of a broken four-bladed 'prop' of fine mahogany that we got from salvage, and engraved a nameplate on a copper disk. We took it up past wrecked villages and then more wrecked villages, into the old No Man's Land of some of the fiercest battles of the war. At the head of his grave without ceremony we set it up. He lies there, one of our stoutest, by a file of tree trunks smashed and stripped and grotesquely rigid against the sun, under a little slope of ground rising toward the east that has been blasted into dust by months of artillery fire. [IA|H17p39]",
-	"jtag":"p033"
+	"jtag":"p035"
 },
 {
 	"date":"1918-08-24",
@@ -736,14 +789,14 @@
 	"loctext":"Auxi-Le-Château",
   "text":"Aug 24 - More ground straffing. Hamilton and I went down on a baloon. We got the baloon but they got Ham. The last I saw of him we was falling to the ground out of control. Rodney Williams was wounded yesterday. Geo Wise failed to return. I am afraid they got him too.",
 	"notes":"Jesse's first confirmed victory - see Combat Report 28 [IA|H17p73]. Bombing Report 5 [IA|H17p103]",
-	"jtag":"p033"
+	"jtag":"p035"
 },
 {
 	"date":"1918-08-26",
 	"vtag":"AuxiLeChateau",
 	"loctext":"Auxi-Le-Château",
   "text":"Aug 26 - Led one flight on an O.P. today",
-	"jtag":"p033"
+	"jtag":"p035"
 },
 {
 	"date":"1918-08-27",
@@ -751,14 +804,14 @@
  	"loctext":"Auxi-Le-Château",
   "text":"Aug 27 - Went out on an O.P. but had to return as my C.C. gear was not working. Providence was watching out for me however as our fellows ran into 40 Fokkers and only three out of the nine returned. They got Lipton, Frost, Todd, Jackson, Bittinger, and Roberts. Dinner in the evening was a sad occasion with so many gone.",
 	"notes":"\"C.C.\" is the [|machine gun synchronization gear|https://en.wikipedia.org/wiki/Synchronization_gear#The_Sopwith-Kauper_gear]\nClapp writes up this 'most tragic day' but dated August 26 [IA|H17p40]",
-	"jtag":"p033"
+	"jtag":"p035"
 },
 {
 	"date":"1918-08-27",
 	"vtag":"AuxiLeChateau",
 	"loctext":"Auxi-Le-Château",
   "text":"Aug 27 - We are to get a couple of weeks rest to recuperate. Only five old men are left.",
-	"jtag":"p033"
+	"jtag":"p035"
 },
 {
 	"date":"1918-08-28",
@@ -766,21 +819,21 @@
 	"loctext":"Auxi-Le-Château",
   "text":"Aug 28 - Led two formation of new fellows up to see the lines.",
 	"notes":"In Other News: The next day, the Allies (especially Canadian and Australian forces) took control of Baupaume.",
-	"jtag":"p034"
+	"jtag":"p036"
 },
 {
 	"date":"1918-09-14",
 	"vtag":"AuxiLeChateau",
 	"loctext":"Auxi-Le-Château",
   "text":"Sep 14 - Have not been up for the last six days. We have had quite a rest since we were shot up. Our only war work being baloon line patrols. Lately we started work on wireless interruption. Had a few calls but didn't see any huns.",
-	"jtag":"p034"
+	"jtag":"p036"
 },
 {
 	"date":"1918-09-15",
 	"vtag":"AuxiLeChateau",
 	"loctext":"Auxi-Le-Château",
   "text":"Sept 15 - Had my first force landing this morning. The main lead from the magneto fused. Luckily there was a large field beneath me and I got down safely.",
-	"jtag":"p034"
+	"jtag":"p036"
  }
 ,
 {
@@ -788,7 +841,7 @@
 	"vtag":"AuxiLeChateau",
 	"loctext":"Auxi-Le-Château",
   "text":"Sept 16 - Had two O.P.s today. The first one we saw 10 fokkers and on the second 11 but didn't have a scrap.",
-	"jtag":"p035"
+	"jtag":"p037"
 },
 {
 	"date":"1918-09-17",
@@ -796,14 +849,14 @@
 	"loctext":"Auxi-Le-Château",
   "text":"Sept 17 - While on an O.P. today we were jumped by 16 Fokkers. There were only six of us so we had to run away. Two took after me but I shook them off without much trouble. Allison's controls were shot away be he got down on our side without hurting himself. Snyder also was shot up a little. Knotts got one of them near  Bourlon woods [G|Bourlon Woods].",
 	"notes": "[|Bourlon|https://en.wikipedia.org/wiki/Bourlon]",
-	"jtag":"p035"
+	"jtag":"p037"
 },
 {
 	"date":"1918-09-18",
 	"vtag":"AuxiLeChateau",
 	"loctext":"Auxi-Le-Château",
   "text":"Sept 18 - Led one flight on a baloon strafe. We didn't get the baloon but we stirred things up a little with our bombs. I - my machine - was hit in several places with an archie but is still servicable.",
-	"jtag":"p035"
+	"jtag":"p037"
 },
 {
 	"date":"1918-09-19",
@@ -811,7 +864,7 @@
 	"loctext":"Auxi-Le-Château",
   "text":"Sept 19 - Had an uneventful O.P. over Dourai [G|Douai] and Cambrai [G|Cambrai].",
 	"notes": "[|Dourai|https://en.wikipedia.org/wiki/Douai] and [|Cambrai|https://en.wikipedia.org/wiki/Cambrai]",
-	"jtag":"p035"
+	"jtag":"p037"
 },
 {
 	"date":"1918-09-20",
@@ -819,7 +872,7 @@
 	"loctext":"Sombrin",
   "text":"Sept 20 - Moved today from Auxi-le-Chateau to Sombrin [G|Soncamp Aerodrome] just north of Doulons. The new place is quite nice although the quarters do not compare with our old ones. [|#87 Squadron|https://en.wikipedia.org/wiki/No._87_Squadron_RAF] ([|Dolphins|https://en.wikipedia.org/wiki/Sopwith_Dolphin]) are on the same aerodrome. Had an O.P. over Cambrai in the afternoon.",
 	"notes":"Also called Soncampe Airfield, actually a couple miles north-east of [|Doulons|https://en.wikipedia.org/wiki/Doullens]. And see Clapp's description, \"the mud in this camp was omnipresent and deep\" [IA|H17p45]\nThis begins the end-game of the war as the Allies mount furious pushback on the German front-line.",
-	"jtag":"p035"
+	"jtag":"p037"
 },
 {
 	"date":"1918-09-22",
@@ -827,14 +880,14 @@
 	"loctext":"Sombrin",
   "text":"Sept 22 - Twenty five huns attack twelve of us over Boulon woods [G|Bourlon Woods]. We had a merry old scrap and in all got four of them. We lost Tillinghast and Thomas. One of them went down in flames. It was a horrible sight. We ran into a hun two seater (Hanoverana) but he got away from us. These Hunds certainly are good pilots and have lots of nerve. They say they are part of Richtofen's old circus. #2 squadron.",
 	"notes":"Jesse is mentioned in Combat Report 42, with an 'indecisive' result [IA|H17p83].\nHanoverana was some sort of nickname for a German Hanover fighter, probably the [|Hanover CL.III|https://en.wikipedia.org/wiki/Hannover_CL.III] two-seater fighter. See W.E.Johns [CACp48] for 'Biggles' use of the nickname.\nThere's an odd number \"#2\" after the mention of Richtofen -- The Red Baron -- squad. But nothing quite matches [|https://en.wikipedia.org/wiki/Jagdgeschwader_1_(World_War_I)]",
-	"jtag":"p036"
+	"jtag":"p038"
 },
 {
 	"date":"1918-09-23",
 	"vtag":"Soncampe",
 	"loctext":"Sombrin",
   "text":"Sept 23 - Had an O.P. and saw lots of huns but didn't get a scrap. They won't scrap without plenty of odds in their favor and they are too good to give many odds.",
-	"jtag":"p036"
+	"jtag":"p038"
 },
 {
 	"date":"1918-09-24",
@@ -842,7 +895,7 @@
 	"loctext":"Sombrin",
   "text":"Sept 24 - Had a fine scrap this morning. There were 27 huns and 15 of us. We was in the top flight at 14,000 ft and as the huns went down on our bottom flight we went down on them. I got on ones tail and followed him down 5,000 feet pumping lead into him. I finally got quite close to him and as he started to half roll I saw my tracers going into the cockpit. He went down in a flat spin on his back but I didn't see him crash as more were coming down on me.\n Knotts went out this afternoon and saw him on his back near Havincourt [G|That makes two for me]. That makes two for me. We got 7 huns this morning without losing anyone.",
 	"notes": "Description of the scrap at [IA|H17p49]. Jesse's second confirmed victory and first over a fighter plane, see Combat Report 46 [IA|H17p85].\n[|Havincourt|https://en.wikipedia.org/wiki/Havrincourt]",
-	"jtag":"p036"
+	"jtag":"p038"
 },
 {
 	"date":"1918-09-25",
@@ -850,14 +903,14 @@
 	"loctext":"Sombrin",
   "text":"Sept 25 - Flew to 40 squadron at St. Pol [G|St. Pol-sur-Mer Airfield]. Anderson has been missing for a month now.",
 	"notes": "[|St. Pol|https://en.wikipedia.org/wiki/Saint-Pol-sur-Ternoise]. The airfield is mentioned at [|http://www.forgottenairfields.com/france/nord-pas-de-calais/nord/st-pol-du-mer-s1061.html]. [|40th Squadron, RAF|https://en.wikipedia.org/wiki/No._40_Squadron_RAF]",
-	"jtag":"p037"
+	"jtag":"p039"
 },
 {
 	"date":"1918-09-26",
 	"vtag":"Soncampe",
 	"loctext":"Sombrin",
   "text":"Sept 26 - Two O.P.s over Boulon and Havrincourt Woods. Uneventful.",
-	"jtag":"p037"
+	"jtag":"p039"
 },
 {
 	"date":"1918-09-27",
@@ -865,7 +918,7 @@
 	"loctext":"Sombrin",
   "text":"Sept 27 - Got a good burst into a pretty white-tailed Fokker. He went down in a spin and was last seen about 20ft from the ground still spinning. I doubt if I get him confirmed.",
 	"notes":"Yes, this was confirmed in Combat Report 53 [IA|H17p89]. Also, Bombing Reports 11 & 12 [IA|H17p108]",
-	"jtag":"p037"
+	"jtag":"p039"
 },
 {
 	"date":"1918-09-28",
@@ -873,7 +926,7 @@
 	"loctext":"Sombrin",
   "text":"Sept 28 - Straffed troops with bombs and bullets.",
 	"notes":"Bombing Report 14 [IA|H17p112]",
-	"jtag":"p038"
+	"jtag":"p040"
 },
 {
 	"date":"1918-09-29",
@@ -881,7 +934,7 @@
 	"loctext":"Sombrin",
   "text":"Sept 29 - more straffing troops.",
 	"notes":"Cambrai [G|Cambrai] - Bombing Reports 15 & 16 [IA|H17p116].\nIn Other News: Allied forces score a decisive breakthrough of Hindenburg Line.",
-	"jtag":"p038"
+	"jtag":"p040"
 },
 {
 	"date":"1918-10-01",
@@ -889,7 +942,7 @@
 	"loctext":"Sombrin",
   "text":"Oct 1 - Two O.P.'s. Led one.",
 	"notes":"Awoingt [G|Awoingt] - Bombing Reports 17 & 18 [IA|H17p121]",
-	"jtag":"p038"
+	"jtag":"p040"
 },
 {
 	"date":"1918-10-02",
@@ -897,7 +950,7 @@
 	"loctext":"Sombrin",
   "text":"Oct 2 - Dropped bombs on Awoingt [G|Awoingt]. Led both shows. Clements went on leave.",
 	"notes":"Bombing Reports 19 & 20 [IA|H17p124]\n[|Awoingt|https://en.wikipedia.org/wiki/Awoingt]",
-	"jtag":"p038"
+	"jtag":"p040"
 },
 {
 	"date":"1918-10-03",
@@ -905,7 +958,7 @@
 	"loctext":"Sombrin",
   "text":"Oct 3 - Bombed Caudry [G|Caudry] station from 5,000 feet. Got a direct hit on the tracks.",
 	"notes":"Bombing Report 22 [IA|H17p128]\n[|Caudry|https://en.wikipedia.org/wiki/Caudry]. Here's an picture of German troops arriving in Caudry - [|https://www.awm.gov.au/collection/H13409/]",
-	"jtag":"p038"
+	"jtag":"p040"
 },
 {
 	"date":"1918-10-04",
@@ -913,7 +966,7 @@
 	"loctext":"Sombrin",
   "text":"Oct 4 - Bombed Caudry again. Archie shot my pressure pumps away and I had to come back on gravity. 10 Fokkers followed me out.",
 	"notes":"Bombing Report 23 [IA|H17p129]",
-	"jtag":"p038"
+	"jtag":"p040"
 },
 {
 	"date":"1918-10-05",
@@ -921,7 +974,7 @@
 	"loctext":"Sombrin",
   "text":"Oct 5 - Bombed Awoingt and Wambois [G|Wambaix]. Glen Wicks and Shoemaker collided after dropping bombs on Wambois. Both went down in a spin and crashed badly. Both killed.",
 	"notes":"Bombing Report 25 [IA|H17p132]\n[|Wambois|https://en.wikipedia.org/wiki/Wambaix]",
-	"jtag":"p038"
+	"jtag":"p040"
 },
 {
 	"date":"1918-10-07",
@@ -929,7 +982,7 @@
 	"loctext":"Sombrin",
   "text":"Oct 7 - Bombed Awoingt again. Good news came today. Curtis, Lipton, Todd, Frost, Weiss and Bittinger are prisoners. Snyder went on leave today.",
 	"notes":"Bombing Report 27 [IA|H17p135]",
-	"jtag":"p038"
+	"jtag":"p040"
 },
 {
 	"date":"1918-10-08",
@@ -937,7 +990,7 @@
 	"loctext":"Sombrin",
   "text":"Oct 8 - Low straffing. I had to return on second patrol because of engine trouble. A piece of rubber was lodged in the middle valve.",
 	"notes":"Bombing Reports 28 & 29 [IA|H17p137]",
-	"jtag":"p038"
+	"jtag":"p040"
 },
 {
 	"date":"1918-10-09",
@@ -945,7 +998,7 @@
 	"loctext":"Sombrin",
   "text":"Oct 9 - Two shows. The second one was a reconaissance trying to find the hun. We have all of Cambrai and Caudry now. Major Fowler was in my flights. Have dropped 60 bombs so far this month.",
 	"notes":"Bombing Reports 30 & 31 [IA|H17p141]\nThis was part of [|The Battle of Cambrai|https://en.wikipedia.org/wiki/Battle_of_Cambrai_(1918)] which broke the German [|Hindenburg Line|https://en.wikipedia.org/wiki/Hindenburg_Line].",
-	"jtag":"p039"
+	"jtag":"p041"
 },
 {
 	"date":"1918-10-10",
@@ -953,7 +1006,7 @@
 	"loctext":"Sombrin",
   "text":"Oct 10 - Rain and rest. Le Cateau [G|Le Cateau] was captured today.",
 	"notes":"[|Le Cateau|https://en.wikipedia.org/wiki/Le_Cateau-Cambr%C3%A9sis]",
-	"jtag":"p039"
+	"jtag":"p041"
 },
 {
 	"date":"1918-10-11",
@@ -961,21 +1014,21 @@
 	"loctext":"Sombrin",
   "text":"Oct 11 - more rain",
 	"notes": "And see Jesse's letter dated today, 1918-10-11, with some cold-hearted notes on bombing transports.",
-	"jtag":"p039"
+	"jtag":"p041"
 },
 {
 	"date":"1918-10-12",
 	"vtag":"Soncampe",
 	"loctext":"Sombrin",
   "text":"Oct 12 - [ditto - more rain]",
-	"jtag":"p039"
+	"jtag":"p041"
 },
 {
 	"date":"1918-10-13",
 	"vtag":"Soncampe",
 	"loctext":"Sombrin",
   "text":"Oct 13 - [ditto - more rain]",
-	"jtag":"p039"
+	"jtag":"p041"
 },
 {
 	"date":"1918-10-14",
@@ -983,21 +1036,21 @@
 	"loctext":"Sombrin",
   "text":"Oct 14 - Two shows. Vaughn got a 2-seater in the first one. Knotts landed in Hun land near the lines at Salzoir. He was last seen running down the road to Salzoir [G|Saulzoir].",
 	"notes":"Bombing Reports 32 & 33 [IA|H17p143]\n[|Saulzoir|https://en.wikipedia.org/wiki/Saulzoir]",
-	"jtag":"p039"
+	"jtag":"p041"
 },
 {
 	"date":"1918-10-15",
 	"vtag":"Soncampe",
 	"loctext":"Sombrin",
   "text":"Oct 15 - Rain",
-	"jtag":"p039"
+	"jtag":"p041"
 },
 {
 	"date":"1918-10-16",
 	"vtag":"Soncampe",
 	"loctext":"Sombrin",
   "text":"Oct 16 - Rain - Hurrah !",
-	"jtag":"p039"
+	"jtag":"p041"
 },
 {
 	"date":"1918-10-17",
@@ -1005,42 +1058,42 @@
 	"loctext":"Sombrin",
   "text":"Oct 17 - Had a short scrap with France",
 	"notes":"Sick? Someone named France?? Something else?",
-	"jtag":"p039"
+	"jtag":"p041"
 },
 {
 	"date":"1918-10-18",
 	"vtag":"Soncampe",
 	"loctext":"Sombrin",
   "text":"Oct 18 - O.P. over Le Cateau and Salzoir",
-	"jtag":"p039"
+	"jtag":"p041"
 },
 {
 	"date":"1918-10-19",
 	"vtag":"Soncampe",
 	"loctext":"Sombrin",
   "text":"Oct 19 - Rain",
-	"jtag":"p039"
+	"jtag":"p041"
 },
 {
 	"date":"1918-10-20",
 	"vtag":"Soncampe",
 	"loctext":"Sombrin",
   "text":"Oct 20 - [ditto - Rain]",
-	"jtag":"p039"
+	"jtag":"p041"
 },
 {
 	"date":"1918-10-21",
 	"vtag":"Soncampe",
 	"loctext":"Sombrin",
   "text":"Oct 21 - [ditto - Rain]",
-	"jtag":"p039"
+	"jtag":"p041"
 },
 {
 	"date":"1918-10-22",
 	"vtag":"Boulogne",
 	"loctext":"Boulogne",
   "text":"Oct 22 - Started for England on leave. Stayed the night at Maurices Hotel in Bolounge [G|Bologne].",
-	"jtag":"p039"
+	"jtag":"p041"
 },
 {
 	"date":"1918-10-23",
@@ -1048,14 +1101,14 @@
 	"loctext":"London",
   "text":"Oct 23 - Crossed the channel and arrived at Officers club [G|Royal Air Force Club] London at 8:00 P.M.",
 	"notes":"The [|Royal Air Force Club|https://en.wikipedia.org/wiki/Royal_Air_Force_Club], Piccadilly, founded in 1918.",
-	"jtag":"p039"
+	"jtag":"p041"
 },
 {
 	"date":"1918-10-24",
 	"vtag":"Royal Air Force Club",
 	"loctext":"London",
   "text":"Oct 24 - quite a few fellows of the old bunch are here either on leave or getting new machines for the Americans.",
-	"jtag":"p039"
+	"jtag":"p041"
 },
 {
 	"date":"1918-10-26",
@@ -1063,7 +1116,7 @@
 	"loctext":"London",
   "text":"Oct 26 - Tillinglast (17sq), Anderson (40sq), and Donaldson (32 sq) arrived here tonight having esacaped from Germany. They had a wonderful experience. 30 days walking across Belgium to the Holland border and finally cutting the electrically charged wire there. Don Harris who was shot down while we were at Dunkirk is a prisoner in Holland and is working at the American Embassy.",
 	"notes": "Amusing writeup of Tillinglast's escape in [IA|H17p47]",
-	"jtag":"p040"
+	"jtag":"p042"
 },
 {
 	"date":"1918-11-05",
@@ -1071,7 +1124,7 @@
 	"loctext":"London",
   "text":"Nov 5 - Supposed to go back today but orders from H.Q. here said to wait for orders as the squadron had moved south with the Americans.",
 	"notes":"The 17th Sqaudron had moved south to [|Toul|https://en.wikipedia.org/wiki/Toul] apparently now attached (as of Nov 1st) with the [|4th Pursuit Group, II Army|https://en.wikipedia.org/wiki/4th_Pursuit_Group]\nIn Other News: This week, Turkey signed their own armistice with the Allies, and Austria signed with Italy.",
-	"jtag":"p040"
+	"jtag":"p042"
 },
 {
 	"date":"1918-11-07",
@@ -1079,7 +1132,7 @@
 	"loctext":"Le Havre",
   "text":"Nov 7 - Started back today via Southampton [G|Southampton] and Harve [G|Le Havre]. Crossed the channel on the American cruiser [|Yale|https://en.wikipedia.org/wiki/USS_Yale_(1888)].",
 	"notes":"[|Southampton|https://en.wikipedia.org/wiki/Southampton] and [|Harve|https://en.wikipedia.org/wiki/Le_Havre]",
-	"jtag":"p040"
+	"jtag":"p042"
 },
 {
 	"date":"1918-11-08",
@@ -1087,7 +1140,7 @@
 	"loctext":"Paris",
   "text":"Nov 8 - Arrived at Harve early this morning and after eluding the APM who wanted to send me out to a rest camp, caught the 9:30 train for Paris. Went to Follies Bergerie [G|Folies Bergère] in the evening. Stayed at the Palace Hotel [G|Victoria Palace Hotel].",
 	"notes":"A.P.M. == Assistant Provost Marshall - [|British military police|https://en.wikipedia.org/wiki/Provost_marshal].\n [|Follies Bergerie|https://en.wikipedia.org/wiki/Folies_Berg%C3%A8re] \nHard to know which \"Palace\" hotel, but possibly [|Victorian Palace|https://www.victoriapalace.com/en/history/]",
-	"jtag":"p040"
+	"jtag":"p042"
 },
 {
 	"date":"1918-11-09",
@@ -1095,7 +1148,7 @@
 	"loctext":"Paris",
   "text":"Nov 9 - Paris. Went to the Comedy [G|La Comédie Française] in the evening. Met Lt. Brady in the evneing and decided to stay until morning and go out with him.",
 	"notes":"Perhaps the oldest active theatre in the world - [|https://en.wikipedia.org/wiki/Com%C3%A9die-Fran%C3%A7aise]. How to find out what was performed there that night?!",
-	"jtag":"p041"
+	"jtag":"p043"
 },
 {
 	"date":"1918-11-10",
@@ -1103,7 +1156,7 @@
 	"loctext":"Toul",
   "text":"Nov 10 - Caught the 8:30 train for [G|Toul]. Met Major Cartwright. Arrived at Toul at 6pm.",
 	"notes":" [|Toul|https://en.wikipedia.org/wiki/Toul]",
-	"jtag":"p041"
+	"jtag":"p043"
 },
 {
 	"date":"1918-11-11",
@@ -1111,7 +1164,7 @@
 	"loctext":"Toul",
   "text":"Nov 11 - Armistance signed. Had a great party in Nancy [G|Nancy] in the evening. The A.P.M. tried to pinch Ayers for swiping an American flag from the front of one of the stores.",
 	"notes":"[|Nancy|https://en.wikipedia.org/wiki/Nancy,_France]",
-	"jtag":"p041"
+	"jtag":"p043"
 },
 {
 	"date":"1918-11-13",
@@ -1119,21 +1172,21 @@
 	"loctext":"Toul",
   "text":"Nov 13 - Took my first flip on a 220 Spad. Don't like them much.",
 	"notes":"After joining the US forces in Toul, the 17th Squadron was reassigned to fly Spads. This was possibly a [|Spad S.XX|https://en.wikipedia.org/wiki/SPAD_S.XX]",
-	"jtag":"p041"
+	"jtag":"p043"
 },
 {
 	"date":"1918-11-14",
 	"vtag":"Toul",
 	"loctext":"Toul",
   "text":"Nov 14 - Another flip for 35 minutes.",
-	"jtag":"p041"
+	"jtag":"p043"
 },
 {
 	"date":"1918-11-18",
 	"vtag":"Toul",
 	"loctext":"Toul",
   "text":"Nov 18 - Had my first real crash. The engine cut out about 20ft from the ground as I was diving on the windward side of the aerodrome. Not a change to get down safely so I put it into a fence on the other side. The machine was an absolute \"right off\" but I wasn't bumped.",
-	"jtag":"p041"
+	"jtag":"p043"
 },
 {
 	"date":"1918-11-20",
@@ -1141,14 +1194,14 @@
 	"loctext":"Toul",
   "text":"Nov 20. Up for 20 min. Uncle Frank came over. He is located at Nancy and has seen most of the fighting down south with the Yanks.",
 	"notes":"Wonder if Jesse met his Uncle Frank Campbell on Armistice evening?",
-	"jtag":"p041"
+	"jtag":"p043"
 },
 {
 	"date":"1918-11-21",
 	"vtag":"Toul",
 	"loctext":"Toul",
   "text":"Nov 21 - Up for an hour trying to find 8 Squadron's Aerodrome. Landed at most all in France but couldn't find the right one.",
-	"jtag":"p042"
+	"jtag":"p044"
 },
 {
 	"date":"1918-11-22",
@@ -1156,14 +1209,14 @@
 	"loctext":"Toul",
   "text":"Nov 22 - Found out that the place I want is only 8 miles from here so I walked over. Saw Eddie Moore. He has the D.S.C.",
 	"notes":"The [|Distinguished Service Cross|https://en.wikipedia.org/wiki/Distinguished_Serice_Cross_(United_States)]. Listed as Edward Russell Moore at [|http://www.homeofheroes.com/members/02_DSC/citatons/01_wwi_dsc/dsc_05wwi_AirService2.html].",
-	"jtag":"p042"
+	"jtag":"p044"
 },
 {
 	"date":"1918-11-22",
 	"vtag":"Toul",
 	"loctext":"Toul",
   "text":"Nov 22 - Came back with Eddie in a DH.4 Liberty",
-	"jtag":"p042"
+	"jtag":"p044"
 },
 {
 	"date":"1918-12-18",
@@ -1171,20 +1224,20 @@
 	"loctext":"Columbey-Les-Belles",
   "text":"Dec 18 - Started home. Ferried the Spads to East Columbey Le Belles [G|East Columbey-Les-Belles]",
 	"notes":"[|East Columbey Le Belles|https://en.wikipedia.org/wiki/Colombey-les-Belles]\n On March 11, 1919, Jesse was sent via St. Nazaire, France [G|StNazaire]  on the [|SS Dakotan|https://en.wikipedia.org/wiki/SS_Dakotan]. He arrived back in the U.S. in Hoboken, New Jersey on March 20 and was sent back to Camp Mills, New York to be mustered out.",
-	"jtag":"p042"
+	"jtag":"p044"
 },
 {
 	"date":"",
 	"loctext":"loctodo",
   "text":"[some loans/debts and addresses]\nFrank Campbell - 12 Rue D Aguenddre Paris",
 	"notes":"still trying to find that address",
-	"jtag":"p043"
+	"jtag":"p045"
 },
 {
 	"date":"",
 	"loctext":"loctodo",
   "text":"[Personal Card] Gordon Haddon Bower - 2/7th BlackWatch HRM",
 	"notes":"[http://www.ww1infantrycos.co.uk/blackwatch.html]",
-	"jtag":"p043"
+	"jtag":"p046"
 }
 ]
