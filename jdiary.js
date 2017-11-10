@@ -278,7 +278,7 @@ function doLetters(data, status) {
     $(`#app`).append(`<div id="${lid}">  ${l.date} - ${l.from} - ${l.to} </div>`);
     lel = $(`#${lid}`);
     l.pages.forEach(function(p) {
-      lel.append(`<div>  ${convertMarkdown(p.text)} </div>`);
+      lel.append(`<div class="entryText">  ${convertMarkdown(p.text)} </div>`);
     });
   });
 }
