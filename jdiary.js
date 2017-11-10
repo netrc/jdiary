@@ -272,6 +272,11 @@ function doLetters(data, status) {
 	}
 	ga('set','page','/letters'); ga('send', 'pageview');
 	$(`#app`).append(`<div id="letters">  See photo album at <a href="https://photos.app.goo.gl/z2npFyV1PIPjsYXY2"> https://photos.app.goo.gl/z2npFyV1PIPjsYXY2 </a> </div>`);
+	data.forEach(function(l) {
+    lid = `letter-${l.date}`;
+    $(`#app`).append(`<hr>`);
+    $(`#app`).append(`<div id="${lid}">  ${l.date} - To: ${l.to} </div>`);
+  });
 }
 
 function doPrint(data, status) {
