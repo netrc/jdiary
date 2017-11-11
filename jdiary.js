@@ -276,7 +276,7 @@ function doLetters(data, status) {
     lid = `letter-${l.date}`;
     $(`#app`).append(`<br><hr>`);
     //$(`#app`).append(`<div id="${lid}">  ${l.date} - ${l.from} - ${l.to} </div>`);
-    lel = $(`#${lid}`);
+    lel = $(`#app`).append(`<div id="${lid}">  </div>`);
     l.pages.forEach(function(p) {
       lel.append(`<div class="entryText">  ${convertMarkdown(p.text)} </div>`);
     });
