@@ -271,11 +271,11 @@ function doLetters(data, status) {
 		return;
 	}
 	ga('set','page','/letters'); ga('send', 'pageview');
-	$(`#app`).append(`<div id="letters">  See photo album at <a href="https://photos.app.goo.gl/z2npFyV1PIPjsYXY2"> https://photos.app.goo.gl/z2npFyV1PIPjsYXY2 </a> </div>`);
+	$(`#app`).append(`<div id="letters" class="entryText">  See photo album at <a href="https://photos.app.goo.gl/z2npFyV1PIPjsYXY2"> https://photos.app.goo.gl/z2npFyV1PIPjsYXY2 </a> </div>`);
 	data.forEach(function(l) {
     lid = `letter-${l.date}`;
-    $(`#app`).append(`<hr>`);
-    $(`#app`).append(`<div id="${lid}">  ${l.date} - ${l.from} - ${l.to} </div>`);
+    $(`#app`).append(`<br><hr>`);
+    //$(`#app`).append(`<div id="${lid}">  ${l.date} - ${l.from} - ${l.to} </div>`);
     lel = $(`#${lid}`);
     l.pages.forEach(function(p) {
       lel.append(`<div class="entryText">  ${convertMarkdown(p.text)} </div>`);
