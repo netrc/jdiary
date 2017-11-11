@@ -332,7 +332,9 @@ function initPage(){
 	window.onhashchange = doRouting;
 	console.log("initPage - URL=: " + location.href);
 	// auto start if URL is empty
-	location.href="#Introduction";
+  if (location.href.indexOf("#")== -1) {
+    location.href="#Introduction";
+  }
 	//doRouting();// works but makes the app put in 2 intro sections
 }
 
