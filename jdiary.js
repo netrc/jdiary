@@ -334,8 +334,9 @@ function initPage(){
 	// auto start if URL is empty
   if (location.href.indexOf("#")== -1) {
     location.href="#Introduction";
+  } else {
+    doRouting();// works but makes the app put in 2 intro sections
   }
-	//doRouting();// works but makes the app put in 2 intro sections
 }
 
 function apiReady() {
