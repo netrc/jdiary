@@ -316,7 +316,7 @@ function doRouting() {
 		$.get(g.lettersURL, doLetters);
 	} else if (newU.match(/#Print/)) {
 		$.get(g.diaryURL, doPrint);
-	} else if (newU.match(/.*index.html/ || newU.match(/#Diary/)) { // THE DIARY
+	} else if (newU.match(/.*index.html/) || newU.match(/#Diary/)) { // THE DIARY
 		$(`#app`).append(`	<div id="mainText"> </div> <div id="mainPane"> <div id="mapDiv"> </div> </div>`)
 		g.mainTextEl = $("#mainText");
 		$.get(g.diaryURL, doJSON);
