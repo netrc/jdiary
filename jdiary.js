@@ -306,17 +306,17 @@ function doRouting() {
 	let newU = location.href;
 	console.log(`doRouting: ${newU}`)// manual routing
 	$(`#app`).empty();
-	if (newU.match(/.*#Introduction/)) {
+	if (newU.match(/#Introduction/)) {
 		$.get(g.introMD, doIntro);
-	} else if (newU.match(/.*#People/)) {
+	} else if (newU.match(/#People/)) {
 		$.get(g.whoAndWhereMD, doPeople);
-	} else if (newU.match(/.*#Notes/)) {
+	} else if (newU.match(/#Notes/)) {
 		$.get(g.otherNotesMD, doOtherNotes);
-	} else if (newU.match(/.*#Letters/)) {
+	} else if (newU.match(/#Letters/)) {
 		$.get(g.lettersURL, doLetters);
-	} else if (newU.match(/.*#Print/)) {
+	} else if (newU.match(/#Print/)) {
 		$.get(g.diaryURL, doPrint);
-	} else if (newU.match(/.*index.html/)) { // THE DIARY
+	} else if (newU.match(/.*index.html/ || newU.match(/#Diary/)) { // THE DIARY
 		$(`#app`).append(`	<div id="mainText"> </div> <div id="mainPane"> <div id="mapDiv"> </div> </div>`)
 		g.mainTextEl = $("#mainText");
 		$.get(g.diaryURL, doJSON);
