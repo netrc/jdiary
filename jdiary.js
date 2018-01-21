@@ -200,7 +200,7 @@ function doData(data, status) {
 		if (!currPageTop) {
 			console.log(`odd - can't find currPageTop - scrollTopPos: ${scrollTopPos} `);
 		}
-		if (currPageTop.jd.hasOwnProperty('vtag') && (g.currView != currPageTop.jd.vtag)) {
+		if (currPageTop && currPageTop.jd.hasOwnProperty('vtag') && (g.currView != currPageTop.jd.vtag)) {
 			console.log(`scroll - new view - ${currPageTop.jd.vtag}`);
 			g.currView = currPageTop.jd.vtag;
 			if (g.views.hasOwnProperty(g.currView)) {
