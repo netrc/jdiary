@@ -24,7 +24,7 @@ Jesse Campbell Letters, 1917-1918 - [|https://photos.app.goo.gl/z2npFyV1PIPjsYXY
 
 'The U.S. Air Service in World War I: Volume 1, 1978' - full text at [|https://archive.org/details/TheUSAirServiceInWWIVol1] - a collection of historical reports on the air service compiled by the United States Air Force.
 
-Web Sites:
+<h4> Web Sites: </h4>
 
 [|http://parr-hooper.cmsmcq.com/2OD/] - Site devoted to the Second Oxford Detachment of the 17th Aero Squadron. Written by descendent of Parr Hooper, who was a cadet-mate of Jesse from the RMS Carmania through Oxford, Grantham, and more. Many outstanding pictures of the airfields and men. Extremely well researched and written.
 
@@ -33,6 +33,14 @@ Web Sites:
 [|http://www.theaerodrome.com/index.php] - "The Aerodrome", web site for fans of Great War aircraft and squadrons with active forums and research.
 
 <h2> Random Notes </h2>
+
+<h4> Sopwith Camel </h4>
+<ul>
+<li> <a href="https://www.goldenageair.org/events.htm"> Golden Age Air Museum - https://www.goldenageair.org/events.htm </a>
+<li> <a href="http://oldrhinebeck.org/"> Old Rhinebeck Aerodrome - http://oldrhinebeck.org/ </a>
+<li> <a href="https://www.militaryfactory.com/aircraft/ww1-aircraft.asp"> https://www.militaryfactory.com/aircraft/ww1-aircraft.asp </a>
+<li> <a href="https://en.wikipedia.org/wiki/List_of_World_War_I_Central_Powers_aircraft"> https://en.wikipedia.org/wiki/List_of_World_War_I_Central_Powers_aircraft </a>
+</ul>
 
 [|Ed Moore's D.S.C. citation|http://www.homeofheroes.com/members/02_DSC/citatons/01_wwi_dsc/dsc_05wwi_AirService2.html]
 <blockquote>
