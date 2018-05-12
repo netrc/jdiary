@@ -226,7 +226,7 @@ function doData(data, status) {
 }
 
 function gaPageSend( p ) {  // e.g. '/diary'
-	if (ga) {
+	if (typeof ga != "undefined" ) {
 		ga('set','page',p); ga('send', 'pageview');
 	}
 }
