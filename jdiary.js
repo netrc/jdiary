@@ -225,6 +225,12 @@ function doData(data, status) {
 	}
 }
 
+function gaPageSend( p ) {  // e.g. '/diary'
+	if (ga) {
+		ga('set','page',p); ga('send', 'pageview');
+	}
+}
+
 function doJSON(data, status) {
 	console.log("doJSON (diary)...");
 	if (status != "success") {
@@ -236,7 +242,7 @@ function doJSON(data, status) {
 	}
 	g.jd = data;
 	g.lastPageAvail = g.jd.length-1; // NO LONGER USED
-	ga('set','page','/diary'); ga('send', 'pageview');
+	gaPageSend('/diary');
 	$.get(g.dataURL, doData);
 }
 
@@ -245,7 +251,7 @@ function doIntro(data, status) {
 		console.log("get intro md error: " + status);
 		return;
 	}
-	ga('set','page','/introduction'); ga('send', 'pageview');
+	gaPageSend('/introduction');
 	$(`#app`).append(`<div id="intro"> ${convertMarkdown(data)}</div>`);
 }
 function doPeople(data, status) {
@@ -253,7 +259,7 @@ function doPeople(data, status) {
 		console.log("get people error: " + status);
 		return;
 	}
-	ga('set','page','/people'); ga('send', 'pageview');
+	gaPageSend('/people');
 	$(`#app`).append(`<div id="intro"> ${convertMarkdown(data)}</div>`);
 }
 function doOtherNotes(data, status) {
@@ -261,7 +267,7 @@ function doOtherNotes(data, status) {
 		console.log("get other notes error: " + status);
 		return;
 	}
-	ga('set','page','/people'); ga('send', 'pageview');
+	gaPageSend('/people');
 	$(`#app`).append(`<div id="intro"> ${convertMarkdown(data)}</div>`);
 }
 
@@ -270,7 +276,7 @@ function doLetters(data, status) {
 		console.log("get other notes error: " + status);
 		return;
 	}
-	ga('set','page','/letters'); ga('send', 'pageview');
+	gaPageSend('/letters');
 	$(`#app`).append(`<div id="letters" class="entryText">  See photo album at <a href="https://photos.app.goo.gl/z2npFyV1PIPjsYXY2"> https://photos.app.goo.gl/z2npFyV1PIPjsYXY2 </a> </div>`);
 	data.forEach(function(l) {
     lid = `letter-${l.date}`;
