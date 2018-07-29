@@ -16,7 +16,6 @@ var g = {   // The Global State (boo!)
 	lettersURL: "letters.json",
 	whoAndWhereMD: "whoAndWhere.md",
 	otherNotesMD: "otherNotes.md",
-	// wdays: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
 	wdays: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday' ],
 	currPage: 0,
 	lastPageAvail: 0,
