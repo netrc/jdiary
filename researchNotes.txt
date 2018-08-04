@@ -1,5 +1,6 @@
 Research notes
 
+
 -----------------------------------
 H17 - Frederick M. Clapp, A History of the 17th Aero Squadron
 Clapp, copyright 1920
@@ -218,38 +219,44 @@ H17p53 - to Toul
     "Spads were designated as the machines that we were to fly"
 
 
-Combat Reports
+Bombing and Combat Reports
 
-H17p59, mentioned in CR 8,  1918-08-7  Armentieres
-H17p65 CR 15, confirmation for Wicks  - 1918-08-14 – SW of Bruges
-H17p69 CR 22, confirmation for Ham, Todd – 1918-08-21
-H17p73, CR 28, Ham & Campbell (D. 6513) – 1 kite balloon destroyed – 1918-08-24 East of Baupaume
-H17p83, CR 42, Clements & Campbell – Indecisive – 1918-09-22 Over Inchy
-H17p85, CR 46 Campbell (F.2146), - 1 fokker  1918-09-24
-H17p89, CR 53 Campbell (F.2146) – 1 fokker 1918-09-27
+From Petite-Synth Aug 1 to Aug 16
+1918-08-07     H17p59,  mentioned in CR 8, Armentieres
+1918-08-14     H17p65 CR 15, confirmation for Wicks  -– SW of Bruges
 
-Bombing Reports
-H17p99, BR 2 Campbell (D.6513) 1918-08-23 Martinpuich-Le Barque Road  (to Baupaume)
-H17p103, BR 5, Campbell (D.6513) 1918-08-24 ?
-H17p108, BR 11 Campbell (F.2416) 1918-09-27 Bourlon Wood
-H17p110, BR 12 Campbell (F.2416) 1918-09-27 Canal de Lescaut at Marcoing
-H17p112, BR 14 Campbell (F.2146) 1918-09-28  Awoingt, Cambrai
-H17p116, BR 15 Campbell (F.2146) 1918-09-29 Cambrai
-H17p116, BR 16 Campbell (F.2146) 1918-09-29 Honnecourt…
-H17p121, BR 17 Campbell (F.2146) 1918-10-01 Awoingt
-H17p123, BR 18 Campbell (F.2146) 1918-10-01 Awoingt
-H17p124, BR 19 Campbell (F5993) 1918-10-02 Awoingt
-H17p125, BR 20 Campbell (F.5993) 1918-10-02 Awoingt
-H17p128, BR 22, Campbell (F.2146) 1918-10-03 Caudry
-H17p129, BR 23, Campbell (F.2146) 1918-10-04 Caudry
-H17p132, BR 25, Campbell (F.2146) 1918-10-05 Awoingt
-H17p135, BR 27, Campbell (F.2146) 1918-10-07 Awoingt
-H17p137, BR 28, Campbell (F.5993) 1918-10-08 East of Cambrai  (Four bombs dropped on two lorries on road… 300 rounds fired on them before dropping bombs…)
-H17p139, BR 29, Campbell (F.2146) 1918-10-08  Returned Early With Engine Trouble
-H17p141, BR 30, Campbell (F.2146) 1918-10-09, R.R north of Awoingt
-H17p142, BR 31 Campbell (F.2146) 1918-10-09, Rieux R.R sidings
-H17p143, BR 32 Campbell (F.2146) 1918-10-14, Bazuel
-H17p144, BR 33, Campbell (F.2146) 1918-10-14, Shot up transport on Verchain road; 200 rounds fired into the villages of Monchaux and Querenaing
+From Auxi-Le-Chateau Aug 17 to Sep 20
+1918-08-21     H17p69 CR 22, confirmation for Ham, Todd –
+1918-08-23     H17p99, BR 2 Campbell (D.6513) Martinpuich-Le Barque Road  (to Baupaume)
+1918-08-24  *k H17p73 CR 28, Ham & Campbell (D. 6513) – 1 kite balloon destroyed –East of Baupaume
+1918-08-24     H17p103, BR 5, Campbell (D.6513) ?
+
+From Soncampe  Sep 21 to Sep 30
+1918-09-22     H17p83 CR 42, Clements & Campbell – Indecisive – Over Inchy
+1918-09-24  *F H17p85 CR 46 Campbell (F.2146), - 1 fokker 
+1918-09-27  *F H17p89 CR 53 Campbell (F.2146) – 1 fokker
+1918-09-27     H17p108, BR 11 Campbell (F.2416) Bourlon Wood
+1918-09-27     H17p110, BR 12 Campbell (F.2416) Canal de Lescaut at Marcoing
+1918-09-28     H17p112, BR 14 Campbell (F.2146) Awoingt, Cambrai
+1918-09-29     H17p116, BR 15 Campbell (F.2146) Cambrai
+1918-09-29     H17p116, BR 16 Campbell (F.2146) Honnecourt…
+1918-10-01     H17p121, BR 17 Campbell (F.2146) Awoingt
+1918-10-01     H17p123, BR 18 Campbell (F.2146) Awoingt
+1918-10-02     H17p124, BR 19 Campbell (F5993) Awoingt
+1918-10-02     H17p125, BR 20 Campbell (F.5993) Awoingt
+1918-10-03     H17p128, BR 22, Campbell (F.2146) Caudry
+1918-10-04     H17p129, BR 23, Campbell (F.2146) Caudry
+1918-10-05     H17p132, BR 25, Campbell (F.2146) Awoingt
+1918-10-07     H17p135, BR 27, Campbell (F.2146) Awoingt
+1918-10-08     H17p137, BR 28, Campbell (F.5993) East of Cambrai  (Four bombs dropped on two lorries on road… 300 rounds fired on them before dropping bombs…)
+1918-10-08     H17p139, BR 29, Campbell (F.2146) Returned Early With Engine Trouble
+1918-10-09     H17p141, BR 30, Campbell (F.2146) R.R north of Awoingt
+1918-10-09     H17p142, BR 31 Campbell (F.2146) Rieux R.R sidings
+1918-10-14     H17p143, BR 32 Campbell (F.2146) Bazuel
+1918-10-14     H17p144, BR 33, Campbell (F.2146) Shot up transport on Verchain road; 200 rounds fired into the villages of Monchaux and Querenaing
+
+Toul - Nov 1 ....
+
 
 
 July 15 – Oct 28 1918
