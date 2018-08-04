@@ -304,6 +304,7 @@
 		"Dover (Swingate Downs) Airfield": { "icon":"plane", "ll":{"lng":1.3396454, "lat":51.1364531}, "text":""},
 		"Dover": { "icon":"anchor", "ll":{"lng":1.3132954, "lat":51.1192026}, "text":""},
 		"Faulkner's Hotel": { "icon":"hotel", "ll":{"lng":-0.1243633, "lat":51.5084019}, "text":""},
+		"Hotel Cecil": { "icon":"hotel", "ll":{"lng":-0.121715, "lat":51.510071}, "text":"Hotel Cecil"},
 		"Southhampton": { "icon":"anchor", "ll":{"lng":-1.4335442, "lat":50.9062804}, "text":""},
 		"Royal Air Force Club": { "icon":"bar", "ll":{"lng":-0.148509699999977, "lat":51.5041812}, "text":""},
 

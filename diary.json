@@ -47,7 +47,7 @@
 	"date":"1917-09-23",
 	"vtag":"GrandBanks",
 	"loctext":"Atlantic",
-  "text":"Sept 23 Sunday - A storm came up during the night and the ship rolls considerable. A good many are sea sick but I am keeping my feet well under me. Services were held in the dining hall by one of the ministers aboard. In the evening, we had a concert in the reading room and [|Mr. Spalding|https://en.wikipedia.org/wiki/Albert_Spalding_(violinist)] thrilled everyone by his playing. He is a wonderful player ranking third best in the world.\nA vessel which proved to be a fishing smack was sighted in the afternoon and our cruiser rushed over to inspect her. The cruiser is very variously painted. Bright colors appear promiscuiously at it looks as if they couldn't find enough paint of one color to paint her. At a little distance her outlines are very indistinct and it would be a hard toarget to hit. The transports are painted steel gray.",
+  "text":"Sept 23 Sunday - A storm came up during the night and the ship rolls considerable. A good many are sea sick but I am keeping my feet well under me. Services were held in the dining hall by one of the ministers aboard. In the evening, we had a concert in the reading room and [|Mr. Spalding|https://en.wikipedia.org/wiki/Albert_Spalding_(violinist)] thrilled everyone by his playing. He is a wonderful player ranking third best in the world.\nA vessel which proved to be a fishing smack was sighted in the afternoon and our cruiser rushed over to inspect her. The cruiser is very variously painted. Bright colors appear promiscuously and it looks as if they couldn't find enough paint of one color to paint her. At a little distance her outlines are very indistinct and it would be a hard toarget to hit. The transports are painted steel gray.",
 	"notes":"Albert Spalding - [|on Fred Allen's radio program|https://www.youtube.com/watch?v=kvoN7eaQPLg], and playing [|premiere performance of Barber's Violin Concerto|https://www.youtube.com/watch?v=Jjo7Do2eHNc].<p>Paint scheme refers to [|dazzle camouflage|https://en.wikipedia.org/wiki/Dazzle_camouflage]",
 	"jtag":"p003"
 },
@@ -153,7 +153,7 @@
 	"date":"1917-10-08",
 	"vtag":"Oxford",
   "loctext":"Oxford",
-  "text":"Oct 8 - Classes started today. They cover about the same things which I had at Champaign but take them up quite differently. Next to be at flying school there is no where in this country I would rather be than here. It is a fine school and I am going to like it very much.",
+  "text":"Oct 8 - Classes started today. They cover about the same things which I had at Champaign but take them up quite differently. Next to being at flying school there is no where in this country I would rather be than here. It is a fine school and I am going to like it very much.",
 	"jtag":"p012"
 },
 {
@@ -306,7 +306,7 @@
 	"date":"1917-11-21",
 	"vtag":"Thetford",
    	"loctext":"Thetford",
-  "text":"Nov 21 - Rain and no flying classes are an abomination. These newly commissioned British officers feel their oats raise caine most of the time. A number of captured Huns are here working on the field and tennis court. They don't xxxt themselves any working and stand around smoking cigarettes most of the time. They seem quite happy and contented and I don't know why they shouldn't after a sieze [sic] at the front.",
+  "text":"Nov 21 - Rain and no flying classes are an abomination. These newly commissioned British officers feel their oats raise caine most of the time. A number of captured Huns are here working on the field and tennis court. They don't exert themselves any working and stand around smoking cigarettes most of the time. They seem quite happy and contented and I don't know why they shouldn't after a sieze [sic] at the front.",
 	"jtag":"p019"
 },
 {
@@ -410,8 +410,8 @@
 	"date":"1917-12-21",
 	"vtag":"Norwich",
 	"loctext":"Norwich",
-  "text":"Dec 21 Friday - Orders came to go to 74 T.S. at London-Colney [G|London Colney Airfield]. Left Thetford at 2:30 [xxx?] London. Could hardly find anyone who had hard of the bally place at London but finally found a taxi driver who had heard of it. Finally arrived here at 7:30. It is an out of the way place between Radlett and St. Auberns [St. Albans]",
-	"notes":"The new aerodrome was just south of London-Colney at [|Shenlybury|https://en.wikipedia.org/wiki/Shenley,_Hertfordshire]. And see [|https://shenleyww1.wordpress.com/royal-flying-corps-at-shenley/] for history and pictures of the aerodrom.\nApparently, Jesse was housed in Radlett [G|Radlett]. \nNote the use of [|\"bally\"|https://en.wiktionary.org/wiki/bally], a somewhat classier version of \"bloody\"",
+  "text":"Dec 21 Friday - Orders came to go to 74 T.S. at London-Colney [G|London Colney Airfield]. Left Thetford at 2:30 [xxx?] London. Could hardly find anyone who had heard of the bally place at London but finally found a taxi driver who had heard of it. Finally arrived here at 7:30. It is an out of the way place between Radlett and St. Auberns [St. Albans]",
+	"notes":"The new aerodrome was just south of London-Colney at [|Shenlybury|https://en.wikipedia.org/wiki/Shenley,_Hertfordshire]. And see [|https://shenleyww1.wordpress.com/royal-flying-corps-at-shenley/] for history and pictures of the aerodrome.\nApparently, Jesse was housed in Radlett [G|Radlett]. \nNote the use of [|\"bally\"|https://en.wiktionary.org/wiki/bally], a somewhat classier version of \"bloody\"",
 	"jtag":"p024"
 },
 {
@@ -669,7 +669,7 @@
 	"vtag":"HotelCecil",
 	"loctext":"London",
   "text":"July 29 - Wicks and myself started overseas. Reported to Hotel Cecil and received orders.",
-	"notes":"[|Hotel Cecil, London|https://en.wikipedia.org/wiki/Hotel_Cecil_(London)]",
+	"notes":"[|Hotel Cecil, London|https://en.wikipedia.org/wiki/Hotel_Cecil_(London)] - This was the first home office of the Royal Air Force. (Jesse probably stayed the night elsewhere)",
 	"jtag":"p031"
 },
 {
@@ -786,7 +786,7 @@
 	"date":"1918-08-23",
 	"vtag":"AuxiLeChateau",
 	"loctext":"Auxi-Le-Château",
-  "text":"Aug 23. Another push today. In the morning we shot up and dropped bombs on tropps and transports along the Bapaumme-Albert road. Machine gun fire from the ground was fierce and nearly every one was shot up badly when we got back. I got two in my engine and Wicks had his pressure pump shot off. Morton Campbell was shot down about 5 miles in Hun land.",
+  "text":"Aug 23. Another push today. In the morning we shot up and dropped bombs on troops and transports along the Bapaumme-Albert road. Machine gun fire from the ground was fierce and nearly every one was shot up badly when we got back. I got two in my engine and Wicks had his pressure pump shot off. Morton Campbell was shot down about 5 miles in Hun land.",
 	"notes":"See Bombing Report 2 [IA|H17p99]\nMorton Campbell was not related to Jesse. Clapp writes of later finding Morton's battefield burial after the Allies pushed the German's back...\nand when the Boche had gone back beyond Thiepval and Contalmaison we found his grave. He had landed, upside down, in that broad belt of shell-torn country where there is not a yard not shattered by heavy explosive. His grave was a low soft mound beside his crashed machine. On it, the usual inverted bottle, stuck in the mud, contained an envelope, blood-soaked and bearing his name. We made a cross of a broken four-bladed 'prop' of fine mahogany that we got from salvage, and engraved a nameplate on a copper disk. We took it up past wrecked villages and then more wrecked villages, into the old No Man's Land of some of the fiercest battles of the war. At the head of his grave without ceremony we set it up. He lies there, one of our stoutest, by a file of tree trunks smashed and stripped and grotesquely rigid against the sun, under a little slope of ground rising toward the east that has been blasted into dust by months of artillery fire. [IA|H17p39]",
 	"jtag":"p035"
 },
