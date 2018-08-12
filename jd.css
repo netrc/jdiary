@@ -27,7 +27,7 @@
 }
 #mapDiv {
 	position: fixed;
-	height: 500;
+	height: 100%;
 	width: 700;
 }
 
