@@ -27,8 +27,8 @@
 }
 #mapDiv {
 	position: fixed;
-	height: 500;
-	width: 700;
+	height: 100%;
+	width: 100%;
 }
 
 body {
