@@ -431,4 +431,35 @@ see OneNote
 
 ## Other
 
+### US Signal Corps
+* https://en.wikipedia.org/wiki/Aviation_Section,_U.S._Signal_Corps
+
+### Camp Mills
+* https://en.wikipedia.org/wiki/Camp_Mills
+* https://nyheritage.org/collections/camp-mills-photographs
+* https://cdm16694.contentdm.oclc.org/digital/collection/p15281coll19/id/415/rec/26
+
+### Hoboken
+* https://en.wikipedia.org/wiki/New_York_Port_of_Embarkation
+* http://www.waymarking.com/waymarks/WMEN3J_Embarkation_and_Debarkation__Hoboken_NJ
+* https://commons.wikimedia.org/wiki/File:Disembarking_at_Hoboken_piers_WW_I.png
+* https://i.pinimg.com/originals/94/e9/6a/94e96aa34402de336839f0de832f06dc.jpg
+
+### RMS Carmania 
+* http://www.searlecanada.org/volturno/volturno62.html
+* postcard image – http://mfo.me.uk/showmedia.php?mediaID=2258
+* https://commons.wikimedia.org/wiki/Category:Carmania_(ship,_1905)
+* Youtube - https://www.youtube.com/watch?v=tBxy8Oj-Ixs
+
+### Albert Spalding
+* https://en.wikipedia.org/wiki/Albert_Spalding_(violinist)
+* http://www.theviolinsite.com/violin_mastery/albert_spalding.html
+* https://www.discogs.com/artist/2599993-Albert-Spalding
+* e.g. https://www.youtube.com/watch?v=W_oCTVAttkY
+
+### London-Colney
+* http://www.abct.org.uk/airfields/airfield-finder/london-colney
+* https://shenleyww1.wordpress.com/royal-flying-corps-at-shenley/
+
+ 
 
