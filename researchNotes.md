@@ -8,7 +8,7 @@
 ** War Birds
 ** Biggles
 ** Parr-Hooper
-* Airfields
+* [Airfields](#airfields)
 * Other
 
 
@@ -424,6 +424,7 @@ PHL-1917-09-21 - Our ship proceeded on past the city and anchored in the large i
   We got up the next morning at 4:45 and by 6 o'clock had breakfasted, cleaned up barracks and kitchen, rolled our blankets, packed suit cases, etc. We marched to Garden City and took train to Long Island City (which is north Brooklyn on the East River). There we boarded a tug and steamed down the East River, under the bridges and p the Hudson to the Cunard piers. ... We stayed on the pier for a while and then went aboard about 1030. We left dock at 12 noon.
 
 
+<a name="airfields"></a>
 ## Airfields
 see OneNote
 
