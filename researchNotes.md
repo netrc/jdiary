@@ -576,6 +576,9 @@ http://www.anciens-aerodromes.com/AtlasDGACOct16/html/pages_cartes/map_A078.htm
 * https://www.discogs.com/artist/2599993-Albert-Spalding
 * e.g. https://www.youtube.com/watch?v=W_oCTVAttkY
 
+### Fiorello LaGuardia
+* http://www.historynet.com/world-war-i-american-caproni-pilots-in-italy.htm
+
 ### London-Colney
 * http://www.abct.org.uk/airfields/airfield-finder/london-colney
 * https://shenleyww1.wordpress.com/royal-flying-corps-at-shenley/
