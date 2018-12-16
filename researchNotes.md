@@ -1,17 +1,19 @@
 
 # Research notes
 
-* JFC Diary
-* Books
-** Clapp
-** USAS
-** War Birds
-** Biggles
-** Parr-Hooper
+* [JFC Diary](#jdiary)
+* [Books](#books)
+** [Clapp](#clapp)
+** [USAS](#usas)
+** [War Birds](#warbirds)
+** [Biggles](#biggles)
+** [Parr-Hooper](#parrhooper)
+* [Aircraft](#aircraft)
 * [Airfields](#airfields)
-* Other
+* [Other](#other)
 
 
+<a name="jdiary"></a>
 ## jdiary 
 
 Dates
@@ -25,11 +27,19 @@ Dates
   *    1918-09-22 - see clapp
   *    1918-11-20 - Took my first flip in a Spad.
 
+<a name="books"></a>
 ## Books
 
+<a name="clapp"></a>
 ### H17 - Frederick M. Clapp, A History of the 17th Aero Squadron
 
 Clapp, copyright 1920
+  July 15 – Oct 28 1918
+  Stats p. 147
+  Month by Month; totals p 152
+  Aircraft stats – p.153
+  (includes stat for # rounds fired before shooting prop)
+  Personnel p156
 
 H17p3 - Wells is essentially co-author of chap 1
     "The material contained in this chapter is due to the kindness of Lieut. David T. Wells, from whose first sketch of it the general sequence of the narrative and some of the wording have been retained".
@@ -235,56 +245,45 @@ H17p53 - to Toul
 #### Bombing and Combat Reports
 
 From Petite-Synth Aug 1 to Aug 16
-1918-08-07     H17p59,  mentioned in CR 8, Armentieres
-1918-08-14     H17p65 CR 15, confirmation for Wicks  -– SW of Bruges
+  1918-08-07     H17p59,  mentioned in CR 8, Armentieres
+  1918-08-14     H17p65 CR 15, confirmation for Wicks  -– SW of Bruges
 
 From Auxi-Le-Chateau Aug 17 to Sep 20
-1918-08-21     H17p69 CR 22, confirmation for Ham, Todd –
-1918-08-23     H17p99, BR 2 Campbell (D.6513) Martinpuich-Le Barque Road  (to Baupaume)
-1918-08-24  *k H17p73 CR 28, Ham & Campbell (D. 6513) – 1 kite balloon destroyed –East of Baupaume
-1918-08-24     H17p103, BR 5, Campbell (D.6513) ?
+  1918-08-21     H17p69 CR 22, confirmation for Ham, Todd –
+  1918-08-23     H17p99, BR 2 Campbell (D.6513) Martinpuich-Le Barque Road  (to Baupaume)
+  1918-08-24  *k H17p73 CR 28, Ham & Campbell (D. 6513) – 1 kite balloon destroyed –East of Baupaume
+  1918-08-24     H17p103, BR 5, Campbell (D.6513) ?
 
 From Soncampe  Sep 21 to Sep 30
-1918-09-22     H17p83 CR 42, Clements & Campbell – Indecisive – Over Inchy
-1918-09-24  *F H17p85 CR 46 Campbell (F.2146), - 1 fokker 
-1918-09-27  *F H17p89 CR 53 Campbell (F.2146) – 1 fokker
-1918-09-27     H17p108, BR 11 Campbell (F.2416) Bourlon Wood
-1918-09-27     H17p110, BR 12 Campbell (F.2416) Canal de Lescaut at Marcoing
-1918-09-28     H17p112, BR 14 Campbell (F.2146) Awoingt, Cambrai
-1918-09-29     H17p116, BR 15 Campbell (F.2146) Cambrai
-1918-09-29     H17p116, BR 16 Campbell (F.2146) Honnecourt…
-1918-10-01     H17p121, BR 17 Campbell (F.2146) Awoingt
-1918-10-01     H17p123, BR 18 Campbell (F.2146) Awoingt
-1918-10-02     H17p124, BR 19 Campbell (F5993) Awoingt
-1918-10-02     H17p125, BR 20 Campbell (F.5993) Awoingt
-1918-10-03     H17p128, BR 22, Campbell (F.2146) Caudry
-1918-10-04     H17p129, BR 23, Campbell (F.2146) Caudry
-1918-10-05     H17p132, BR 25, Campbell (F.2146) Awoingt
-1918-10-07     H17p135, BR 27, Campbell (F.2146) Awoingt
-1918-10-08     H17p137, BR 28, Campbell (F.5993) East of Cambrai  (Four bombs dropped on two lorries on road… 300 rounds fired on them before dropping bombs…)
-1918-10-08     H17p139, BR 29, Campbell (F.2146) Returned Early With Engine Trouble
-1918-10-09     H17p141, BR 30, Campbell (F.2146) R.R north of Awoingt
-1918-10-09     H17p142, BR 31 Campbell (F.2146) Rieux R.R sidings
-1918-10-14     H17p143, BR 32 Campbell (F.2146) Bazuel
-1918-10-14     H17p144, BR 33, Campbell (F.2146) Shot up transport on Verchain road; 200 rounds fired into the villages of Monchaux and Querenaing
+  1918-09-22     H17p83 CR 42, Clements & Campbell – Indecisive – Over Inchy
+  1918-09-24  *F H17p85 CR 46 Campbell (F.2146), - 1 fokker 
+  1918-09-27  *F H17p89 CR 53 Campbell (F.2146) – 1 fokker
+  1918-09-27     H17p108, BR 11 Campbell (F.2416) Bourlon Wood
+  1918-09-27     H17p110, BR 12 Campbell (F.2416) Canal de Lescaut at Marcoing
+  1918-09-28     H17p112, BR 14 Campbell (F.2146) Awoingt, Cambrai
+  1918-09-29     H17p116, BR 15 Campbell (F.2146) Cambrai
+  1918-09-29     H17p116, BR 16 Campbell (F.2146) Honnecourt…
+  1918-10-01     H17p121, BR 17 Campbell (F.2146) Awoingt
+  1918-10-01     H17p123, BR 18 Campbell (F.2146) Awoingt
+  1918-10-02     H17p124, BR 19 Campbell (F5993) Awoingt
+  1918-10-02     H17p125, BR 20 Campbell (F.5993) Awoingt
+  1918-10-03     H17p128, BR 22, Campbell (F.2146) Caudry
+  1918-10-04     H17p129, BR 23, Campbell (F.2146) Caudry
+  1918-10-05     H17p132, BR 25, Campbell (F.2146) Awoingt
+  1918-10-07     H17p135, BR 27, Campbell (F.2146) Awoingt
+  1918-10-08     H17p137, BR 28, Campbell (F.5993) East of Cambrai  (Four bombs dropped on two lorries on road… 300 rounds fired on them before dropping bombs…)
+  1918-10-08     H17p139, BR 29, Campbell (F.2146) Returned Early With Engine Trouble
+  1918-10-09     H17p141, BR 30, Campbell (F.2146) R.R north of Awoingt
+  1918-10-09     H17p142, BR 31 Campbell (F.2146) Rieux R.R sidings
+  1918-10-14     H17p143, BR 32 Campbell (F.2146) Bazuel
+  1918-10-14     H17p144, BR 33, Campbell (F.2146) Shot up transport on Verchain road; 200 rounds fired into the villages of Monchaux and Querenaing
 
 Toul - Nov 1 ....
-
-July 15 – Oct 28 1918
-Stats p. 147
-Month by Month; totals p 152
-Aircraft stats – p.153
-(includes stat for # rounds fired before shooting prop)
-
-Personnel p156
-
-Aug 1 – 1st Lt JFC assigned as pilots
-
-Sopwith F.2146
-Sopwith F.5993
-Sopwith D.6513
+  nothing
 
 
+
+<a name="usas"></a>
 ### USAS 
 
 USAS index p443 - "17th Pursuit" 44-46, 85, 103, 302, 325-39, 341-44, 352
@@ -303,6 +302,7 @@ USASp87 - In the summer of 1917, 500 pilots were to b trained in Italy. ... Trai
 
 USASp119 - The training of cadets commenced on Sept 4 1917 with the arrival of a detachment of 53 cadets and one officer at the British School of Military Aeronautics at Oxford.
 
+<a name="warbirds"></a>
 ### War Birds
 
 subtitle is "Diary of an Unknown Aviator". The book is apparently
@@ -389,6 +389,7 @@ WBp168 - Archie has a funny sound. A burst near you sounds like a loud cough and
 WBp169 - The Huns use shrapnel which bursts black and the Allies use high explosive which bursts white.
 
 
+<a name="biggles"></a>
 ### The Camels Are Coming, Cpt W.E. Johns
 
 First published in Great britain by John Hamilton, London 1932
@@ -405,6 +406,7 @@ CACp48 Biggles had found a Hanoverana* and shot it down in flames (footnote *) G
 Also see https://www.amazon.com/Jove-Biggles-Captain-W-Johns/dp/0491027753
 
 
+<a name="parrhooper"></a>
 ### Parr Hooper - Letters
 
 See http://parr-hooper.cmsmcq.com/w2016/index.xhtml 
@@ -424,12 +426,128 @@ PHL-1917-09-21 - Our ship proceeded on past the city and anchored in the large i
   We got up the next morning at 4:45 and by 6 o'clock had breakfasted, cleaned up barracks and kitchen, rolled our blankets, packed suit cases, etc. We marched to Garden City and took train to Long Island City (which is north Brooklyn on the East River). There we boarded a tug and steamed down the East River, under the bridges and p the Hudson to the Cunard piers. ... We stayed on the pier for a while and then went aboard about 1030. We left dock at 12 noon.
 
 
+<a name="aircraft"></a>
+## Aircraft
+
+### Thetford
+Morris Farmun Shorthorn pusher - first solo
+
+### London-Colney
+Avros
+
+Graduated on Sopwith Pups
+
+### Maersk
+? Avros? S.E. ?
+
+### Dover
+Sopwith Camels
+
+
+###France
+* Sopwith F.2146
+* Sopwith F.5993
+* Sopwith D.6513
+
 <a name="airfields"></a>
 ## Airfields
+
+### Brasenose, Oxford
+
+### Queens College, Oxford
+
+### Grantham
+
+### Thetford
+
+### London-Colney
+
+### ?
+
+### Dover
+
 see OneNote
 
+### Petit-Synth,   Pas-de-Calais
+JFC:
+
+Clapp: "sent to a field at Petite Synthe, near Dunkirk"  (the road from Dunkirk, through St. Omer, Fruges, and Hesdin")
+P17 bottom "The field at Petite Synthe, near Dunkirk, lies in a rough triangle between the main railway line from Dunkirk to Calais, the by-road running from Petite Synth to Pont de Petite Synthe on the Bourboug Canal, and the sidings of the railway on which hospital trains waiting for sudden calls from this or that part of the front. This was one of the oldest aerodromes in French Flanders and belonged, in the beginning, to the Royal Naval Air Service.
+
+"The by-road crosses the field on its southwestern side."
+The land round about is flat and often, in the morning and evening, full of ground mist. P18
+
+Cdrivers: …the field lying in a rough triangle of land bounded by the canal, the main railroad running from Dunkirk to Calais, and a patch of railway sidings." p22
+
+Ancient Aerodromes:  http://www.anciens-aerodromes.com/?p=23292
+51°0'34.43"N / 2°21'12.21"E
+On Avenue du Benelux/de la Gironde
+
+https://goo.gl/maps/rj2YyYntnQ62
+
+// decent collection of huts, offices, mess
+http://www.49squadron.co.uk/airfields/af1_psynthe
+http://hispasec.free.fr/?p=guerres
 
 
+
+### Auxi-le-Chateau, Pas-de-Calais
+JFC:
+
+Clapp: "On August 18th we were ordered to move to Auxi-le-Cha^teau. 
+"It lay on rising ground, to the southeast of the town, on the old Auxi-le-Chateau-Crecy road."   p.37
+!!! Auxi-Crecy road is West of the town;  Crecy is West.
+
+Cdriver: The new base was on rising ground to the southwest of Auxi-le-Chateau along a road lrading to Crecy" p65
+(correct, SW)
+
+AncientAerodrome:  http://www.anciens-aerodromes.com/?p=22653
+  50°13'26.64''N / 2°4'35.38''E
+  
+https://www.google.com/maps/place/50°13'26.6"N+2°04'35.4"E/@50.2214173,2.0817698,1983m
+
+### Beugnatre, Pas-de-Calais
+
+JFC - 1918-09-14 - "Lately we started work on wireless interupption. Had a few calls but didn't see any huns."
+
+H17p43: "While we were operating from the Auxi Aerodrome…the line moved east rapidly and it was necessary for us to establish at Beugnatre, near Bapaume, an advanced landing ground from which we took up wireless interception and devoted ourselves to attacking enemy two-seaters… The site was that of an old British aerodrome. … We kept a flight of machines there, from sawn to dusk, from September 10th to September 20th. The men and officers who went up to Beugnatre on special duty came back to camp with a most marvelous collection of souvenirs"
+Cp92: "enemy observation planes…flew along radioing running reports via a telegraph key and trailing wire antenna…  [too far to intercept from Auxi]… problem could be solved by establishing lightly-manned forward landing areaass equippe with radio which would receive reports from numerous sources and steer attackers to the enemy accordingly. Flights would man the station in rotation.
+
+AncientAerodrome: http://www.anciens-aerodromes.com/?p=22730
+  50° 7' 17.94''N / 2° 52' 4.2''E
+
+
+### Soncamp, Pas-de-Calais
+JFC:
+
+Clapp: "On September 20th we were ordered to proceed to Soncamp aerodrome, near Doullens". "Soncamp aerodrome is not far from the little town of Sombrin that lies rather scattered and nondescript -- a typical French farming village - on the road from Grand Rullecourt to Frevent. [The Aerodrome] occupies … the north side of a farm the house of which, enclosed in a large gray stone wall, sugggests some relic of a small convent -- and impression that the high archway into the great square farmyeard strengthens." p45
+
+"The mud in this camp is omnipresent and thick" p45
+
+Cdriver: p97 Soncamp aerodrome was on an ancient farm close by the village of Sombrin, a scattered and nondescript settlement on the road from Grand Rullecourt to Saulty. "
+// living in tents
+
+Ancient Aerodrome: http://www.anciens-aerodromes.com/?p=23624
+50°13'48.29''N/2°29'45.28''E
+
+Just south of Sombrin and  just north of a farmhouse as described; doesn't seem to be on the GR-Frevent road.
+
+### Toul, Meurthe-et-Moselle
+JFC:
+
+Clapp:"On November 1st we entrained at the railhead at Saulty… to Candas, and thence , via Chateau Thierry and Chalons, to Toul"
+Assigned to 4th Pursuit Group, uner Mj Charles Biddle, offucpied French Cavalry barracks (Casernement deGoncourt) at Toul aerodrome, on the north side of the city."  p. 53
+
+Cdrivers - p120 Toul was the headquarters for the US 2nd Army and one of the major aerodromes for the American Expeditionary Forces. Located two miles west of the city from which it took its name"
+!!!!!!!!!!! Different location !  Must be 2m east of town??  
+
+(There is an airfield/military base at Ochey about 3 miles south)
+
+Ancient Aerodromes: http://www.anciens-aerodromes.com/?p=24801
+http://www.anciens-aerodromes.com/AtlasDGACOct16/html/pages_cartes/map_A078.htm
+
+
+<a name="other"></a>
 ## Other
 
 ### US Signal Corps
