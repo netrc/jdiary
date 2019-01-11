@@ -19,9 +19,24 @@ just some temp notes on slides to add to Google slide presentation
 ## most dangerous part of the trip / irish sea / statistics of U-boats?
 ## Liverpool 1917  - Training in england
 ## Oxford Braesnose
-## Oct 4 quote - Queens College - Ground School
+## Oct 4 quote - Queens College 4th floor / - Ground School
 ## // US vs EU planes, training 
 ## baseball / 
 ## unifmorm / English men quote / Sam brown jacket/belt
 ## member of lafayete escadrille in - US in French squad...
 ## Oct 19 quote " little taste of zeppelin raids"
+a village 12 miles east ??
+## Gothas
+## Raids
+## went out to Cox's for dinner - ?? 
+## moved to Exeter College; third floor
+## all the american cadets are together again
+... Oxford Detachement notes
+## .
+## .
+## .
+## General Notes on England
+### liverpool
+### Oxford - Ground School
+### Grantham - Machine Gun School
+### etc
