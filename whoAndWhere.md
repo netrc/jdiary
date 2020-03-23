@@ -26,7 +26,7 @@
 <tr> <td> Fellis </td> <td> [D|1918-01-08] "burned" [dead] </td> </tr>
 <tr> <td> Forester </td> <td> [D|1918-06-19] </td> </tr>
 <tr> <td> Fowler, Major </td> <td> [D|1918-10-09] </td> </tr>
-<tr> <td> Frost, </td> <td> [D|1918-08-27]  [they got him], 1918-10-07  "prisoner" </td> </tr>
+<tr> <td> Frost, </td> <td> [D|1918-08-27]  [they got him], [D|1918-10-07]  "prisoner" </td> </tr>
 <tr> <td> Fry, Clarence </td> <td> [D|1918-05-04], "killed today" </td> </tr>
 <tr> <td> Garden, Mary </td> <td> [D|1917-12-19], See Bower </td> </tr>
 <tr> <td> Hamilton </td> <td> [D|1918-08-14], [D|1918-08-21], [D|1918-08-24] "they got Ham" </td> </tr>
